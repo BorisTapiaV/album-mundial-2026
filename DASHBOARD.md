@@ -1,0 +1,174 @@
+# Álbum Mundial 2026 — Dashboard
+
+<!-- Ala personal Boris. Sistema tipo Profiler: medir, cuantificar, seguir.
+     Objetivo: completar el álbum Panini FIFA World Cup 2026 (último Mundial de Cristiano Ronaldo)
+     de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
+
+**Colección:** Panini — FIFA World Cup 2026 (edición Chile)
+**Última actualización:** 2026-06-05 (126/980 marcadas — sesión dictado + orden/páginas del álbum verificadas)
+
+---
+
+## 📊 KPIs
+
+| Métrica | Valor | Fuente |
+|---------|------:|--------|
+| Total de láminas del álbum (N) | **980** | DR ✅ |
+| Tengo/pegadas (T) | **126** | dictado 2026-06-05 |
+| **% completado** (T/N) | **12,9%** | calculado |
+| Faltan (N−T) | **854** | calculado |
+| Repetidas (n°) | **8** (8 distintas) | dictado ▶️ |
+| Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
+| Costo hundido (gastado) | `$— CLP` | registro compras |
+| Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
+| Costo cerrar — mixto (canje+faltantes) | **$158.000–$330.000** | DR |
+| **Punto de cruce (sobres→faltantes)** | **~80-85%** | modelo |
+| Valor reventa estrellas | ver abajo | DR ✅ |
+
+---
+
+## 🔢 Datos del DR (ficha verificada — edición Chile)
+
+| Dato | Valor | Estado |
+|------|------:|--------|
+| Marca / colección | Panini FIFA World Cup 2026 | ✅ |
+| Total láminas | **980** (112 páginas) | ✅ |
+| Estructura por equipo | 48 selecciones × 20 (18 jugadores + foto + escudo) | ✅ |
+| Especiales | 68 especiales + 12 exclusivas Coca-Cola + **14 fuera de sobres** | ✅ |
+| Láminas por sobre | **7** (subió de 5) | ✅ |
+| Precio sobre suelto | **$1.100** | ✅ |
+| Caja 50 sobres | **$55.000** (~$1.100 c/u) | ✅ |
+| Álbum tapa blanda | **$3.900** (o pack + 50 sobres $58.900) | ✅ |
+| Servicio faltantes oficial | tiendapanini.cl — hasta **30 láminas exactas/pedido** | ✅ |
+| Precio por lámina faltante (unitario) | `—` NO publicado | ⏳ confirmar en tiendapanini.cl |
+| Reventa Cristiano (normal) | ~$40 USD tope / especiales >$700 USD | ✅ |
+
+---
+
+## 🔡 Numeración del álbum (verificada 2026-06-03)
+
+> Fuentes: diamondcardsonline + checklistinsider (coinciden). El **código impreso en cada lámina manda** — verificar la lista de equipos al leer las fotos reales.
+
+**El álbum NO se numera 1→980 corrido. Cada lámina trae un código:**
+- **`00`** — logo Panini (foil)
+- **`FWC1`–`FWC19`** — 19 especiales foil (emblema, mascota, historia de Mundiales)
+- **48 selecciones × 20** con código de país: `ALG1-20`, `ARG1-20`, … `POR1-20`, … `UZB1-20`
+  - Dentro de cada equipo: **slot 1 = escudo (foil)** · **slot 13 = foto equipo** · resto = 18 jugadores
+- **Cristiano Ronaldo = `POR15`** ✅ (confirmado por 2 fuentes)
+- **Total 980** = 1 (`00`) + 19 (`FWC`) + 960 (48×20). Todas salen en sobres.
+- **Set Coca-Cola (~12)** = promo APARTE, **fuera de las 980** (canal Coca-Cola).
+
+⚠️ **Corrección:** la "ficha verificada" inicial decía "26 exclusivas dentro del álbum (14 fuera de sobres + 12 Coca-Cola)" — impreciso. El modelo correcto: las 980 son todas obtenibles en sobres (incluidos los 19 foil `FWC`); solo el set Coca-Cola queda fuera. ⚠️ También: el PDF del Panini Store oficial estaba mal etiquetado (era FIFA 365 Adrenalyn XL 2025, cartas de clubes — descartado).
+
+---
+
+## 📖 Orden y páginas del álbum (VERIFICADO 2026-06-05)
+
+> Detalle completo en `ALBUM_ORDEN.md`. Columnas `orden_album` (1-48) + `pagina` ya en `registro_maestro.csv`.
+
+- El álbum **NO es alfabético** → va por **grupo del Mundial** (12 grupos × 4), anfitriones primero. Fuente: checklistinsider + dato físico de Boris.
+- **2 páginas por equipo.** México (#1) arranca en **pág 8**.
+  - Equipos #1-24 (México→Túnez): página inicio = `8 + (n−1)×2`
+  - **Inserto de especiales en págs 56-57** (entre Túnez #24 y Bélgica #25)
+  - Equipos #25-48 (Bélgica→Panamá): página inicio = `58 + (n−25)×2`. Panamá (#48) = págs 104-105.
+- **Especiales FWC NO van todas juntas:** bloque inicio (págs 1-7, `00`+`FWC1-8` emblema+anfitriones) + inserto (56-57) + cierre (págs 106-112, `FWC9-19` FIFA Museum). **Mapear páginas exactas de FWC pendiente.**
+- 🇵🇹 **Portugal (Cristiano, POR15) = págs 90-91** (equipo #41, grupo K). Aún 0/20.
+
+---
+
+## ⚠️ Pendiente abierto — "scomar" (4 cartas huérfanas)
+
+En una sesión previa Boris dictó **"scomar 4, 6, 9, 20"** y **las pegó** antes de mapearlas. "scomar" no es código válido. **NO es Marruecos ni Costa de Marfil** (ambos confirmados en 0 láminas pegadas). → 4 cartas pegadas en un equipo desconocido, fuera del registro (el conteo real es +4 sobre los 126).
+**Resolución esperada:** cuando Boris llegue a un equipo y encuentre los slots 4/6/9/20 ya pegados → ese es. Mapear ahí. (O si recuerda confederación/camiseta, búsqueda dirigida.)
+
+---
+
+## 🧮 Modelo de decisión (coupon collector)
+
+**Regla dura:** sobres hasta ~**80-85%**, luego **faltantes exactos** + **canje de repetidas**.
+
+- 980 únicas. Sin canje, completar solo con sobres ≈ **inviable** (esperanza matemática ~1.000+ sobres).
+- Con canje activo, el promedio real es **~400 sobres ≈ $440.000**.
+- Las **26 láminas exclusivas** (14 fuera de sobres + 12 Coca-Cola) **NO salen en sobres** → canal aparte (botellas Coca-Cola, promos retail). Planificar desde ya.
+- **Punto de cruce:** cuando el costo marginal de una lámina nueva vía sobre supera el precio del faltante unitario → ahí se corta y se pide a tiendapanini.cl (tope 30/pedido, se repite).
+
+---
+
+## 🤝 Estrategia de cierre (canje)
+
+**Regla de oro:** en la recta final, **canje 1:1 de commons primero, faltante pagado después.** El canje 1:1 es gratis; tiendapanini.cl cobra por unidad.
+
+1. **Commons (base):** se canjean **1 repetida por 1 faltante**. Funciona porque las base valen casi lo mismo y la oferta es pareja → es pura matemática de "yo tengo lo que tú no". Las repetidas apartadas = la moneda de canje. Agotar este canal **antes** de pagar nada.
+2. **El 1:1 SOLO aplica dentro del mismo tier.** Una estrella o escudo foil NO se cambia 1:1 por una common → piden 2-3 commons u otra estrella. Las exclusivas (Coca-Cola / chase) casi no entran al circuito de canje → se compran o se pagan caras.
+3. **Dos tipos de hueco en el endgame:**
+   - **Commons que faltan** → cerrar con canje 1:1 (barato, tranquilo).
+   - **Estrellas/foil/exclusivas que faltan** → no cierran 1:1; faltante oficial, varias commons, o compra suelta.
+4. **Orden óptimo de cierre:** (a) agotar canje 1:1 de commons → (b) pedir a tiendapanini.cl solo lo que no se consiga canjeando (tope 30/pedido) → (c) estrellas/exclusivas, estrategia aparte desde ya.
+
+---
+
+## ⭐ Valoración por tiers (DR Gemini 2026-06-01)
+
+> ⚠️ Separar **valor verificado en Chile** vs **especulativo/internacional** (el DR infla la prosa).
+
+### 🔴 TIER 1 — Exclusivas (NO salen en sobres)
+- **Set Coca-Cola "Team Believers" = C1–C14** (14 láminas, no 26). Se obtienen comprando Coca-Cola Zero (2 + $500 copago) o six-pack en micoca-cola.cl. Floor reventa **~$2.600–5.000 c/u**.
+  - Conocidas: **C1 Lamine Yamal** (España) · **C2 Lautaro Martínez** (Arg) · **C3 Fede Valverde** (Uru). C4–C14 por confirmar.
+- **Extra Stickers** (Bronce/Plata/Oro) — chase cards NO numeradas, fuera del álbum, ratio ~1/50–100 sobres. Cristiano tiene. Valor alto y volátil.
+
+### 🟠 TIER 2 — Especiales / foil (~68)
+- Escudos foil de 48 federaciones + institucionales INT-1 a INT-20 (trofeo, logos, mascota).
+- Escudos potencias (BRA/ARG/CHI/FRA): **$2.000–5.000** c/u. Periféricos, menos.
+- Outlier: **Fede Valverde dorada $35.000** (1 listing ML — tomar con pinzas).
+
+### 🟡 TIER 3 — Estrellas estándar
+- **🇵🇹 Cristiano Ronaldo = Portugal #15** ✅ CONFIRMADO (ML MLC69731494). Base normal pero retención ~100% → escaso en la calle, se vende en toploader.
+- Messi (ARG), Mbappé (FRA), Haaland (NOR), Bellingham (ING), Vinícius (BRA): base, alta demanda, sin precio fijo (data gap real).
+
+### 💎 Las más caras (mayormente ESPECULATIVAS / importadas — NO líquidas en Chile)
+- CR **Gold Crumple Foil** (parallel importado): ~$400 USD ≈ **$360.000 CLP** — NO viene en sobres Latam.
+- Messi **case hits**: proyectado $180–200K. CR **Extra Sticker** bronce: premium variable.
+
+---
+
+## 📷 Registro de compras (para tasa de novedad)
+
+| Fecha | Sobres comprados | Láminas nuevas | Repetidas | $ gastado |
+|-------|-----------------:|---------------:|----------:|----------:|
+| | | | | |
+
+---
+
+## 🛰️ Sistema de seguimiento (híbrido Sheets + MD)
+
+**Principio:** el álbum (tapa dura) es **"solo escritura"** → se abre solo para pegar, nunca para consultar. La fuente de verdad es el **registro digital**. Así el álbum se manipula un puñado de veces en toda la colección = cero desgaste.
+
+- **Registro maestro vivo:** Google Sheets, importado desde `registro_maestro.csv` (980 láminas **con nombre de jugador**, columnas `codigo / equipo / slot / jugador_tipo / tier / estado / repetidas / notas`). Boris lo edita desde el teléfono. Estados: `falta` / `tengo` / `repetida`. Los nombres viven en `names.csv` y los inyecta `gen_registro.py` (que preserva el estado ya inventariado).
+- **Telemetría:** Claude extrae los KPIs del Sheets a este DASHBOARD cada sesión (% completado, faltan, repetidas).
+- **2 artefactos portátiles (teléfono, nunca el álbum):**
+  - **Lista de FALTANTES** (códigos en `falta`) → qué buscar en quiosco/feria/canje.
+  - **Lista de REPETIDAS** (`repetidas` > 0) → moneda de canje 1:1.
+
+**Flujo de registro (sin hojear):** Boris dicta los códigos impresos (`COL6`, `POR15`…) → Claude marca `tengo` (1ª copia) o `repetida +1` (duplicado) → al pegar, lote de una pasada por página/equipo → álbum al cajón. El código impreso autoidentifica cada lámina, así que el mazo puede estar revuelto.
+
+**Fórmulas Sheets sugeridas:** `=CONTAR.SI(F:F;"tengo")` (tengo) · `=CONTAR.SI(F:F;"falta")` (faltan) · `=CONTAR.SI(F:F;"tengo")/980` (% completado) · `=SUMA(G:G)` (total repetidas).
+
+---
+
+## 📁 Archivos
+
+- `INVESTIGACION_Y_SISTEMA.md` — **documentación canónica**: bitácora de investigación + arquitectura + formatos impresos + fuentes + caveats
+- `ALBUM_ORDEN.md` — **orden + páginas del álbum** (48 equipos por grupo, página por equipo, progreso) — VERIFICADO 2026-06-05
+- `registro_maestro.csv` — **registro maestro 980 láminas con nombres + ficha** (importar a Google Sheets = fuente de verdad). Columnas bio: `posicion / club / nacimiento / altura / peso / conf_bio`. Nuevas: `orden_album` (1-48) + `pagina` (rango por equipo)
+- `names.csv` — nombres jugador↔código (verificados 2026-06-03 por 8 agentes)
+- `bio.csv` — ficha por jugador (posición, club, nacimiento, altura, peso) — 864 con posición, 418 con peso; huecos en selecciones chicas (vacío > inventado)
+- `gen_registro.py` — generador del CSV (lee names.csv + bio.csv, preserva estado)
+- `gen_print.py` — genera **hojas imprimibles** desde el registro (`--todo` = las 4)
+- `checklist_por_equipo.html` — **hoja primaria** marcar a mano (código + nombre + casilla, ⭐ estrellas, ya-tengo relleno)
+- `indice_alfabetico.html` — búsqueda **por nombre → código** (para canje)
+- `faltantes.html` / `repetidas.html` — listas dinámicas (lista de caza / moneda de canje)
+- `CHECKLIST.md` — inventario por equipo (✅ tengo / ❌ falta / 🔁 repetida)
+- `fotos/` — fotos fuente
+- `crops/` — recortes de trabajo
+
+*Próximo paso: (1) Resolver "scomar" cuando aparezca (4 huérfanas). (2) Mapear páginas exactas de los especiales FWC (no van juntas). (3) Seguir dictando lotes. (4) Confirmar precio unitario faltante en tiendapanini.cl. (5) Importar `registro_maestro.csv` actualizado a Google Sheets.*
