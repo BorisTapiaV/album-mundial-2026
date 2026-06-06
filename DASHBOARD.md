@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-06 (181/980 marcadas — sesión dictado +55 láminas; hojas imprimibles refrescadas: ✓ impreso + página por equipo)
+**Última actualización:** 2026-06-06 (PM) — **225/980 (23,0%)** — sesión dictado +44 netas + verificación cruzada mazo-físico-vs-registro (rescató 6 falsos-faltantes; bug `gen_print.py` HAVE sin `repetida` corregido)
 
 ---
 
@@ -14,10 +14,10 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (T) | **181** | dictado 2026-06-06 |
-| **% completado** (T/N) | **18,5%** | calculado |
-| Faltan (N−T) | **799** | calculado |
-| Repetidas (n°) | **12** (12 distintas) | dictado ▶️ |
+| Tengo/pegadas (T) | **225** | dictado 2026-06-06 PM |
+| **% completado** (T/N) | **23,0%** | calculado |
+| Faltan (N−T) | **755** | calculado |
+| Repetidas (n°) | **20 cartas / 17 códigos** | dictado ▶️ |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
@@ -165,10 +165,20 @@ En una sesión previa Boris dictó **"scomar 4, 6, 9, 20"** y **las pegó** ante
 - `gen_registro.py` — generador del CSV (lee names.csv + bio.csv, preserva estado)
 - `gen_print.py` — genera **hojas imprimibles** desde el registro (`--todo` = las 4). **Fix 2026-06-05:** las marcadas usan **✓ impreso** (no fondo negro, que el navegador omitía al imprimir → se veían vacías en PDF) + `print-color-adjust: exact`. Encabezado de equipo y listas muestran la **página del álbum** (azul).
 - `checklist_por_equipo.html` — **hoja primaria** marcar a mano (código + nombre + casilla con ✓ las que tienes, ⭐ estrellas, **página por equipo**)
+- `lista_intercambio.html` — **hoja de intercambio/canje** (2026-06-06 PM). Formato plano del faltantes (código · nombre · equipo · **página como columna**), pero con **TODAS** las láminas: las que ya tengo salen **atenuadas (opacity 0.32) + check**; las que faltan se ven **idénticas a faltantes** (texto normal); `xN` = repetidas. De un vistazo: qué me falta + qué me sobra. ⚠️ Las que faltan NO se reestilizan (no negrita/no caja negra) — fue el bug que Boris rechazó 2 veces.
 - `indice_alfabetico.html` — búsqueda **por nombre → código** (para canje)
 - `faltantes.html` / `repetidas.html` — listas dinámicas (lista de caza / moneda de canje), cada línea con su **página**
 - `CHECKLIST.md` — inventario por equipo (✅ tengo / ❌ falta / 🔁 repetida)
 - `fotos/` — fotos fuente
 - `crops/` — recortes de trabajo
 
-*Próximo paso: (1) Resolver "scomar" cuando aparezca (4 huérfanas). (2) Mapear páginas exactas de los especiales FWC (no van juntas). (3) Seguir dictando lotes. (4) Confirmar precio unitario faltante en tiendapanini.cl. (5) Importar `registro_maestro.csv` actualizado a Google Sheets.*
+## 🔎 Lección S 2026-06-06 PM — verificación cruzada mazo-físico-vs-registro
+
+Boris maneja **2 mazos físicos**: el de pegar y el de repetidas (moneda de canje). Riesgo detectado: cartas de **primera copia** mal pasadas al mazo de repetidas → al mirar la página del álbum (vacía) se cree que "faltan", cuando en realidad están sueltas en el mazo equivocado (caso IRN15/IRN17). La verificación cruzada (leer el mazo físico de repetidas y compararlo contra el registro) rescató **6 falsos-faltantes**: AUS20 (pegada +2), IRN15, IRN17, SEN2, RSA2, PAN2.
+
+- **Regla anti-confusión:** una carta solo va al mazo de repetidas **si su slot ya está pegado en el álbum**. Slot vacío en álbum = primera copia → mazo de pegar.
+- **Bug corregido:** `gen_print.py` tenía `HAVE = {"tengo","pegada"}` sin `"repetida"` → subcontaba 6. Ahora incluye `repetida`.
+
+**Hoja nueva `lista_intercambio.html` (mismo PM):** pedido de Boris para el canje. Iteró 3 veces hasta el formato correcto. **Lección de diseño imprimible:** Boris quería el **formato plano del faltantes** (NO el agrupado por equipo con encabezados densos tipo checklist) + agregar las que ya tiene (atenuadas + check) + **columna de página SÍ**. El error repetido fue **reestilizar también las que faltan** (negrita + caja negra vía `.dim .row:not(.have)`) — Boris las quiere **idénticas a faltantes**, solo las que TIENE deben diferenciarse. Regla: en vistas "todas las láminas", atenuar solo el estado `have`, nunca tocar el render de las `falta`.
+
+*Próximo paso: (1) Resolver "scomar" cuando aparezca (4 huérfanas). (2) Mapear páginas exactas de los especiales FWC (no van juntas). (3) Repetir verificación cruzada mazo-vs-registro por equipo. (4) Seguir dictando lotes. (5) Confirmar precio unitario faltante en tiendapanini.cl. (6) Importar `registro_maestro.csv` actualizado a Google Sheets.*

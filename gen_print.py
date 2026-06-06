@@ -13,7 +13,10 @@ Hojas:
   1) checklist_por_equipo.html  HOJA PRIMARIA para marcar a mano. Ordenada como el
      album (00, FWC, 48 selecciones). Cada linea: [casilla] CODIGO  Nombre (estrellas ⭐).
      Las laminas que ya tienes (estado tengo/pegada) salen con la casilla rellena.
-  2) indice_alfabetico.html     Busqueda por NOMBRE -> codigo. Para canje: muchos
+  2) lista_intercambio.html     Lista plana (formato faltantes) de TODAS las laminas,
+     SIN paginas. Las que ya tengo salen atenuadas; las que faltan resaltan; xN = repetidas.
+     Para el intercambio de laminas: de un vistazo ves que te falta y que te sobra.
+  3) indice_alfabetico.html     Busqueda por NOMBRE -> codigo. Para canje: muchos
      aficionados dicen "tienes a Messi?" en vez de "tienes ARG17?".
   3) faltantes.html (--todo)    Solo lo que falta (lista de caza; util cerca del cierre).
   4) repetidas.html (--todo)    Repetidas>0 (moneda de canje 1:1).
@@ -25,7 +28,7 @@ import os
 import sys
 
 REG = "registro_maestro.csv"
-HAVE = {"tengo", "pegada"}
+HAVE = {"tengo", "pegada", "repetida"}
 
 CSS = """
 @page { size: A4; margin: 9mm; }
@@ -51,6 +54,8 @@ h1 { font-size: 15pt; margin: 0 0 1mm; }
 .team2 { font-size:7pt; color:#888; flex:0 0 auto; }
 .star { color:#b8860b; font-weight:bold; }
 .have .nm { color:#666; }
+/* Intercambio: las que faltan se ven IGUAL que en faltantes; solo las que tengo se atenuan */
+.dim .row.have { opacity:0.32; }
 @media print { .noprint { display:none; } }
 .noprint { background:#fffbe6; border:1px solid #e8d97a; padding:2mm 3mm; font-size:8pt; margin-bottom:4mm; }
 """
@@ -92,7 +97,9 @@ def code_abbr(codigo):
     return codigo[:i] or codigo
 
 
-def checklist_por_equipo(rows):
+def checklist_por_equipo(rows, title="Album Mundial 2026 — Checklist por equipo",
+                         sub="980 laminas. Marca lo que pegas. Sin marcar = te falta.",
+                         cols_class="cols3"):
     blocks, cur, cur_team = [], [], None
     for r in rows:
         if r["equipo"] != cur_team:
@@ -120,11 +127,7 @@ def checklist_por_equipo(rows):
             )
         lines.append("</div>")
         html.append("".join(lines))
-    return page(
-        "Album Mundial 2026 — Checklist por equipo",
-        "980 laminas. Marca lo que pegas. Sin marcar = te falta.",
-        "".join(html), "cols3",
-    )
+    return page(title, sub, "".join(html), cols_class)
 
 
 def is_player(r):
@@ -180,6 +183,31 @@ def _simple_list(rows, title, sub):
     return page(title, sub, "".join(lines), "cols3")
 
 
+def lista_intercambio(rows):
+    """Lista plana (formato faltantes) de TODAS las laminas, CON columna de pagina.
+    Las que ya tengo salen atenuadas y con check; las que faltan resaltan. Para canje."""
+    lines = []
+    for r in rows:
+        h = r["estado"] in HAVE
+        rep = r.get("repetidas", "0")
+        extra = f' <span class="team2">x{rep}</span>' if rep not in ("0", "") else ""
+        star = ' <span class="star">&#11088;</span>' if r["tier"] == "T3" else ""
+        pag = (r.get("pagina") or "").strip()
+        pag_html = f'<span class="pg">pag {esc(pag)}</span>' if pag else ""
+        cls = "row have" if h else "row"
+        lines.append(
+            f'<div class="{cls}">{box(h)}'
+            f'<span class="code">{esc(r["codigo"])}</span>'
+            f'<span class="nm">{esc(r["jugador_tipo"]) or "&mdash;"}{star}{extra}</span>'
+            f'<span class="team2">{esc(r["equipo"])}</span>{pag_html}</div>'
+        )
+    return page(
+        "Album Mundial 2026 — Lista de intercambio",
+        "Todas las laminas (orden alfabetico por equipo). Atenuadas con check = ya las tengo. "
+        "Resaltadas = me faltan. xN = repetidas (moneda de canje). pag = pagina del album.",
+        "".join(lines), "cols3 dim")
+
+
 def write(fname, html):
     with open(fname, "w", encoding="utf-8") as f:
         f.write(html)
@@ -189,6 +217,7 @@ def write(fname, html):
 def main():
     rows = load()
     write("checklist_por_equipo.html", checklist_por_equipo(rows))
+    write("lista_intercambio.html", lista_intercambio(rows))
     write("indice_alfabetico.html", indice_alfabetico(rows))
     if "--todo" in sys.argv:
         falt = [r for r in rows if r["estado"] == "falta"]
