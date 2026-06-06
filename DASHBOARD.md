@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-05 (126/980 marcadas — sesión dictado + orden/páginas del álbum verificadas)
+**Última actualización:** 2026-06-06 (181/980 marcadas — sesión dictado +55 láminas; hojas imprimibles refrescadas: ✓ impreso + página por equipo)
 
 ---
 
@@ -14,10 +14,10 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (T) | **126** | dictado 2026-06-05 |
-| **% completado** (T/N) | **12,9%** | calculado |
-| Faltan (N−T) | **854** | calculado |
-| Repetidas (n°) | **8** (8 distintas) | dictado ▶️ |
+| Tengo/pegadas (T) | **181** | dictado 2026-06-06 |
+| **% completado** (T/N) | **18,5%** | calculado |
+| Faltan (N−T) | **799** | calculado |
+| Repetidas (n°) | **12** (12 distintas) | dictado ▶️ |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
@@ -163,10 +163,10 @@ En una sesión previa Boris dictó **"scomar 4, 6, 9, 20"** y **las pegó** ante
 - `names.csv` — nombres jugador↔código (verificados 2026-06-03 por 8 agentes)
 - `bio.csv` — ficha por jugador (posición, club, nacimiento, altura, peso) — 864 con posición, 418 con peso; huecos en selecciones chicas (vacío > inventado)
 - `gen_registro.py` — generador del CSV (lee names.csv + bio.csv, preserva estado)
-- `gen_print.py` — genera **hojas imprimibles** desde el registro (`--todo` = las 4)
-- `checklist_por_equipo.html` — **hoja primaria** marcar a mano (código + nombre + casilla, ⭐ estrellas, ya-tengo relleno)
+- `gen_print.py` — genera **hojas imprimibles** desde el registro (`--todo` = las 4). **Fix 2026-06-05:** las marcadas usan **✓ impreso** (no fondo negro, que el navegador omitía al imprimir → se veían vacías en PDF) + `print-color-adjust: exact`. Encabezado de equipo y listas muestran la **página del álbum** (azul).
+- `checklist_por_equipo.html` — **hoja primaria** marcar a mano (código + nombre + casilla con ✓ las que tienes, ⭐ estrellas, **página por equipo**)
 - `indice_alfabetico.html` — búsqueda **por nombre → código** (para canje)
-- `faltantes.html` / `repetidas.html` — listas dinámicas (lista de caza / moneda de canje)
+- `faltantes.html` / `repetidas.html` — listas dinámicas (lista de caza / moneda de canje), cada línea con su **página**
 - `CHECKLIST.md` — inventario por equipo (✅ tengo / ❌ falta / 🔁 repetida)
 - `fotos/` — fotos fuente
 - `crops/` — recortes de trabajo

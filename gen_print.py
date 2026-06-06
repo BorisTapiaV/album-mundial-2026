@@ -30,6 +30,7 @@ HAVE = {"tengo", "pegada"}
 CSS = """
 @page { size: A4; margin: 9mm; }
 * { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 body { font-family: Arial, Helvetica, sans-serif; font-size: 8.4pt; color:#111; margin:0; }
 h1 { font-size: 15pt; margin: 0 0 1mm; }
 .sub { font-size: 8pt; color:#555; margin:0 0 3mm; }
@@ -39,20 +40,24 @@ h1 { font-size: 15pt; margin: 0 0 1mm; }
 .team { break-inside: avoid; margin-bottom: 2.5mm; }
 .team h2 { font-size: 9.5pt; margin: 0 0 0.8mm; padding:0 0 0.6mm; border-bottom:1.3px solid #111; }
 .team h2 .cnt { float:right; font-size:7.5pt; font-weight:normal; color:#777; }
+.team h2 .pag { font-size:7.5pt; font-weight:normal; color:#1565c0; margin-left:1.5mm; }
+.pg { font-size:6.8pt; color:#1565c0; flex:0 0 auto; }
 .row { display:flex; align-items:center; gap:1.4mm; padding:0.25mm 0; line-height:1.2; }
-.box { display:inline-block; width:3.1mm; height:3.1mm; border:1px solid #333; flex:0 0 auto; border-radius:0.5mm; }
-.box.on { background:#111; border-color:#111; }
+.box { display:inline-block; width:3.1mm; height:3.1mm; border:1px solid #333; flex:0 0 auto; border-radius:0.5mm; text-align:center; line-height:2.9mm; font-size:2.9mm; font-weight:bold; color:#111; }
+.box.on { border:1.3px solid #111; }
+.box.on::after { content:"\\2713"; }
 .code { font-weight:bold; width:13mm; flex:0 0 auto; }
 .nm { flex:1 1 auto; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .team2 { font-size:7pt; color:#888; flex:0 0 auto; }
 .star { color:#b8860b; font-weight:bold; }
-.have .nm { color:#888; }
+.have .nm { color:#666; }
 @media print { .noprint { display:none; } }
 .noprint { background:#fffbe6; border:1px solid #e8d97a; padding:2mm 3mm; font-size:8pt; margin-bottom:4mm; }
 """
 
 LEGEND = ('<div class="legend">Casilla &#9744; = marca a mano lo que pegas. '
-          'Casilla negra &#9632; = ya registrado. &#11088; = estrella (mejor moneda de canje). '
+          'Casilla con &#10003; = ya registrado (lo tienes). '
+          '&#11088; = estrella (mejor moneda de canje). '
           'El <b>codigo impreso en la lamina manda</b>.</div>')
 
 PRINT_HINT = ('<div class="noprint">Abre este archivo en el navegador y pulsa '
@@ -101,7 +106,9 @@ def checklist_por_equipo(rows):
     html = []
     for team, rs in blocks:
         have = sum(1 for r in rs if r["estado"] in HAVE)
-        lines = [f'<div class="team"><h2>{esc(team)}<span class="cnt">{have}/{len(rs)}</span></h2>']
+        pag = (rs[0].get("pagina") or "").strip()
+        pag_html = f'<span class="pag">pag {esc(pag)}</span>' if pag else ""
+        lines = [f'<div class="team"><h2>{esc(team)}{pag_html}<span class="cnt">{have}/{len(rs)}</span></h2>']
         for r in rs:
             h = r["estado"] in HAVE
             star = ' <span class="star">&#11088;</span>' if r["tier"] == "T3" else ""
@@ -162,11 +169,13 @@ def _simple_list(rows, title, sub):
         rep = r.get("repetidas", "0")
         extra = f' <span class="team2">x{rep}</span>' if rep not in ("0", "") else ""
         star = ' <span class="star">&#11088;</span>' if r["tier"] == "T3" else ""
+        pag = (r.get("pagina") or "").strip()
+        pag_html = f'<span class="pg">pag {esc(pag)}</span>' if pag else ""
         lines.append(
             f'<div class="row">{box(False)}'
             f'<span class="code">{esc(r["codigo"])}</span>'
             f'<span class="nm">{esc(r["jugador_tipo"]) or "&mdash;"}{star}{extra}</span>'
-            f'<span class="team2">{esc(r["equipo"])}</span></div>'
+            f'<span class="team2">{esc(r["equipo"])}</span>{pag_html}</div>'
         )
     return page(title, sub, "".join(lines), "cols3")
 

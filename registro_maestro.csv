@@ -19,7 +19,7 @@ FWC16,FWC Especiales,16,Brasil 2002 - FIFA Museum (foil),T2,falta,0,foil,,,,,,,0
 FWC17,FWC Especiales,17,Italia 2006 - FIFA Museum (foil),T2,tengo,0,foil,,,,,,,0,
 FWC18,FWC Especiales,18,Alemania 2014 - FIFA Museum (foil),T2,tengo,0,foil,,,,,,,0,
 FWC19,FWC Especiales,19,Argentina 2022 - FIFA Museum (foil),T2,falta,0,foil,,,,,,,0,
-ALG1,Argelia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,38,84-85
+ALG1,Argelia,1,Escudo (foil),T2,tengo,0,escudo foil,,,,,,,38,84-85
 ALG2,Argelia,2,Alexis Guendouz,base,falta,0,,POR,MC Alger (ALG),26-01-1996,1.91,,high,38,84-85
 ALG3,Argelia,3,Ramy Bensebaini,base,falta,0,,DEF,Borussia Dortmund (GER),16-04-1995,1.87,,high,38,84-85
 ALG4,Argelia,4,Youcef Atal,base,falta,0,,DEF,Al-Sadd SC (QAT),17-05-1996,1.76,,high,38,84-85
@@ -60,7 +60,7 @@ ARG18,Argentina,18,Lautaro Martínez,base,falta,0,,DEL,Inter Milan (ITA),22-08-1
 ARG19,Argentina,19,Julián Álvarez,base,falta,0,,DEL,Atletico Madrid (ESP),31-01-2000,1.70,,high,37,82-83
 ARG20,Argentina,20,Giuliano Simeone,base,falta,0,,DEL,Atletico Madrid (ESP),18-12-2002,1.79,,high,37,82-83
 AUS1,Australia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,15,36-37
-AUS2,Australia,2,Mathew Ryan,base,falta,0,,POR,Levante UD (ESP),08-04-1992,1.84,,high,15,36-37
+AUS2,Australia,2,Mathew Ryan,base,tengo,0,,POR,Levante UD (ESP),08-04-1992,1.84,,high,15,36-37
 AUS3,Australia,3,Joe Gauci,base,falta,0,,POR,Aston Villa FC (ENG),04-07-2000,1.94,,med,15,36-37
 AUS4,Australia,4,Harry Souttar,base,falta,0,,DEF,Leicester City FC (ENG),22-10-1998,1.98,,high,15,36-37
 AUS5,Australia,5,Alessandro Circati,base,falta,0,,DEF,Parma Calcio 1913 (ITA),10-10-2003,1.91,,high,15,36-37
@@ -69,9 +69,9 @@ AUS7,Australia,7,Aziz Behich,base,falta,0,,DEF,Melbourne City FC (AUS),16-12-199
 AUS8,Australia,8,Cameron Burgess,base,falta,0,,DEF,Swansea City AFC (WAL),21-10-1995,1.93,,high,15,36-37
 AUS9,Australia,9,Lewis Miller,base,falta,0,,DEF,Hibernian FC (SCO),19-02-2001,1.78,,med,15,36-37
 AUS10,Australia,10,Milos Degenek,base,tengo,1,,DEF,APOEL FC (CYP),28-04-1994,1.84,,high,15,36-37
-AUS11,Australia,11,Jackson Irvine,base,falta,0,,MED,FC St. Pauli (GER),07-03-1993,1.88,,high,15,36-37
+AUS11,Australia,11,Jackson Irvine,base,tengo,0,,MED,FC St. Pauli (GER),07-03-1993,1.88,,high,15,36-37
 AUS12,Australia,12,Riley McGree,base,tengo,0,,MED,Middlesbrough FC (ENG),02-11-1998,1.78,,high,15,36-37
-AUS13,Australia,13,Foto equipo,base,falta,0,,,,,,,,15,36-37
+AUS13,Australia,13,Foto equipo,base,tengo,0,,,,,,,,15,36-37
 AUS14,Australia,14,Aiden O'Neill,base,falta,0,,MED,New York City FC (USA),04-07-1998,1.78,,high,15,36-37
 AUS15,Australia,15,Connor Metcalfe,base,tengo,0,,MED,FC St. Pauli (GER),05-11-1999,1.78,,high,15,36-37
 AUS16,Australia,16,Patrick Yazbek,base,tengo,0,,MED,Nashville SC (USA),02-04-2002,1.83,,med,15,36-37
@@ -160,15 +160,15 @@ BRA18,Brasil,18,Gabriel Martinelli,base,falta,0,,DEL,Arsenal FC (ENG),18-06-2001
 BRA19,Brasil,19,Raphinha,base,falta,0,,DEL,FC Barcelona (ESP),14-12-1996,1.76,,high,9,24-25
 BRA20,Brasil,20,Estêvão,base,falta,0,,DEL,Chelsea FC (ENG),24-04-2007,1.76,62,high,9,24-25
 CAN1,Canada,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,5,16-17
-CAN2,Canada,2,Dayne St. Clair,base,falta,0,,POR,Inter Miami CF (USA),09-05-1997,1.91,86,high,5,16-17
+CAN2,Canada,2,Dayne St. Clair,base,tengo,0,,POR,Inter Miami CF (USA),09-05-1997,1.91,86,high,5,16-17
 CAN3,Canada,3,Alphonso Davies,base,falta,0,,DEF,Bayern Munich (GER),02-11-2000,1.83,,high,5,16-17
 CAN4,Canada,4,Alistair Johnston,base,falta,0,,DEF,Celtic FC (SCO),08-10-1998,1.80,74,high,5,16-17
 CAN5,Canada,5,Samuel Adekugbe,base,falta,0,,DEF,Vancouver Whitecaps (CAN),16-01-1995,1.76,75,high,5,16-17
-CAN6,Canada,6,Richie Laryea,base,falta,0,,DEF,Toronto FC (CAN),07-01-1995,1.75,,high,5,16-17
+CAN6,Canada,6,Richie Laryea,base,tengo,0,,DEF,Toronto FC (CAN),07-01-1995,1.75,,high,5,16-17
 CAN7,Canada,7,Derek Cornelius,base,falta,0,,DEF,Olympique Marseille (FRA),25-11-1997,1.87,,med,5,16-17
 CAN8,Canada,8,Moïse Bombito,base,falta,0,,DEF,OGC Nice (FRA),30-03-2000,1.90,83,high,5,16-17
 CAN9,Canada,9,Kamal Miller,base,falta,0,,DEF,Portland Timbers (USA),16-05-1997,1.83,76,high,5,16-17
-CAN10,Canada,10,Stephen Eustáquio,base,falta,0,,MED,Los Angeles FC (USA),21-12-1996,1.77,,high,5,16-17
+CAN10,Canada,10,Stephen Eustáquio,base,tengo,0,,MED,Los Angeles FC (USA),21-12-1996,1.77,,high,5,16-17
 CAN11,Canada,11,Ismaël Koné,base,falta,0,,MED,US Sassuolo (ITA),16-06-2002,1.88,,high,5,16-17
 CAN12,Canada,12,Jonathan Osorio,base,falta,0,,MED,Toronto FC (CAN),12-06-1992,1.75,,high,5,16-17
 CAN13,Canada,13,Foto equipo,base,falta,0,,,,,,,,5,16-17
@@ -188,18 +188,18 @@ CPV6,Cabo Verde,6,Steven Moreira,base,falta,0,,DEF,Columbus Crew (USA),13-08-199
 CPV7,Cabo Verde,7,Wagner Pina,base,falta,0,,DEF,Trabzonspor (TUR),03-11-2002,1.80,73,high,30,68-69
 CPV8,Cabo Verde,8,João Paulo,base,falta,0,,MED,FCSB (ROU),26-05-1998,1.80,,med,30,68-69
 CPV9,Cabo Verde,9,Yannick Semedo,base,falta,0,,MED,SC Farense (POR),29-12-1995,1.71,,med,30,68-69
-CPV10,Cabo Verde,10,Kevin Pina,base,falta,0,,MED,FC Krasnodar (RUS),27-01-1997,1.81,80,med,30,68-69
+CPV10,Cabo Verde,10,Kevin Pina,base,tengo,0,,MED,FC Krasnodar (RUS),27-01-1997,1.81,80,med,30,68-69
 CPV11,Cabo Verde,11,Patrick Andrade,base,falta,0,,MED,Araz-Nakhchivan (AZE),09-02-1993,1.73,,high,30,68-69
 CPV12,Cabo Verde,12,Jamiro Monteiro,base,falta,0,,MED,PEC Zwolle (NED),23-11-1993,1.75,62,high,30,68-69
 CPV13,Cabo Verde,13,Foto equipo,base,falta,0,,,,,,,,30,68-69
 CPV14,Cabo Verde,14,Deroy Duarte,base,falta,0,,MED,Ludogorets Razgrad (BUL),04-07-1999,1.77,69,high,30,68-69
-CPV15,Cabo Verde,15,Garry Rodrigues,base,falta,0,,DEL,Apollon Limassol (CYP),27-11-1990,1.73,,high,30,68-69
+CPV15,Cabo Verde,15,Garry Rodrigues,base,tengo,0,,DEL,Apollon Limassol (CYP),27-11-1990,1.73,,high,30,68-69
 CPV16,Cabo Verde,16,Jovane Cabral,base,falta,0,,DEL,Estrela Amadora (POR),14-06-1998,1.74,72,high,30,68-69
 CPV17,Cabo Verde,17,Ryan Mendes,base,falta,0,,DEL,Igdir FK (TUR),08-01-1990,1.78,71,high,30,68-69
 CPV18,Cabo Verde,18,Dailon Livramento,base,falta,0,,DEL,Casa Pia AC (POR),04-05-2001,1.85,,high,30,68-69
 CPV19,Cabo Verde,19,Willy Semedo,base,falta,0,,DEL,Omonia Nicosia (CYP),27-04-1994,1.85,70,high,30,68-69
 CPV20,Cabo Verde,20,Bebé,base,falta,0,,DEL,UD Ibiza (ESP),12-07-1990,1.90,82,high,30,68-69
-COL1,Colombia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,44,96-97
+COL1,Colombia,1,Escudo (foil),T2,tengo,0,escudo foil,,,,,,,44,96-97
 COL2,Colombia,2,Camilo Vargas,base,falta,0,,POR,Atlas FC (MEX),09-03-1989,1.83,,high,44,96-97
 COL3,Colombia,3,David Ospina,base,falta,0,,POR,Atletico Nacional (COL),31-08-1988,1.83,78,high,44,96-97
 COL4,Colombia,4,Dávinson Sánchez,base,falta,0,,DEF,Galatasaray (TUR),12-06-1996,1.87,79,high,44,96-97
@@ -221,25 +221,25 @@ COL19,Colombia,19,Luis Suárez,base,falta,0,,DEL,Sporting CP (POR),02-12-1997,1.
 COL20,Colombia,20,Luis Díaz,base,falta,0,,DEL,Bayern Munich (GER),13-01-1997,1.80,73,high,44,96-97
 COD1,RD Congo,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,42,92-93
 COD2,RD Congo,2,Lionel Mpasi,base,falta,0,,POR,Le Havre AC (FRA),01-08-1994,1.82,78,high,42,92-93
-COD3,RD Congo,3,Aaron Wan-Bissaka,base,falta,0,,DEF,West Ham United (ENG),26-11-1997,1.83,72,high,42,92-93
+COD3,RD Congo,3,Aaron Wan-Bissaka,base,tengo,0,,DEF,West Ham United (ENG),26-11-1997,1.83,72,high,42,92-93
 COD4,RD Congo,4,Axel Tuanzebe,base,falta,0,,DEF,Burnley FC (ENG),14-11-1997,1.85,75,high,42,92-93
 COD5,RD Congo,5,Arthur Masuaku,base,falta,0,,DEF,RC Lens (FRA),07-11-1993,1.79,78,high,42,92-93
 COD6,RD Congo,6,Chancel Mbemba,base,falta,0,,DEF,LOSC Lille (FRA),08-08-1994,1.82,,high,42,92-93
-COD7,RD Congo,7,Joris Kayembe,base,falta,0,,DEF,KRC Genk (BEL),08-08-1994,1.81,,high,42,92-93
+COD7,RD Congo,7,Joris Kayembe,base,tengo,0,,DEF,KRC Genk (BEL),08-08-1994,1.81,,high,42,92-93
 COD8,RD Congo,8,Charles Pickel,base,falta,0,,MED,RCD Espanyol (ESP),15-05-1997,1.87,,high,42,92-93
 COD9,RD Congo,9,Ngal'ayel Mukau,base,falta,0,,MED,LOSC Lille (FRA),03-11-2004,1.88,70,high,42,92-93
 COD10,RD Congo,10,Edo Kayembe,base,falta,0,,MED,Watford FC (ENG),03-06-1998,1.83,77,high,42,92-93
 COD11,RD Congo,11,Samuel Moutoussamy,base,falta,0,,MED,Atromitos (GRE),12-08-1996,1.76,61,high,42,92-93
 COD12,RD Congo,12,Noah Sadiki,base,falta,0,,MED,Sunderland AFC (ENG),17-12-2004,1.73,,high,42,92-93
 COD13,RD Congo,13,Foto equipo,base,falta,0,,,,,,,,42,92-93
-COD14,RD Congo,14,Théo Bongonda,base,falta,0,,DEL,Spartak Moscow (RUS),20-11-1995,1.75,,high,42,92-93
+COD14,RD Congo,14,Théo Bongonda,base,tengo,0,,DEL,Spartak Moscow (RUS),20-11-1995,1.75,,high,42,92-93
 COD15,RD Congo,15,Meschak Elia,base,falta,0,,DEL,Alanyaspor (TUR),06-08-1997,1.73,67,med,42,92-93
-COD16,RD Congo,16,Yoane Wissa,base,falta,0,,DEL,Newcastle United (ENG),03-09-1996,1.80,72,high,42,92-93
+COD16,RD Congo,16,Yoane Wissa,base,tengo,0,,DEL,Newcastle United (ENG),03-09-1996,1.80,72,high,42,92-93
 COD17,RD Congo,17,Brian Cipenga,base,falta,0,,DEL,CD Castellon (ESP),11-03-1998,1.72,69,high,42,92-93
 COD18,RD Congo,18,Fiston Mayele,base,falta,0,,DEL,Pyramids FC (EGY),24-06-1994,1.85,77,high,42,92-93
 COD19,RD Congo,19,Cédric Bakambu,base,falta,0,,DEL,Real Betis (ESP),11-04-1991,1.83,,high,42,92-93
 COD20,RD Congo,20,Nathanaël Mbuku,base,falta,0,,DEL,Montpellier HSC (FRA),16-03-2002,1.70,65,high,42,92-93
-CRO1,Croacia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,46,100-101
+CRO1,Croacia,1,Escudo (foil),T2,tengo,0,escudo foil,,,,,,,46,100-101
 CRO2,Croacia,2,Dominik Livaković,base,falta,0,,POR,GNK Dinamo Zagreb (CRO),09-01-1995,1.88,,high,46,100-101
 CRO3,Croacia,3,Duje Ćaleta-Car,base,falta,0,,DEF,Real Sociedad (ESP),17-09-1996,1.93,78,high,46,100-101
 CRO4,Croacia,4,Joško Gvardiol,base,falta,0,,DEF,Manchester City (ENG),23-01-2002,1.85,80,high,46,100-101
@@ -279,24 +279,24 @@ CUW17,Curazao,17,Jurgen Locadia,base,falta,0,,DEL,Miami FC (USA),07-11-1993,1.93
 CUW18,Curazao,18,Jeremy Antonisse,base,tengo,0,,DEL,AE Kifisia (GRE),29-03-2002,1.84,,med,18,42-43
 CUW19,Curazao,19,Gervane Kastaneer,base,tengo,0,,DEL,Terengganu FC (MAS),09-06-1996,1.89,,med,18,42-43
 CUW20,Curazao,20,Sontje Hansen,base,falta,0,,DEL,Middlesbrough (ENG),18-05-2002,1.72,,high,18,42-43
-CZE1,Chequia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,4,14-15
+CZE1,Chequia,1,Escudo (foil),T2,tengo,0,escudo foil,,,,,,,4,14-15
 CZE2,Chequia,2,Matej Kovar,base,falta,0,,POR,PSV Eindhoven (NED),17-05-2000,1.96,,high,4,14-15
 CZE3,Chequia,3,Jindrich Stanek,base,falta,0,,POR,Slavia Praha (CZE),27-04-1996,1.92,,high,4,14-15
 CZE4,Chequia,4,Ladislav Krejci,base,falta,0,,DEF,Wolverhampton Wanderers (ENG),20-04-1999,1.91,,high,4,14-15
-CZE5,Chequia,5,Vladimir Coufal,base,falta,0,,DEF,TSG Hoffenheim (GER),22-08-1992,1.74,,high,4,14-15
+CZE5,Chequia,5,Vladimir Coufal,base,tengo,0,,DEF,TSG Hoffenheim (GER),22-08-1992,1.74,,high,4,14-15
 CZE6,Chequia,6,Jaroslav Zeleny,base,falta,0,,DEF,Sparta Praha (CZE),20-08-1992,1.90,,med,4,14-15
 CZE7,Chequia,7,Tomas Holes,base,falta,0,,DEF,Slavia Praha (CZE),31-03-1993,1.80,,high,4,14-15
 CZE8,Chequia,8,David Zima,base,falta,0,,DEF,Slavia Praha (CZE),08-11-2000,1.90,,high,4,14-15
-CZE9,Chequia,9,Michal Sadilek,base,falta,0,,MED,Slavia Praha (CZE),31-05-1999,1.69,,med,4,14-15
+CZE9,Chequia,9,Michal Sadilek,base,tengo,0,,MED,Slavia Praha (CZE),31-05-1999,1.69,,med,4,14-15
 CZE10,Chequia,10,Lukas Provod,base,falta,0,,MED,Slavia Praha (CZE),23-10-1996,1.89,,high,4,14-15
 CZE11,Chequia,11,Lukas Cerv,base,falta,0,,MED,Viktoria Plzen (CZE),10-04-2001,1.79,,high,4,14-15
 CZE12,Chequia,12,Tomas Soucek,base,falta,0,,MED,West Ham United (ENG),27-02-1995,1.92,,high,4,14-15
 CZE13,Chequia,13,Foto equipo,base,falta,0,,,,,,,,4,14-15
-CZE14,Chequia,14,Pavel Sulc,base,falta,0,,MED,Olympique Lyon (FRA),29-12-2000,1.77,,high,4,14-15
+CZE14,Chequia,14,Pavel Sulc,base,tengo,0,,MED,Olympique Lyon (FRA),29-12-2000,1.77,,high,4,14-15
 CZE15,Chequia,15,Matej Vydra,base,falta,0,,DEL,Viktoria Plzen (CZE),01-05-1992,1.80,,med,4,14-15
 CZE16,Chequia,16,Vasil Kusej,base,falta,0,,DEL,Slavia Praha (CZE),24-05-2000,1.68,,med,4,14-15
 CZE17,Chequia,17,Tomas Chory,base,falta,0,,DEL,Slavia Praha (CZE),26-01-1995,1.99,,med,4,14-15
-CZE18,Chequia,18,Vaclav Cerny,base,falta,0,,DEL,Rangers (SCO),17-10-1997,1.78,,med,4,14-15
+CZE18,Chequia,18,Vaclav Cerny,base,tengo,0,,DEL,Rangers (SCO),17-10-1997,1.78,,med,4,14-15
 CZE19,Chequia,19,Adam Hlozek,base,falta,0,,DEL,TSG Hoffenheim (GER),25-07-2002,1.88,,high,4,14-15
 CZE20,Chequia,20,Patrik Schick,base,falta,0,,DEL,Bayer Leverkusen (GER),24-01-1996,1.91,73,high,4,14-15
 ECU1,Ecuador,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,20,46-47
@@ -322,8 +322,8 @@ ECU20,Ecuador,20,Enner Valencia,base,falta,0,,DEL,Pachuca (MEX),04-11-1989,1.77,
 EGY1,Egipto,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,26,60-61
 EGY2,Egipto,2,Mohamed El Shenawy,base,falta,0,,POR,Al Ahly (EGY),18-12-1988,1.91,,high,26,60-61
 EGY3,Egipto,3,Mohamed Hany,base,tengo,0,,DEF,Al Ahly (EGY),02-02-1996,1.80,,high,26,60-61
-EGY4,Egipto,4,Mohamed Hamdy,base,tengo,0,,DEF,Pyramids FC (EGY),15-03-1995,1.75,,med,26,60-61
-EGY5,Egipto,5,Yasser Ibrahim,base,tengo,0,,DEF,Al Ahly (EGY),10-02-1993,1.85,,med,26,60-61
+EGY4,Egipto,4,Mohamed Hamdy,base,tengo,1,,DEF,Pyramids FC (EGY),15-03-1995,1.75,,med,26,60-61
+EGY5,Egipto,5,Yasser Ibrahim,base,tengo,1,,DEF,Al Ahly (EGY),10-02-1993,1.85,,med,26,60-61
 EGY6,Egipto,6,Khaled Sobhi,base,tengo,0,,DEF,Al Masry (EGY),03-05-1995,1.88,,med,26,60-61
 EGY7,Egipto,7,Ramy Rabia,base,tengo,0,,DEF,Al-Ain (UAE),20-05-1993,1.83,,med,26,60-61
 EGY8,Egipto,8,Hossam Abdelmaguid,base,falta,0,,DEF,Zamalek (EGY),30-04-2001,1.94,,med,26,60-61
@@ -340,8 +340,8 @@ EGY18,Egipto,18,Mostafa Mohamed,base,tengo,0,,DEL,Nantes (FRA),28-11-1997,1.85,,
 EGY19,Egipto,19,Trezeguet,base,falta,0,,DEL,Al Ahly (EGY),01-10-1994,1.79,,high,26,60-61
 EGY20,Egipto,20,Omar Marmoush,base,falta,0,,DEL,Manchester City (ENG),07-02-1999,1.83,,high,26,60-61
 ENG1,Inglaterra,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,45,98-99
-ENG2,Inglaterra,2,Jordan Pickford,base,falta,0,,POR,Everton (ENG),07-03-1994,1.85,77,high,45,98-99
-ENG3,Inglaterra,3,John Stones,base,falta,0,,DEF,Manchester City (ENG),28-05-1994,1.88,70,high,45,98-99
+ENG2,Inglaterra,2,Jordan Pickford,base,tengo,0,,POR,Everton (ENG),07-03-1994,1.85,77,high,45,98-99
+ENG3,Inglaterra,3,John Stones,base,tengo,0,,DEF,Manchester City (ENG),28-05-1994,1.88,70,high,45,98-99
 ENG4,Inglaterra,4,Marc Guéhi,base,falta,0,,DEF,Manchester City (ENG),13-07-2000,1.82,77,med,45,98-99
 ENG5,Inglaterra,5,Ezri Konsa,base,falta,0,,DEF,Aston Villa (ENG),23-10-1997,1.83,73,high,45,98-99
 ENG6,Inglaterra,6,Trent Alexander-Arnold,base,falta,0,,DEF,Real Madrid (ESP),07-10-1998,1.80,72,high,45,98-99
@@ -354,11 +354,11 @@ ENG12,Inglaterra,12,Cole Palmer,base,falta,0,,MED,Chelsea (ENG),06-05-2002,1.89,
 ENG13,Inglaterra,13,Foto equipo,base,falta,0,,,,,,,,45,98-99
 ENG14,Inglaterra,14,Morgan Rogers,base,falta,0,,MED,Aston Villa (ENG),26-07-2002,1.85,,high,45,98-99
 ENG15,Inglaterra,15,Anthony Gordon,base,falta,0,,DEL,Newcastle United (ENG),24-02-2001,1.83,66,high,45,98-99
-ENG16,Inglaterra,16,Phil Foden,base,falta,0,,MED,Manchester City (ENG),28-05-2000,1.71,70,high,45,98-99
+ENG16,Inglaterra,16,Phil Foden,base,tengo,0,,MED,Manchester City (ENG),28-05-2000,1.71,70,high,45,98-99
 ENG17,Inglaterra,17,Bukayo Saka,base,falta,0,,DEL,Arsenal (ENG),05-09-2001,1.78,72,high,45,98-99
 ENG18,Inglaterra,18,Harry Kane,T3,falta,0,,DEL,Bayern Munich (GER),28-07-1993,1.88,86,high,45,98-99
 ENG19,Inglaterra,19,Marcus Rashford,base,falta,0,,DEL,Barcelona (ESP),31-10-1997,1.85,80,high,45,98-99
-ENG20,Inglaterra,20,Ollie Watkins,base,falta,0,,DEL,Aston Villa (ENG),30-12-1995,1.80,70,high,45,98-99
+ENG20,Inglaterra,20,Ollie Watkins,base,tengo,0,,DEL,Aston Villa (ENG),30-12-1995,1.80,70,high,45,98-99
 FRA1,Francia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,33,74-75
 FRA2,Francia,2,Mike Maignan,base,falta,0,,POR,AC Milan (ITA),03-07-1995,1.91,85,high,33,74-75
 FRA3,Francia,3,Theo Hernández,base,falta,0,,DEF,Al-Hilal (KSA),06-10-1997,1.84,81,high,33,74-75
@@ -383,19 +383,19 @@ GER1,Alemania,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,17,40-41
 GER2,Alemania,2,Marc-André ter Stegen,base,falta,0,,POR,FC Barcelona (ESP),30-04-1992,1.87,85,high,17,40-41
 GER3,Alemania,3,Jonathan Tah,base,falta,0,,DEF,Bayern Munchen (GER),11-02-1996,1.95,97,high,17,40-41
 GER4,Alemania,4,David Raum,base,falta,0,,DEF,RB Leipzig (GER),22-04-1998,1.80,75,high,17,40-41
-GER5,Alemania,5,Nico Schlotterbeck,base,falta,0,,DEF,Borussia Dortmund (GER),01-12-1999,1.91,85,high,17,40-41
+GER5,Alemania,5,Nico Schlotterbeck,base,tengo,0,,DEF,Borussia Dortmund (GER),01-12-1999,1.91,85,high,17,40-41
 GER6,Alemania,6,Antonio Rüdiger,base,falta,0,,DEF,Real Madrid (ESP),03-03-1993,1.90,85,high,17,40-41
 GER7,Alemania,7,Waldemar Anton,base,falta,0,,DEF,Borussia Dortmund (GER),20-07-1996,1.89,86,high,17,40-41
 GER8,Alemania,8,Ridle Baku,base,falta,0,,DEF,RB Leipzig (GER),08-04-1998,1.76,75,high,17,40-41
-GER9,Alemania,9,Maximilian Mittelstädt,base,falta,0,,DEF,VfB Stuttgart (GER),18-03-1997,1.83,76,high,17,40-41
+GER9,Alemania,9,Maximilian Mittelstädt,base,tengo,0,,DEF,VfB Stuttgart (GER),18-03-1997,1.83,76,high,17,40-41
 GER10,Alemania,10,Joshua Kimmich,base,falta,0,,MED,Bayern Munchen (GER),08-02-1995,1.77,75,high,17,40-41
 GER11,Alemania,11,Florian Wirtz,base,falta,0,,MED,Liverpool (ENG),03-05-2003,1.76,70,high,17,40-41
 GER12,Alemania,12,Felix Nmecha,base,falta,0,,MED,Borussia Dortmund (GER),10-10-2000,1.90,73,high,17,40-41
 GER13,Alemania,13,Foto equipo,base,falta,0,,,,,,,,17,40-41
-GER14,Alemania,14,Leon Goretzka,base,falta,0,,MED,Bayern Munchen (GER),06-02-1995,1.89,82,high,17,40-41
+GER14,Alemania,14,Leon Goretzka,base,tengo,0,,MED,Bayern Munchen (GER),06-02-1995,1.89,82,high,17,40-41
 GER15,Alemania,15,Jamal Musiala,T3,falta,0,,MED,Bayern Munchen (GER),26-02-2003,1.83,72,high,17,40-41
 GER16,Alemania,16,Serge Gnabry,base,falta,0,,DEL,Bayern Munchen (GER),14-07-1995,1.76,75,high,17,40-41
-GER17,Alemania,17,Kai Havertz,base,falta,0,,DEL,Arsenal (ENG),11-06-1999,1.93,82,high,17,40-41
+GER17,Alemania,17,Kai Havertz,base,tengo,0,,DEL,Arsenal (ENG),11-06-1999,1.93,82,high,17,40-41
 GER18,Alemania,18,Leroy Sané,base,falta,0,,DEL,Galatasaray (TUR),11-01-1996,1.83,75,high,17,40-41
 GER19,Alemania,19,Karim Adeyemi,base,falta,0,,DEL,Borussia Dortmund (GER),18-01-2002,1.80,74,high,17,40-41
 GER20,Alemania,20,Nick Woltemade,base,falta,0,,DEL,Newcastle United (ENG),14-02-2002,1.98,95,high,17,40-41
@@ -423,20 +423,20 @@ HAI1,Haiti,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,11,28-29
 HAI2,Haiti,2,Johny Placide,base,falta,0,,POR,SC Bastia (FRA),29-01-1988,1.81,78,high,11,28-29
 HAI3,Haiti,3,Carlens Arcus,base,falta,0,,DEF,Angers SCO (FRA),28-06-1996,1.80,73,high,11,28-29
 HAI4,Haiti,4,Martin Experience,base,falta,0,,DEF,AS Nancy (FRA),09-03-1999,,,med,11,28-29
-HAI5,Haiti,5,Jean-Kévin Duverne,base,falta,0,,DEF,KAA Gent (BEL),12-07-1997,1.84,76,high,11,28-29
+HAI5,Haiti,5,Jean-Kévin Duverne,base,tengo,0,,DEF,KAA Gent (BEL),12-07-1997,1.84,76,high,11,28-29
 HAI6,Haiti,6,Ricardo Adé,base,falta,0,,DEF,LDU Quito (ECU),21-05-1990,1.90,84,high,11,28-29
 HAI7,Haiti,7,Duke Lacroix,base,falta,0,,DEF,Colorado Springs Switchbacks (USA),14-10-1993,1.75,70,med,11,28-29
 HAI8,Haiti,8,Garven Metusala,base,falta,0,,DEF,Colorado Springs Switchbacks (USA),31-12-1999,1.86,,med,11,28-29
-HAI9,Haiti,9,Hannes Delcroix,base,falta,0,,DEF,FC Lugano (SUI),28-02-1999,1.85,80,high,11,28-29
+HAI9,Haiti,9,Hannes Delcroix,base,tengo,0,,DEF,FC Lugano (SUI),28-02-1999,1.85,80,high,11,28-29
 HAI10,Haiti,10,Leverton Pierre,base,falta,0,,MED,FC Vizela (POR),09-03-1998,1.78,,med,11,28-29
 HAI11,Haiti,11,Danley Jean Jacques,base,falta,0,,MED,Philadelphia Union (USA),20-05-2000,1.82,75,high,11,28-29
 HAI12,Haiti,12,Jean-Ricner Bellegarde,base,falta,0,,MED,Wolverhampton (ENG),27-06-1998,1.80,70,high,11,28-29
 HAI13,Haiti,13,Foto equipo,base,falta,0,,,,,,,,11,28-29
-HAI14,Haiti,14,Christopher Attys,base,falta,0,,MED,Calcio Lecco (ITA),,1.86,,med,11,28-29
+HAI14,Haiti,14,Christopher Attys,base,tengo,0,,MED,Calcio Lecco (ITA),,1.86,,med,11,28-29
 HAI15,Haiti,15,Derrick Etienne Jr,base,falta,0,,DEL,Toronto FC (CAN),01-04-1996,1.78,72,med,11,28-29
 HAI16,Haiti,16,Josué Casimir,base,falta,0,,DEL,AJ Auxerre (FRA),,,,med,11,28-29
 HAI17,Haiti,17,Ruben Providence,base,falta,0,,DEL,Almere City (NED),07-01-2001,1.76,,med,11,28-29
-HAI18,Haiti,18,Duckens Nazon,base,falta,0,,DEL,Esteghlal (IRN),07-04-1994,1.85,78,high,11,28-29
+HAI18,Haiti,18,Duckens Nazon,base,tengo,0,,DEL,Esteghlal (IRN),07-04-1994,1.85,78,high,11,28-29
 HAI19,Haiti,19,Louicius Deedson,base,falta,0,,DEL,FC Dallas (USA),11-02-2001,1.78,70,med,11,28-29
 HAI20,Haiti,20,Frantzdy Pierrot,base,falta,0,,DEL,Caykur Rizespor (TUR),02-01-1995,1.90,85,med,11,28-29
 IRN1,Iran,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,27,62-63
@@ -486,11 +486,11 @@ CIV4,Costa de Marfil,4,Wilfried Singo,base,falta,0,,DEF,Galatasaray (TUR),25-12-
 CIV5,Costa de Marfil,5,Odilon Kossounou,base,falta,0,,DEF,Atalanta (ITA),04-01-2001,1.91,81,high,19,44-45
 CIV6,Costa de Marfil,6,Evan Ndicka,base,falta,0,,DEF,AS Roma (ITA),20-08-1999,1.92,85,high,19,44-45
 CIV7,Costa de Marfil,7,Willy Boly,base,falta,0,,DEF,Al-Shabab (KSA),03-02-1991,1.95,90,med,19,44-45
-CIV8,Costa de Marfil,8,Emmanuel Agbadou,base,falta,0,,DEF,Wolverhampton (ENG),17-06-1997,1.92,85,high,19,44-45
+CIV8,Costa de Marfil,8,Emmanuel Agbadou,base,tengo,0,,DEF,Wolverhampton (ENG),17-06-1997,1.92,85,high,19,44-45
 CIV9,Costa de Marfil,9,Ousmane Diomandé,base,falta,0,,DEF,Sporting CP (POR),04-12-2003,1.90,82,high,19,44-45
 CIV10,Costa de Marfil,10,Franck Kessié,base,falta,0,,MED,Al-Ahli (KSA),19-12-1996,1.83,80,high,19,44-45
 CIV11,Costa de Marfil,11,Seko Fofana,base,falta,0,,MED,Stade Rennais (FRA),07-05-1995,1.83,78,med,19,44-45
-CIV12,Costa de Marfil,12,Ibrahim Sangaré,base,falta,0,,MED,Nottingham Forest (ENG),02-12-1997,1.91,78,high,19,44-45
+CIV12,Costa de Marfil,12,Ibrahim Sangaré,base,tengo,0,,MED,Nottingham Forest (ENG),02-12-1997,1.91,78,high,19,44-45
 CIV13,Costa de Marfil,13,Foto equipo,base,falta,0,,,,,,,,19,44-45
 CIV14,Costa de Marfil,14,Jean-Philippe Gbamin,base,falta,0,,MED,FC Metz (FRA),25-09-1995,1.86,82,med,19,44-45
 CIV15,Costa de Marfil,15,Amad Diallo,base,falta,0,,DEL,Manchester United (ENG),11-07-2002,1.73,68,high,19,44-45
@@ -603,8 +603,8 @@ NZL1,Nueva Zelanda,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,28,64-65
 NZL2,Nueva Zelanda,2,Max Crocombe,base,falta,0,,POR,Millwall FC (ENG),12-08-1993,1.94,88,high,28,64-65
 NZL3,Nueva Zelanda,3,Alex Paulsen,base,falta,0,,POR,AFC Bournemouth (ENG),04-07-2002,1.93,82,high,28,64-65
 NZL4,Nueva Zelanda,4,Michael Boxall,base,falta,0,,DEF,Minnesota United (USA),18-08-1988,1.91,88,high,28,64-65
-NZL5,Nueva Zelanda,5,Liberato Cacace,base,falta,0,,DEF,Wrexham AFC (WAL),27-09-2000,1.84,76,high,28,64-65
-NZL6,Nueva Zelanda,6,Tim Payne,base,falta,0,,DEF,Auckland FC (NZL),10-01-1994,1.83,76,high,28,64-65
+NZL5,Nueva Zelanda,5,Liberato Cacace,base,tengo,0,,DEF,Wrexham AFC (WAL),27-09-2000,1.84,76,high,28,64-65
+NZL6,Nueva Zelanda,6,Tim Payne,base,tengo,0,,DEF,Auckland FC (NZL),10-01-1994,1.83,76,high,28,64-65
 NZL7,Nueva Zelanda,7,Tyler Bindon,base,falta,0,,DEF,Nottingham Forest (ENG),27-01-2005,1.88,76,high,28,64-65
 NZL8,Nueva Zelanda,8,Francis de Vries,base,falta,0,,DEF,Auckland FC (NZL),28-11-1994,1.88,78,med,28,64-65
 NZL9,Nueva Zelanda,9,Finn Surman,base,tengo,0,,DEF,Portland Timbers (USA),23-09-2003,1.91,80,high,28,64-65
@@ -612,7 +612,7 @@ NZL10,Nueva Zelanda,10,Joe Bell,base,falta,0,,MED,Viking FK (NOR),27-04-1999,1.8
 NZL11,Nueva Zelanda,11,Sarpreet Singh,base,falta,0,,MED,Wellington Phoenix (NZL),20-02-1999,1.72,65,high,28,64-65
 NZL12,Nueva Zelanda,12,Ryan Thomas,base,falta,0,,MED,PEC Zwolle (NED),20-12-1994,1.74,68,high,28,64-65
 NZL13,Nueva Zelanda,13,Foto equipo,base,falta,0,,,,,,,,28,64-65
-NZL14,Nueva Zelanda,14,Matthew Garbett,base,falta,0,,MED,Peterborough United (ENG),13-04-2002,1.88,78,high,28,64-65
+NZL14,Nueva Zelanda,14,Matthew Garbett,base,tengo,0,,MED,Peterborough United (ENG),13-04-2002,1.88,78,high,28,64-65
 NZL15,Nueva Zelanda,15,Marko Stamenić,base,falta,0,,MED,Swansea City (WAL),19-02-2002,1.88,78,high,28,64-65
 NZL16,Nueva Zelanda,16,Ben Old,base,falta,0,,MED,AS Saint-Etienne (FRA),13-08-2002,1.73,66,high,28,64-65
 NZL17,Nueva Zelanda,17,Chris Wood,base,falta,0,,DEL,Nottingham Forest (ENG),07-12-1991,1.91,82,high,28,64-65
@@ -740,7 +740,7 @@ KSA18,Arabia Saudita,18,Feras Akbrikan,base,falta,0,,DEL,Al-Ahli SFC (KSA),14-05
 KSA19,Arabia Saudita,19,Saleh Alshehri,base,falta,0,,DEL,Al-Ittihad (KSA),01-11-1993,1.84,,high,31,70-71
 KSA20,Arabia Saudita,20,Abdullah Al-Hamdan,base,falta,0,,DEL,Al-Nassr FC (KSA),12-09-1999,1.81,,med,31,70-71
 SCO1,Escocia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,12,30-31
-SCO2,Escocia,2,Angus Gunn,base,falta,0,,POR,Nottingham Forest (ENG),22-01-1996,1.96,,high,12,30-31
+SCO2,Escocia,2,Angus Gunn,base,tengo,0,,POR,Nottingham Forest (ENG),22-01-1996,1.96,,high,12,30-31
 SCO3,Escocia,3,Jack Hendry,base,tengo,0,,DEF,Al-Ettifaq (KSA),07-05-1995,1.87,,high,12,30-31
 SCO4,Escocia,4,Kieran Tierney,base,falta,0,,DEF,Celtic (SCO),05-06-1997,1.78,70,high,12,30-31
 SCO5,Escocia,5,Aaron Hickey,base,tengo,0,,DEF,Brentford (ENG),10-06-2002,1.78,,high,12,30-31
@@ -785,16 +785,16 @@ RSA3,Sudafrica,3,Sipho Chaine,base,falta,0,,POR,Orlando Pirates (RSA),26-04-1997
 RSA4,Sudafrica,4,Aubrey Modiba,base,tengo,0,,DEF,Mamelodi Sundowns (RSA),22-07-1995,1.67,,high,2,10-11
 RSA5,Sudafrica,5,Samukele Kabini,base,tengo,0,,DEF,Molde FK (NOR),15-03-2004,,,med,2,10-11
 RSA6,Sudafrica,6,Mbekezeli Mbokazi,base,falta,0,,DEF,Chicago Fire (USA),19-09-2005,1.78,,high,2,10-11
-RSA7,Sudafrica,7,Khulumani Ndamane,base,tengo,0,,DEF,Mamelodi Sundowns (RSA),05-02-2004,1.83,,high,2,10-11
+RSA7,Sudafrica,7,Khulumani Ndamane,base,tengo,1,,DEF,Mamelodi Sundowns (RSA),05-02-2004,1.83,,high,2,10-11
 RSA8,Sudafrica,8,Siyabonga Ngezana,base,tengo,0,,DEF,FCSB (ROU),15-11-1997,1.88,,high,2,10-11
 RSA9,Sudafrica,9,Khuliso Mudau,base,falta,0,,DEF,Mamelodi Sundowns (RSA),26-04-1995,1.81,,high,2,10-11
 RSA10,Sudafrica,10,Nkosinathi Sibisi,base,tengo,0,,DEF,Orlando Pirates (RSA),22-09-1995,,,med,2,10-11
-RSA11,Sudafrica,11,Teboho Mokoena,base,tengo,0,,MED,Mamelodi Sundowns (RSA),24-01-1997,1.76,,high,2,10-11
+RSA11,Sudafrica,11,Teboho Mokoena,base,tengo,1,,MED,Mamelodi Sundowns (RSA),24-01-1997,1.76,,high,2,10-11
 RSA12,Sudafrica,12,Thalente Mbatha,base,tengo,0,,MED,Orlando Pirates (RSA),06-03-2000,1.64,,high,2,10-11
 RSA13,Sudafrica,13,Foto equipo,base,falta,0,,,,,,,,2,10-11
 RSA14,Sudafrica,14,Bathusi Aubaas,base,falta,0,,MED,Mamelodi Sundowns (RSA),14-05-1995,1.80,,high,2,10-11
 RSA15,Sudafrica,15,Yaya Sithole,base,falta,0,,MED,CD Tondela (POR),03-03-1999,1.86,,med,2,10-11
-RSA16,Sudafrica,16,Sipho Mbule,base,falta,0,,MED,Orlando Pirates (RSA),22-03-1998,1.77,,high,2,10-11
+RSA16,Sudafrica,16,Sipho Mbule,base,tengo,0,,MED,Orlando Pirates (RSA),22-03-1998,1.77,,high,2,10-11
 RSA17,Sudafrica,17,Lyle Foster,base,tengo,0,,DEL,Burnley (ENG),03-09-2000,1.85,,high,2,10-11
 RSA18,Sudafrica,18,Iqraam Rayners,base,falta,0,,DEL,Mamelodi Sundowns (RSA),19-12-1995,1.76,,high,2,10-11
 RSA19,Sudafrica,19,Mohau Nkota,base,tengo,0,,DEL,Al-Ettifaq (KSA),09-11-2004,,,med,2,10-11
@@ -823,7 +823,7 @@ ESP1,Espana,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,29,66-67
 ESP2,Espana,2,Unai Simón,base,falta,0,,POR,Athletic Bilbao (ESP),11-06-1997,1.90,85,high,29,66-67
 ESP3,Espana,3,Robin Le Normand,base,falta,0,,DEF,Atletico Madrid (ESP),11-11-1996,1.87,,high,29,66-67
 ESP4,Espana,4,Aymeric Laporte,base,falta,0,,DEF,Athletic Bilbao (ESP),27-05-1994,1.89,86,high,29,66-67
-ESP5,Espana,5,Dean Huijsen,base,falta,0,,DEF,Real Madrid (ESP),14-04-2005,1.96,,high,29,66-67
+ESP5,Espana,5,Dean Huijsen,base,tengo,0,,DEF,Real Madrid (ESP),14-04-2005,1.96,,high,29,66-67
 ESP6,Espana,6,Pedro Porro,base,falta,0,,DEF,Tottenham Hotspur (ENG),13-09-1999,1.73,,high,29,66-67
 ESP7,Espana,7,Dani Carvajal,base,falta,0,,DEF,Real Madrid (ESP),11-01-1992,1.73,73,high,29,66-67
 ESP8,Espana,8,Marc Cucurella,base,falta,0,,DEF,Chelsea (ENG),22-07-1998,1.72,66,high,29,66-67
@@ -834,11 +834,11 @@ ESP12,Espana,12,Fabián Ruiz,base,falta,0,,MED,Paris Saint-Germain (FRA),03-04-1
 ESP13,Espana,13,Foto equipo,base,falta,0,,,,,,,,29,66-67
 ESP14,Espana,14,Mikel Merino,base,falta,0,,MED,Arsenal (ENG),22-06-1996,1.88,,high,29,66-67
 ESP15,Espana,15,Lamine Yamal,T3,falta,0,,DEL,FC Barcelona (ESP),13-07-2007,1.80,,high,29,66-67
-ESP16,Espana,16,Dani Olmo,base,falta,0,,DEL,FC Barcelona (ESP),07-05-1998,1.79,,high,29,66-67
+ESP16,Espana,16,Dani Olmo,base,tengo,0,,DEL,FC Barcelona (ESP),07-05-1998,1.79,,high,29,66-67
 ESP17,Espana,17,Nico Williams,base,falta,0,,DEL,Athletic Bilbao (ESP),12-07-2002,1.81,,high,29,66-67
-ESP18,Espana,18,Ferran Torres,base,falta,0,,DEL,FC Barcelona (ESP),29-02-2000,1.84,,high,29,66-67
+ESP18,Espana,18,Ferran Torres,base,tengo,0,,DEL,FC Barcelona (ESP),29-02-2000,1.84,,high,29,66-67
 ESP19,Espana,19,Álvaro Morata,base,falta,0,,DEL,Como 1907 (ITA),23-10-1992,1.90,84,high,29,66-67
-ESP20,Espana,20,Mikel Oyarzabal,base,falta,0,,DEL,Real Sociedad (ESP),21-04-1997,1.81,,high,29,66-67
+ESP20,Espana,20,Mikel Oyarzabal,base,tengo,0,,DEL,Real Sociedad (ESP),21-04-1997,1.81,,high,29,66-67
 SWE1,Suecia,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,23,52-53
 SWE2,Suecia,2,Victor Johansson,base,falta,0,,POR,Stoke City (ENG),14-09-1998,1.87,,high,23,52-53
 SWE3,Suecia,3,Isak Hien,base,falta,0,,DEF,Atalanta (ITA),13-01-1999,1.89,,high,23,52-53
@@ -909,21 +909,21 @@ TUR7,Turquia,7,Merih Demiral,base,falta,0,,DEF,Al-Ahli (KSA),05-03-1998,1.92,87,
 TUR8,Turquia,8,Ferdi Kadıoğlu,base,falta,0,,DEF,Brighton (ENG),07-10-1999,1.78,68,high,16,38-39
 TUR9,Turquia,9,Kaan Ayhan,base,falta,0,,DEF,Galatasaray (TUR),10-11-1994,1.85,78,high,16,38-39
 TUR10,Turquia,10,İsmail Yüksek,base,falta,0,,MED,Fenerbahce (TUR),26-01-1999,1.83,77,high,16,38-39
-TUR11,Turquia,11,Hakan Çalhanoğlu,base,falta,0,,MED,Inter Milan (ITA),08-02-1994,1.78,77,high,16,38-39
+TUR11,Turquia,11,Hakan Çalhanoğlu,base,tengo,0,,MED,Inter Milan (ITA),08-02-1994,1.78,77,high,16,38-39
 TUR12,Turquia,12,Orkun Kökçü,base,falta,0,,MED,Benfica (POR),29-12-2000,1.76,70,high,16,38-39
 TUR13,Turquia,13,Foto equipo,base,falta,0,,,,,,,,16,38-39
 TUR14,Turquia,14,Arda Güler,base,falta,0,,MED,Real Madrid (ESP),25-02-2005,1.76,68,high,16,38-39
 TUR15,Turquia,15,İrfan Can Kahveci,base,falta,0,,MED,Fenerbahce (TUR),15-07-1995,1.76,72,high,16,38-39
-TUR16,Turquia,16,Yunus Akgün,base,falta,0,,DEL,Galatasaray (TUR),07-07-2000,1.77,70,high,16,38-39
-TUR17,Turquia,17,Can Uzun,base,falta,0,,DEL,Eintracht Frankfurt (GER),11-11-2005,1.86,67,high,16,38-39
-TUR18,Turquia,18,Barış Alper Yılmaz,base,falta,0,,DEL,Galatasaray (TUR),23-05-2000,1.86,78,high,16,38-39
+TUR16,Turquia,16,Yunus Akgün,base,tengo,0,,DEL,Galatasaray (TUR),07-07-2000,1.77,70,high,16,38-39
+TUR17,Turquia,17,Can Uzun,base,tengo,0,,DEL,Eintracht Frankfurt (GER),11-11-2005,1.86,67,high,16,38-39
+TUR18,Turquia,18,Barış Alper Yılmaz,base,tengo,0,,DEL,Galatasaray (TUR),23-05-2000,1.86,78,high,16,38-39
 TUR19,Turquia,19,Kerem Aktürkoğlu,base,falta,0,,DEL,Fenerbahce (TUR),21-10-1998,1.78,72,high,16,38-39
 TUR20,Turquia,20,Kenan Yıldız,base,falta,0,,DEL,Juventus (ITA),04-05-2005,1.85,70,high,16,38-39
 URU1,Uruguay,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,32,72-73
 URU2,Uruguay,2,Sergio Rochet,base,falta,0,,POR,Internacional (BRA),23-03-1993,1.88,82,high,32,72-73
 URU3,Uruguay,3,Santiago Mele,base,falta,0,,POR,Monterrey (MEX),06-09-1997,1.85,69,high,32,72-73
 URU4,Uruguay,4,Ronald Araújo,base,falta,0,,DEF,FC Barcelona (ESP),07-03-1999,1.88,79,high,32,72-73
-URU5,Uruguay,5,José María Giménez,base,falta,0,,DEF,Atletico Madrid (ESP),20-01-1995,1.85,78,high,32,72-73
+URU5,Uruguay,5,José María Giménez,base,tengo,0,,DEF,Atletico Madrid (ESP),20-01-1995,1.85,78,high,32,72-73
 URU6,Uruguay,6,Sebastián Cáceres,base,falta,0,,DEF,Club America (MEX),18-08-1999,1.82,77,high,32,72-73
 URU7,Uruguay,7,Mathías Olivera,base,falta,0,,DEF,Napoli (ITA),31-10-1997,1.84,76,high,32,72-73
 URU8,Uruguay,8,Guillermo Varela,base,falta,0,,DEF,Flamengo (BRA),24-03-1993,1.74,70,high,32,72-73
@@ -932,10 +932,10 @@ URU10,Uruguay,10,Federico Valverde,base,falta,0,,MED,Real Madrid (ESP),22-07-199
 URU11,Uruguay,11,Giorgian De Arrascaeta,base,falta,0,,MED,Flamengo (BRA),01-06-1994,1.74,70,high,32,72-73
 URU12,Uruguay,12,Rodrigo Bentancur,base,falta,0,,MED,Tottenham Hotspur (ENG),25-06-1997,1.87,82,high,32,72-73
 URU13,Uruguay,13,Foto equipo,base,falta,0,,,,,,,,32,72-73
-URU14,Uruguay,14,Manuel Ugarte,base,falta,0,,MED,Manchester United (ENG),11-04-2001,1.82,73,high,32,72-73
+URU14,Uruguay,14,Manuel Ugarte,base,tengo,0,,MED,Manchester United (ENG),11-04-2001,1.82,73,high,32,72-73
 URU15,Uruguay,15,Nicolás de la Cruz,base,falta,0,,MED,Flamengo (BRA),01-06-1997,1.69,68,high,32,72-73
-URU16,Uruguay,16,Maxi Araújo,base,falta,0,,DEF,Sporting CP (POR),15-02-2000,1.79,73,high,32,72-73
-URU17,Uruguay,17,Darwin Núñez,base,falta,0,,DEL,Al-Hilal (KSA),24-06-1999,1.87,81,high,32,72-73
+URU16,Uruguay,16,Maxi Araújo,base,tengo,0,,DEF,Sporting CP (POR),15-02-2000,1.79,73,high,32,72-73
+URU17,Uruguay,17,Darwin Núñez,base,tengo,0,,DEL,Al-Hilal (KSA),24-06-1999,1.87,81,high,32,72-73
 URU18,Uruguay,18,Federico Viñas,base,falta,0,,DEL,Club Leon (MEX),30-06-1998,1.80,79,med,32,72-73
 URU19,Uruguay,19,Rodrigo Aguirre,base,falta,0,,DEL,Tigres UANL (MEX),01-10-1994,1.86,75,high,32,72-73
 URU20,Uruguay,20,Facundo Pellistri,base,falta,0,,DEL,Panathinaikos (GRE),20-12-2001,1.74,68,high,32,72-73
@@ -944,22 +944,22 @@ USA2,Estados Unidos,2,Matt Freese,base,falta,0,,POR,New York City FC (USA),02-09
 USA3,Estados Unidos,3,Chris Richards,base,falta,0,,DEF,Crystal Palace (ENG),28-03-2000,1.87,78,high,13,32-33
 USA4,Estados Unidos,4,Tim Ream,base,falta,0,,DEF,Charlotte FC (USA),05-10-1987,1.85,78,high,13,32-33
 USA5,Estados Unidos,5,Mark McKenzie,base,falta,0,,DEF,Toulouse (FRA),25-02-1999,1.83,79,high,13,32-33
-USA6,Estados Unidos,6,Alex Freeman,base,falta,0,,DEF,Villarreal (ESP),09-08-2004,1.88,82,high,13,32-33
+USA6,Estados Unidos,6,Alex Freeman,base,tengo,0,,DEF,Villarreal (ESP),09-08-2004,1.88,82,high,13,32-33
 USA7,Estados Unidos,7,Antonee Robinson,base,falta,0,,DEF,Fulham (ENG),08-08-1997,1.83,73,high,13,32-33
 USA8,Estados Unidos,8,Tyler Adams,base,falta,0,,MED,Bournemouth (ENG),14-02-1999,1.75,72,high,13,32-33
 USA9,Estados Unidos,9,Tanner Tessmann,base,falta,0,,MED,Lyon (FRA),24-09-2001,1.88,83,high,13,32-33
-USA10,Estados Unidos,10,Weston McKennie,base,falta,0,,MED,Juventus (ITA),28-08-1998,1.85,78,high,13,32-33
+USA10,Estados Unidos,10,Weston McKennie,base,tengo,0,,MED,Juventus (ITA),28-08-1998,1.85,78,high,13,32-33
 USA11,Estados Unidos,11,Christian Roldan,base,falta,0,,MED,Seattle Sounders (USA),03-06-1995,1.73,75,high,13,32-33
 USA12,Estados Unidos,12,Timothy Weah,base,falta,0,,DEL,Juventus (ITA),22-02-2000,1.84,78,high,13,32-33
 USA13,Estados Unidos,13,Foto equipo,base,falta,0,,,,,,,,13,32-33
 USA14,Estados Unidos,14,Diego Luna,base,falta,0,,MED,Real Salt Lake (USA),07-09-2003,1.73,68,med,13,32-33
 USA15,Estados Unidos,15,Malik Tillman,base,falta,0,,MED,Bayer Leverkusen (GER),28-05-2002,1.85,75,high,13,32-33
-USA16,Estados Unidos,16,Christian Pulisic,base,falta,0,,DEL,AC Milan (ITA),18-09-1998,1.77,72,high,13,32-33
+USA16,Estados Unidos,16,Christian Pulisic,base,tengo,0,,DEL,AC Milan (ITA),18-09-1998,1.77,72,high,13,32-33
 USA17,Estados Unidos,17,Brenden Aaronson,base,falta,0,,MED,Leeds United (ENG),22-10-2000,1.78,68,high,13,32-33
 USA18,Estados Unidos,18,Ricardo Pepi,base,falta,0,,DEL,PSV Eindhoven (NED),09-01-2003,1.85,77,high,13,32-33
 USA19,Estados Unidos,19,Haji Wright,base,falta,0,,DEL,Coventry City (ENG),27-03-1998,1.93,79,high,13,32-33
 USA20,Estados Unidos,20,Folarin Balogun,base,falta,0,,DEL,AS Monaco (FRA),03-07-2001,1.79,73,high,13,32-33
-UZB1,Uzbekistan,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,43,94-95
+UZB1,Uzbekistan,1,Escudo (foil),T2,tengo,0,escudo foil,,,,,,,43,94-95
 UZB2,Uzbekistan,2,Utkir Yusupov,base,falta,0,,POR,Navbahor Namangan (UZB),04-01-1991,,,low,43,94-95
 UZB3,Uzbekistan,3,Farrukh Sayfiev,base,falta,0,,DEF,Neftchi Fergana (UZB),17-01-1991,1.83,74,high,43,94-95
 UZB4,Uzbekistan,4,Sherzod Nasrullaev,base,falta,0,,DEF,Pakhtakor (UZB),23-07-1998,1.81,73,high,43,94-95
