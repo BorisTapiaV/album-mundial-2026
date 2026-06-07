@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-07 (dom) — **186/980 (19,0%)** — 39 láminas sueltas del lote 06-06 PM marcadas `perdida` (extraviadas en depto; HAVE 225→186). Nuevo estado `perdida` + columna `fecha_estado` + `BITACORA_LOTES.md` con protocolo de ingreso + hoja `perdidas.html`
+**Última actualización:** 2026-06-07 (dom) — **204/980 (20,8%)** — canje #1 (+18 recibidas `pegada`); antes 39 sueltas del lote 06-06 marcadas `perdida` (HAVE 225→186→204). Estado `perdida` + columna `fecha_estado` + `BITACORA_LOTES.md` (protocolo + log de lotes) + hoja `perdidas.html`. Pendiente: número de aporte del canje (repetidas X−Y)
 
 ---
 
@@ -14,11 +14,11 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **186** | registro 2026-06-07 |
-| **% completado** (HAVE/N) | **19,0%** | calculado |
+| Tengo/pegadas (HAVE) | **204** | registro 2026-06-07 (+18 canje #1) |
+| **% completado** (HAVE/N) | **20,8%** | calculado |
 | Perdidas (extraviadas en casa) | **39** | lote 06-06 PM, ver `BITACORA_LOTES.md` |
-| Faltan (`falta`) | **755** | calculado |
-| **Por conseguir** (falta + perdida) | **794** | falta 755 + perdida 39 |
+| Faltan (`falta`) | **737** | calculado |
+| **Por conseguir** (falta + perdida) | **776** | falta 737 + perdida 39 |
 | Repetidas (n°) | **20 cartas / 17 códigos** | dictado ▶️ |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |

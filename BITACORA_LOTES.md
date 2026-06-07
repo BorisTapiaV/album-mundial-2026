@@ -37,6 +37,7 @@ de canje) · `perdida` (adquirida pero extraviada — NO cuenta como tener, sí 
 | 2026-06-06 | sáb | AM | n/d | n/d | cerrado | +55 | n/d | 126→181 (commit `2aebc85`) + fix imprimibles |
 | 2026-06-06 | sáb | PM | n/d | n/d | cerrado | +44 | parcial | 181→225 (commit `31df639`). Verificación cruzada mazo-físico (rescató 6) |
 | 2026-06-07 | **dom** | corrección | n/d | n/d | cerrado | **−39** | — | **39 sueltas del lote 06-06 PM marcadas `perdida`** (extraviadas en depto). HAVE 225→186 |
+| 2026-06-07 | dom | **A (canje #1)** | 11:30 | 13:21 | cerrado | **+18** | sí (18 pegadas) | **Primer intercambio.** 18 recibidas (todas `falta→pegada`). HAVE 186→204. Repetidas reconciliadas a pila física (25→9). FWC páginas mapeadas. Pendiente solo: nº exacto de entregadas → eficiencia |
 
 ---
 
@@ -55,6 +56,40 @@ USA2, UZB17, UZB18.
 
 > Si alguna reaparece físicamente: cambiar `perdida → tengo` (o `pegada` si se pega) y anotar
 > la fecha de recuperación. Cuentan como costo hundido hasta entonces.
+
+---
+
+## 🔄 Lote A — 2026-06-07 (dom) · Canje #1 (primer intercambio) · inicio 11:30
+
+Marcadas `pegada` con `fecha_estado=2026-06-07`. Todas eran `falta` → avance directo (18 casillas
+nuevas, ninguna repetida). **HAVE 186→204 (19,0%→20,8%)**.
+
+**Recibidas (18, todas pegadas):**
+UZB19 (Igor Sergeev) · AUS1 (Escudo Australia ⭐T2) · USA17 (Brenden Aaronson) · IRQ4 (Hussein Ali) ·
+AUT15 (Nicolas Seiwald) · KSA13 (Foto equipo Arabia Saudita) · RSA3 (Sipho Chaine) · GER2 (ter Stegen) ·
+CRO12 (Lovro Majer) · IRN6 (Khalilzadeh) · NZL7 (Tyler Bindon) · NZL8 (Francis de Vries) ·
+NZL10 (Joe Bell) · QAT13 (Foto equipo Catar) · BEL16 (Doku) · BEL13 (Foto equipo Bélgica) ·
+SWE2 (Victor Johansson) · SWE6 (Nilsson Lindelöf).
+
+**Match pendiente — número de aporte del canje** (calcular al cierre):
+- **X** = repetidas en el pool ANTES del canje (registradas: 20 — confirmar si era el pool real).
+- **Y** = repetidas que QUEDAN tras el canje (Boris dicta).
+- Repetidas entregadas = **X − Y**. Eficiencia = 18 ÷ (X−Y) nuevas/repetida (ideal 1:1).
+- Ahorro ≈ 18 × ~$157/lámina (no compradas en sobre) → pesos que el canje evitó.
+
+**Match cerrado (2026-06-07 13:21):** se reconcilió el registro de repetidas a la **pila física real
+de Boris = 9 cartas / 8 códigos** (`AUS10, AUS20, BIH9, BIH14×2, EGY5, FWC10, NED9, RSA11`). El
+registro estaba inflado/incompleto (listaba 25 tras añadir 4 no registradas): se pusieron a 0 las 13
+que ya no tiene y se revirtieron 5 de `estado=repetida`→`tengo` (BEL6, BEL7, JOR14, JOR18, RSA7).
+Hallazgo: tenía duplicados sin registrar (NED9, FWC10, BIH9, BIH14) — 2 fueron **regalados**. HAVE sin
+cambio (204). **Pendiente único:** nº exacto de láminas entregadas en el canje → eficiencia = 18 ÷ entregadas.
+
+**FWC páginas mapeadas** (dato físico Boris, ver `ALBUM_ORDEN.md`): 1→FWC1-4, 2→FWC5-6, 3→FWC7-8,
+106→FWC9-10, 107→FWC11-13, 108→FWC14-15, 109→FWC16-18. Pendiente: `00`, FWC19, inserto 56-57.
+
+**Tarjeta para compartir** (`dashboard_share.png` + `gen_dashboard.py`): réplica de la tarjeta azul
+de la app Figuritas con data real — Completado 21% · Total 980 · Me faltan 776 · Tengo 204 ·
+Repetidas 9 · Brillantes 12/68. Regenerable con `py gen_dashboard.py`.
 
 ---
 

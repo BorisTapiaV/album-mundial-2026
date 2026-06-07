@@ -2,7 +2,7 @@
 
 > VERIFICADO. Orden por grupo del Mundial (no alfabetico). 2 paginas por equipo.
 > Mexico arranca en pag 8. Inserto de especiales en pags 56-57 (entre Tunez #24 y Belgica #25).
-> Especiales FWC NO van todas juntas: bloque inicio (1-7) + inserto (56-57) + cierre (106-112). Mapear aparte.
+> Especiales FWC NO van todas juntas: bloque inicio (1-3) + inserto (56-57) + cierre (106-109). Mapeo FWC al final de este doc (dato fisico Boris 2026-06-07).
 
 | # | Pag | Cod | Seleccion | Tengo |
 |--:|----:|-----|-----------|------:|
@@ -55,3 +55,24 @@
 | 46 | 100-101 | CRO | Croacia | 0/20 |
 | 47 | 102-103 | GHA | Ghana | 6/20 |
 | 48 | 104-105 | PAN | Panama | 0/20 |
+
+---
+
+## Especiales FWC — paginas (dato fisico Boris 2026-06-07)
+
+| Pagina | Codigos FWC |
+|-------:|-------------|
+| 1 | FWC1, FWC2, FWC3, FWC4 |
+| 2 | FWC5, FWC6 |
+| 3 | FWC7, FWC8 |
+| 106 | FWC9, FWC10 |
+| 107 | FWC11, FWC12, FWC13 |
+| 108 | FWC14, FWC15 |
+| 109 | FWC16, FWC17, FWC18 |
+
+**Pendiente de mapear:** `00` (logo Panini) · `FWC19` (la 19a FIFA Museum; probablemente pag 109-111) ·
+inserto especiales pags 56-57 (¿que FWC caen ahi?).
+
+**Extras fuera de las 980 (no cuentan):** seccion *"ROAD TO WORLD CUP 2026"* (48 equipos clasificados +
+su ultimo partido clasificatorio) ~pags 110-111, y **laminas Coca-Cola en pags 112-113** (sin numerar,
+inmediatamente despues de Road to World Cup). Set Coca-Cola = promo aparte.
