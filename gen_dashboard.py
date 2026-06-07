@@ -93,7 +93,6 @@ def render(d):
   <div class="brand"><span class="logo"></span><span class="word">MUNDIAL 2026</span></div>
   <span class="pill">{COLECCION}</span>
   <div class="panel"><div class="grid">{grid}</div></div>
-  <div class="foot">Panini FIFA World Cup 2026 · <b>{d['tengo']}/{d['total']}</b> · {FECHA}</div>
 </div></body></html>"""
 
 
