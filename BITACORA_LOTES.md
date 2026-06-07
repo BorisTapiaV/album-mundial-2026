@@ -37,7 +37,7 @@ de canje) · `perdida` (adquirida pero extraviada — NO cuenta como tener, sí 
 | 2026-06-06 | sáb | AM | n/d | n/d | cerrado | +55 | n/d | 126→181 (commit `2aebc85`) + fix imprimibles |
 | 2026-06-06 | sáb | PM | n/d | n/d | cerrado | +44 | parcial | 181→225 (commit `31df639`). Verificación cruzada mazo-físico (rescató 6) |
 | 2026-06-07 | **dom** | corrección | n/d | n/d | cerrado | **−39** | — | **39 sueltas del lote 06-06 PM marcadas `perdida`** (extraviadas en depto). HAVE 225→186 |
-| 2026-06-07 | dom | **A (canje #1)** | 11:30 | 13:21 | cerrado | **+18** | sí (18 pegadas) | **Primer intercambio.** 18 recibidas (todas `falta→pegada`). HAVE 186→204. Repetidas reconciliadas a pila física (25→9). FWC páginas mapeadas. Pendiente solo: nº exacto de entregadas → eficiencia |
+| 2026-06-07 | dom | **A (canje #1)** | 11:30 | 13:21 | ✅ cerrado | **+18** | sí (18 pegadas) | **Primer intercambio, 1:1 perfecto** (18×18, eficiencia 1,0). HAVE 186→204. Pool repetidas 27→9. FWC páginas mapeadas. Ahorro ~$2.830 |
 
 ---
 
@@ -82,7 +82,12 @@ de Boris = 9 cartas / 8 códigos** (`AUS10, AUS20, BIH9, BIH14×2, EGY5, FWC10, 
 registro estaba inflado/incompleto (listaba 25 tras añadir 4 no registradas): se pusieron a 0 las 13
 que ya no tiene y se revirtieron 5 de `estado=repetida`→`tengo` (BEL6, BEL7, JOR14, JOR18, RSA7).
 Hallazgo: tenía duplicados sin registrar (NED9, FWC10, BIH9, BIH14) — 2 fueron **regalados**. HAVE sin
-cambio (204). **Pendiente único:** nº exacto de láminas entregadas en el canje → eficiencia = 18 ÷ entregadas.
+cambio (204).
+
+**🎯 Número del canje (cerrado):** entregadas = **18** → **canje 1:1 perfecto, eficiencia 1,0**
+(18 recibidas ÷ 18 entregadas). Pool de repetidas **27 → 9** (27 = 18 entregadas + 9 restantes;
+confirma que el registro de 25 estaba corto por los duplicados sin anotar). Costo $0; ahorro estimado
+~18 × $157 ≈ **$2.830** en sobres no comprados. Aporte = 18 casillas reales gratis sin perder ninguna.
 
 **FWC páginas mapeadas** (dato físico Boris, ver `ALBUM_ORDEN.md`): 1→FWC1-4, 2→FWC5-6, 3→FWC7-8,
 106→FWC9-10, 107→FWC11-13, 108→FWC14-15, 109→FWC16-18. Pendiente: `00`, FWC19, inserto 56-57.
