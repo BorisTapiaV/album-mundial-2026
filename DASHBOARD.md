@@ -5,7 +5,10 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-07 (dom) — **204/980 (20,8%)** — canje #1 (+18 recibidas `pegada`); antes 39 sueltas del lote 06-06 marcadas `perdida` (HAVE 225→186→204). Estado `perdida` + columna `fecha_estado` + `BITACORA_LOTES.md` (protocolo + log de lotes) + hoja `perdidas.html`. Pendiente: número de aporte del canje (repetidas X−Y)
+**Última actualización:** 2026-06-07 (dom, sesión cerrada) — **204/980 (20,8%)** — **canje #1 1:1 perfecto** (+18, eficiencia 1,0, pool repetidas 27→9); antes 39 sueltas del lote 06-06 marcadas `perdida` (HAVE 225→186→204). FWC páginas mapeadas. Estado `perdida` + columna `fecha_estado` introducidos.
+
+**Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
+**Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
 
 ---
 
