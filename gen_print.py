@@ -29,6 +29,9 @@ import sys
 
 REG = "registro_maestro.csv"
 HAVE = {"tengo", "pegada", "repetida"}
+# 'perdida' = la adquiri pero esta fisicamente extraviada -> NO cuenta como tener,
+# pero SI aparece en faltantes (la necesito para cerrar). Se etiqueta aparte.
+LOST = {"perdida"}
 
 CSS = """
 @page { size: A4; margin: 9mm; }
@@ -53,6 +56,7 @@ h1 { font-size: 15pt; margin: 0 0 1mm; }
 .nm { flex:1 1 auto; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .team2 { font-size:7pt; color:#888; flex:0 0 auto; }
 .star { color:#b8860b; font-weight:bold; }
+.lost { color:#b00020; font-size:6.8pt; font-weight:bold; border:1px solid #b00020; border-radius:1mm; padding:0 0.6mm; }
 .have .nm { color:#666; }
 /* Intercambio: las que faltan se ven IGUAL que en faltantes; solo las que tengo se atenuan */
 .dim .row.have { opacity:0.32; }
@@ -174,10 +178,14 @@ def _simple_list(rows, title, sub):
         star = ' <span class="star">&#11088;</span>' if r["tier"] == "T3" else ""
         pag = (r.get("pagina") or "").strip()
         pag_html = f'<span class="pg">pag {esc(pag)}</span>' if pag else ""
+        lost = ""
+        if r["estado"] in LOST:
+            fch = (r.get("fecha_estado") or "").strip()
+            lost = f' <span class="lost">perdida{(" " + esc(fch)) if fch else ""}</span>'
         lines.append(
             f'<div class="row">{box(False)}'
             f'<span class="code">{esc(r["codigo"])}</span>'
-            f'<span class="nm">{esc(r["jugador_tipo"]) or "&mdash;"}{star}{extra}</span>'
+            f'<span class="nm">{esc(r["jugador_tipo"]) or "&mdash;"}{star}{extra}{lost}</span>'
             f'<span class="team2">{esc(r["equipo"])}</span>{pag_html}</div>'
         )
     return page(title, sub, "".join(lines), "cols3")
@@ -220,16 +228,25 @@ def main():
     write("lista_intercambio.html", lista_intercambio(rows))
     write("indice_alfabetico.html", indice_alfabetico(rows))
     if "--todo" in sys.argv:
-        falt = [r for r in rows if r["estado"] == "falta"]
+        # faltantes = lo que falta + lo perdido (ambos hay que conseguirlos para cerrar)
+        falt = [r for r in rows if r["estado"] in ("falta",) or r["estado"] in LOST]
         rep = [r for r in rows if r.get("repetidas", "0") not in ("0", "")]
+        lost = [r for r in rows if r["estado"] in LOST]
+        n_falt = sum(1 for r in falt if r["estado"] == "falta")
         write("faltantes.html", _simple_list(
             falt, "Album Mundial 2026 — Faltantes",
-            f"{len(falt)} laminas que te faltan. Lista de caza."))
+            f"{n_falt} faltan + {len(lost)} perdidas = {len(falt)} por conseguir. "
+            "Las perdidas (rojo) ya las tuviste pero estan extraviadas."))
         write("repetidas.html", _simple_list(
             rep, "Album Mundial 2026 — Repetidas (canje)",
             f"{len(rep)} codigos con repetidas. Moneda de canje 1:1."))
+        write("perdidas.html", _simple_list(
+            lost, "Album Mundial 2026 — Perdidas (extraviadas en casa)",
+            f"{len(lost)} laminas adquiridas pero fisicamente extraviadas. "
+            "Costo hundido; reaparecen o se recompran. NO cuentan como tener."))
     have = sum(1 for r in rows if r["estado"] in HAVE)
-    print(f"Estado: {have}/{len(rows)} marcadas como tengo/pegada")
+    lost = sum(1 for r in rows if r["estado"] in LOST)
+    print(f"Estado: {have}/{len(rows)} en HAVE (tengo/pegada/repetida) | perdidas: {lost}")
 
 
 if __name__ == "__main__":

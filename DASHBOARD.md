@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-06 (PM) — **225/980 (23,0%)** — sesión dictado +44 netas + verificación cruzada mazo-físico-vs-registro (rescató 6 falsos-faltantes; bug `gen_print.py` HAVE sin `repetida` corregido)
+**Última actualización:** 2026-06-07 (dom) — **186/980 (19,0%)** — 39 láminas sueltas del lote 06-06 PM marcadas `perdida` (extraviadas en depto; HAVE 225→186). Nuevo estado `perdida` + columna `fecha_estado` + `BITACORA_LOTES.md` con protocolo de ingreso + hoja `perdidas.html`
 
 ---
 
@@ -14,9 +14,11 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (T) | **225** | dictado 2026-06-06 PM |
-| **% completado** (T/N) | **23,0%** | calculado |
-| Faltan (N−T) | **755** | calculado |
+| Tengo/pegadas (HAVE) | **186** | registro 2026-06-07 |
+| **% completado** (HAVE/N) | **19,0%** | calculado |
+| Perdidas (extraviadas en casa) | **39** | lote 06-06 PM, ver `BITACORA_LOTES.md` |
+| Faltan (`falta`) | **755** | calculado |
+| **Por conseguir** (falta + perdida) | **794** | falta 755 + perdida 39 |
 | Repetidas (n°) | **20 cartas / 17 códigos** | dictado ▶️ |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |

@@ -32,8 +32,13 @@ OUT = "registro_maestro.csv"
 NAMES = "names.csv"
 BIO = "bio.csv"
 # estado=col F, repetidas=col G (sin cambios); bio appended al final.
+# orden_album/pagina/fecha_estado se agregaron despues y se PRESERVAN (no los genera
+# este script) para no perderlos al regenerar.
 HEADER = ["codigo", "equipo", "slot", "jugador_tipo", "tier", "estado", "repetidas",
-          "notas", "posicion", "club", "nacimiento", "altura", "peso", "conf_bio"]
+          "notas", "posicion", "club", "nacimiento", "altura", "peso", "conf_bio",
+          "orden_album", "pagina", "fecha_estado"]
+# columnas preservadas desde el registro existente (ademas de estado/repetidas).
+PRESERVE = ["orden_album", "pagina", "fecha_estado"]
 
 # 48 selecciones — (codigo, nombre). Orden alfabetico por nombre ES (verificar vs album).
 TEAMS = [
@@ -92,12 +97,13 @@ def load_bio():
 
 
 def load_state():
-    """Preserva estado/repetidas del registro existente."""
+    """Preserva estado/repetidas + columnas PRESERVE (orden_album/pagina/fecha_estado)."""
     d = {}
     if os.path.exists(OUT):
         with open(OUT, newline="", encoding="utf-8") as f:
             for row in csv.DictReader(f):
-                d[row["codigo"]] = (row.get("estado", "falta"), row.get("repetidas", "0"))
+                d[row["codigo"]] = (row.get("estado", "falta"), row.get("repetidas", "0"),
+                                    {k: row.get(k, "") for k in PRESERVE})
     return d
 
 
@@ -128,10 +134,11 @@ def main():
 
     def row(code, equipo, slot, default_jt):
         jt = names.get(code, default_jt)
-        est, rep = state.get(code, ("falta", "0"))
+        est, rep, extra = state.get(code, ("falta", "0", {k: "" for k in PRESERVE}))
         pos, club, nac, alt, peso, conf = bio.get(code, ("", "", "", "", "", ""))
         return [code, equipo, slot, jt, tier_for(code, slot), est, rep,
-                notas_for(code, slot), pos, club, nac, alt, peso, conf]
+                notas_for(code, slot), pos, club, nac, alt, peso, conf,
+                *(extra.get(k, "") for k in PRESERVE)]
 
     rows = [row("00", "Panini", 0, "Logo Panini (foil)")]
     for n in range(1, 20):
