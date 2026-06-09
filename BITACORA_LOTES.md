@@ -39,6 +39,7 @@ de canje) · `perdida` (adquirida pero extraviada — NO cuenta como tener, sí 
 | 2026-06-07 | **dom** | corrección | n/d | n/d | cerrado | **−39** | — | **39 sueltas del lote 06-06 PM marcadas `perdida`** (extraviadas en depto). HAVE 225→186 |
 | 2026-06-07 | dom | **A (canje #1)** | 11:30 | 13:21 | ✅ cerrado | **+18** | sí (18 pegadas) | **Primer intercambio, 1:1 perfecto** (18×18, eficiencia 1,0). HAVE 186→204. Pool repetidas 27→9. FWC páginas mapeadas. Ahorro ~$2.830 |
 | 2026-06-09 | **mar** | A (sobres) | 16:25 | 16:40 | ✅ cerrado | **+21** | sí (21 pegadas) | Dictado 28 códigos → 21 nuevas pegadas + 7 repetidas al pool. HAVE 204→225 (23,0%). Pool repetidas 9→16/15. 🇵🇹 Portugal estrena (POR12 Vitinha). Brillantes 12→13/68 (TUR1). Estrella ENG11 Bellingham |
+| 2026-06-09 | mar | B (sobres) | 18:30 | 18:45 | ✅ cerrado | **+23** | sí (23 pegadas) | Dictado 28 → 22 nuevas + TUN10 re-obtenida en sobre (perdida→pegada, perdidas 39→38) + 5 repetidas. HAVE 225→248 (25,3%). Pool 16→21/20. Marruecos estrena (MAR1 escudo foil, brillantes 13→14). 🇵🇹 POR17 João Félix (Portugal 2/20). Estrellas FRA15 Dembélé, ENG10 Rice |
 
 ---
 
@@ -118,6 +119,31 @@ BIH10 (Armin Gigović) · RSA16 (Sipho Mbule) · EGY9 (Ahmed Fatouh) · CUW6 (Jo
 
 **Hitos:** Portugal estrena casillero (POR12) — Cristiano POR15 sigue pendiente. Brillantes **12→13/68**
 (TUR1 escudo foil). Primera estrella T3 del lote: Bellingham (ENG11).
+
+---
+
+## 📦 Lote B — 2026-06-09 (mar) · Sobres · inicio 18:30 · cierre 18:45
+
+Dictado de **28 códigos** → **22 nuevas pegadas** + **TUN10 re-obtenida en sobre** + **5 repetidas**.
+**HAVE 225→248 (23,0%→25,3%)** — cruza el 25%.
+
+**Nuevas pegadas (22):** CIV2 (Yahia Fofana) · COD6 (Chancel Mbemba) · **MAR1 (Escudo Marruecos ✨ foil — Marruecos estrena)** ·
+**FRA15 (Ousmane Dembélé ⭐)** · EGY12 (Hamdy Fathy) · ESP8 (Marc Cucurella) · CRO2 (Dominik Livaković) ·
+UZB6 (Husniddin Aliqulov) · CPV16 (Jovane Cabral) · CIV6 (Evan Ndicka) · QAT2 (Meshaal Barsham) ·
+UZB15 (Khojimat Erkinov) · CPV20 (Bebé) · PAN17 (José Fajardo) · CPV19 (Willy Semedo) ·
+🇵🇹 **POR17 (João Félix — Portugal 2/20)** · CZE12 (Tomas Soucek) · ARG11 (Exequiel Palacios) ·
+FRA19 (Hugo Ekitike) · NOR19 (Antonio Nusa) · **ENG10 (Declan Rice)** · BRA8 (Wesley).
+
+**Re-obtenida en sobre (1):** **TUN10 (Aïssa Laïdouni)** — estaba `perdida` (lote 06-06). NO es la copia
+extraviada que reaparece: es una **copia nueva salida de un sobre**. `perdida→pegada`, perdidas **39→38**.
+La copia perdida sigue extraviada pero ya es irrelevante (el casillero queda cubierto).
+
+**Repetidas al pool (5):** CRO1 (Escudo Croacia foil) · CPV15 (Garry Rodrigues) · CUW10 (Godfried Roemeratoe) ·
+CUW19 (Gervane Kastaneer) · ENG2 (Jordan Pickford). Pool repetidas **16→21 cartas / 20 códigos**.
+
+**Hitos:** 🇲🇦 Marruecos estrena con su escudo foil (brillantes 12→**14/68** sumando MAR1 + el TUR1 del Lote A) ·
+🇵🇹 Portugal sube a 2/20 (POR12 Vitinha + POR17 João Félix; Cristiano POR15 sigue pendiente) ·
+estrellas FRA15 Dembélé + ENG10 Rice.
 
 ---
 
