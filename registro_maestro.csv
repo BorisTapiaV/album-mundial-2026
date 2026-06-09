@@ -899,7 +899,7 @@ TUN17,Tunez,17,Hazem Mastouri,base,falta,0,,DEL,Dynamo Makhachkala (RUS),18-06-1
 TUN18,Tunez,18,Ismael Gharbi,base,falta,0,,MED,FC Augsburg (GER),10-04-2004,1.73,66,high,24,54-55,
 TUN19,Tunez,19,Sayfallah Ltaief,base,falta,0,,MED,Greuther Furth (GER),22-04-2000,1.78,77,high,24,54-55,
 TUN20,Tunez,20,Naïm Sliti,base,perdida,0,,DEL,Al Shamal (QAT),27-07-1992,1.73,75,high,24,54-55,2026-06-06
-TUR1,Turquia,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,16,38-39,2026-06-09
+TUR1,Turquia,1,Escudo (foil),T2,pegada,1,escudo foil,,,,,,,16,38-39,2026-06-09
 TUR2,Turquia,2,Uğurcan Çakır,base,falta,0,,POR,Galatasaray (TUR),05-04-1996,1.91,86,high,16,38-39,
 TUR3,Turquia,3,Mert Müldür,base,falta,0,,DEF,Fenerbahce (TUR),03-04-1999,1.84,73,high,16,38-39,
 TUR4,Turquia,4,Zeki Çelik,base,falta,0,,DEF,AS Roma (ITA),17-02-1997,1.80,72,high,16,38-39,
@@ -909,14 +909,14 @@ TUR7,Turquia,7,Merih Demiral,base,falta,0,,DEF,Al-Ahli (KSA),05-03-1998,1.92,87,
 TUR8,Turquia,8,Ferdi Kadıoğlu,base,falta,0,,DEF,Brighton (ENG),07-10-1999,1.78,68,high,16,38-39,
 TUR9,Turquia,9,Kaan Ayhan,base,falta,0,,DEF,Galatasaray (TUR),10-11-1994,1.85,78,high,16,38-39,
 TUR10,Turquia,10,İsmail Yüksek,base,falta,0,,MED,Fenerbahce (TUR),26-01-1999,1.83,77,high,16,38-39,
-TUR11,Turquia,11,Hakan Çalhanoğlu,base,tengo,0,,MED,Inter Milan (ITA),08-02-1994,1.78,77,high,16,38-39,
+TUR11,Turquia,11,Hakan Çalhanoğlu,base,pegada,0,,MED,Inter Milan (ITA),08-02-1994,1.78,77,high,16,38-39,2026-06-09
 TUR12,Turquia,12,Orkun Kökçü,base,falta,0,,MED,Benfica (POR),29-12-2000,1.76,70,high,16,38-39,
 TUR13,Turquia,13,Foto equipo,base,falta,0,,,,,,,,16,38-39,
 TUR14,Turquia,14,Arda Güler,base,perdida,0,,MED,Real Madrid (ESP),25-02-2005,1.76,68,high,16,38-39,2026-06-06
 TUR15,Turquia,15,İrfan Can Kahveci,base,falta,0,,MED,Fenerbahce (TUR),15-07-1995,1.76,72,high,16,38-39,
-TUR16,Turquia,16,Yunus Akgün,base,tengo,0,,DEL,Galatasaray (TUR),07-07-2000,1.77,70,high,16,38-39,
-TUR17,Turquia,17,Can Uzun,base,tengo,0,,DEL,Eintracht Frankfurt (GER),11-11-2005,1.86,67,high,16,38-39,
-TUR18,Turquia,18,Barış Alper Yılmaz,base,tengo,0,,DEL,Galatasaray (TUR),23-05-2000,1.86,78,high,16,38-39,
+TUR16,Turquia,16,Yunus Akgün,base,pegada,0,,DEL,Galatasaray (TUR),07-07-2000,1.77,70,high,16,38-39,2026-06-09
+TUR17,Turquia,17,Can Uzun,base,pegada,0,,DEL,Eintracht Frankfurt (GER),11-11-2005,1.86,67,high,16,38-39,2026-06-09
+TUR18,Turquia,18,Barış Alper Yılmaz,base,pegada,0,,DEL,Galatasaray (TUR),23-05-2000,1.86,78,high,16,38-39,2026-06-09
 TUR19,Turquia,19,Kerem Aktürkoğlu,base,falta,0,,DEL,Fenerbahce (TUR),21-10-1998,1.78,72,high,16,38-39,
 TUR20,Turquia,20,Kenan Yıldız,base,falta,0,,DEL,Juventus (ITA),04-05-2005,1.85,70,high,16,38-39,
 URU1,Uruguay,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,32,72-73,
