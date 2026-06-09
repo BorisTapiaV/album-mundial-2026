@@ -22,7 +22,7 @@
 | Perdidas (extraviadas en casa) | **39** | lote 06-06 PM, ver `BITACORA_LOTES.md` |
 | Faltan (`falta`) | **716** | calculado |
 | **Por conseguir** (falta + perdida) | **755** | falta 716 + perdida 39 |
-| Repetidas (n°) | **16 cartas / 15 códigos** | registro 2026-06-09 |
+| Repetidas (n°) | **15 cartas / 14 códigos** | registro 2026-06-09 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
