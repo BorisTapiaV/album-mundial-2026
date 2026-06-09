@@ -27,6 +27,11 @@ Cada vez que Boris ingresa un lote, Claude debe:
 **Estados del registro:** `falta` · `tengo` (suelta) · `pegada` (en álbum) · `repetida` (moneda
 de canje) · `perdida` (adquirida pero extraviada — NO cuenta como tener, sí aparece en faltantes).
 
+**Regla de perdidas re-obtenidas (Boris 2026-06-09):** si un código que está en `perdida` aparece
+en un dictado, es porque **salió en un sobre nuevo** → se trata como **nueva** (`perdida→pegada`,
+perdidas −1). NO es la copia extraviada que reaparece. Esta es la política por defecto **hasta que
+Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí sí es recuperación física).
+
 ---
 
 ## 🗓️ Log de lotes
@@ -40,6 +45,7 @@ de canje) · `perdida` (adquirida pero extraviada — NO cuenta como tener, sí 
 | 2026-06-07 | dom | **A (canje #1)** | 11:30 | 13:21 | ✅ cerrado | **+18** | sí (18 pegadas) | **Primer intercambio, 1:1 perfecto** (18×18, eficiencia 1,0). HAVE 186→204. Pool repetidas 27→9. FWC páginas mapeadas. Ahorro ~$2.830 |
 | 2026-06-09 | **mar** | A (sobres) | 16:25 | 16:40 | ✅ cerrado | **+21** | sí (21 pegadas) | Dictado 28 códigos → 21 nuevas pegadas + 7 repetidas al pool. HAVE 204→225 (23,0%). Pool repetidas 9→16/15. 🇵🇹 Portugal estrena (POR12 Vitinha). Brillantes 12→13/68 (TUR1). Estrella ENG11 Bellingham |
 | 2026-06-09 | mar | B (sobres) | 18:30 | 18:45 | ✅ cerrado | **+23** | sí (23 pegadas) | Dictado 28 → 22 nuevas + TUN10 re-obtenida en sobre (perdida→pegada, perdidas 39→38) + 5 repetidas. HAVE 225→248 (25,3%). Pool 16→21/20. Marruecos estrena (MAR1 escudo foil, brillantes 13→14). 🇵🇹 POR17 João Félix (Portugal 2/20). Estrellas FRA15 Dembélé, ENG10 Rice |
+| 2026-06-09 | mar | C (sobres) | 19:20 | 19:35 | ✅ cerrado | **+22** | sí (22 pegadas) | Dictado 28 → 21 nuevas + BEL2 re-obtenida en sobre (perdida→pegada, perdidas 38→37) + 6 repetidas. HAVE 248→270 (27,6%). Pool 21→27/25. ARG1 escudo Argentina foil (brillantes 14→15). Estrellas BEL2 Courtois, CRO10 Kovačić, ENG15 Gordon |
 
 ---
 
@@ -144,6 +150,28 @@ CUW19 (Gervane Kastaneer) · ENG2 (Jordan Pickford). Pool repetidas **16→21 ca
 **Hitos:** 🇲🇦 Marruecos estrena con su escudo foil (brillantes 12→**14/68** sumando MAR1 + el TUR1 del Lote A) ·
 🇵🇹 Portugal sube a 2/20 (POR12 Vitinha + POR17 João Félix; Cristiano POR15 sigue pendiente) ·
 estrellas FRA15 Dembélé + ENG10 Rice.
+
+---
+
+## 📦 Lote C — 2026-06-09 (mar) · Sobres · inicio 19:20 · cierre 19:35
+
+Dictado de **28 códigos** → **21 nuevas pegadas** + **BEL2 re-obtenida en sobre** + **6 repetidas**.
+**HAVE 248→270 (25,3%→27,6%)**.
+
+**Nuevas pegadas (21):** **ARG1 (Escudo Argentina ✨ foil)** · ESP4 (Aymeric Laporte) · ESP13 (foto equipo) ·
+CRO10 (Mateo Kovačić) · CRO6 (Luka Vušković) · GER8 (Ridle Baku) · GER4 (David Raum) · CIV11 (Seko Fofana) ·
+CIV16 (Sébastien Haller) · NZL12 (Ryan Thomas) · NZL4 (Michael Boxall) · CUW12 (Leandro Bacuna) ·
+CAN18 (Liam Millar) · BIH3 (Amer Dedić) · CPV2 (Vozinha) · CPV3 (Logan Costa) · PAR2 (Roberto Fernández) ·
+ARG6 (Nicolás Tagliafico) · ALG17 (Anis Hadj Moussa) · UZB10 (Odiljon Hamrobekov) · ENG15 (Anthony Gordon).
+
+**Re-obtenida en sobre (1):** **BEL2 (Thibaut Courtois ⭐)** — estaba `perdida` (lote 06-06). Salió en
+sobre nuevo → `perdida→pegada`, perdidas **38→37**. (Regla de perdidas re-obtenidas, ver protocolo arriba.)
+
+**Repetidas al pool (6):** FWC12 (Brasil 1962 FIFA Museum foil) · AUS15 (Connor Metcalfe) · AUS19 (Nestory Irankunda) ·
+BEL10 (Amadou Onana) · NZL8 (Francis de Vries) · **RSA19 (Mohau Nkota — 2ª repetida)**. Pool **21→27 cartas / 25 códigos**.
+
+**Hitos:** 🇦🇷 escudo Argentina foil (ARG1, brillantes 14→**15/68**) · re-obtenido el arquero estrella Courtois (BEL2) ·
+estrellas Kovačić (CRO10) + Gordon (ENG15).
 
 ---
 
