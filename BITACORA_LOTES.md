@@ -38,6 +38,7 @@ de canje) · `perdida` (adquirida pero extraviada — NO cuenta como tener, sí 
 | 2026-06-06 | sáb | PM | n/d | n/d | cerrado | +44 | parcial | 181→225 (commit `31df639`). Verificación cruzada mazo-físico (rescató 6) |
 | 2026-06-07 | **dom** | corrección | n/d | n/d | cerrado | **−39** | — | **39 sueltas del lote 06-06 PM marcadas `perdida`** (extraviadas en depto). HAVE 225→186 |
 | 2026-06-07 | dom | **A (canje #1)** | 11:30 | 13:21 | ✅ cerrado | **+18** | sí (18 pegadas) | **Primer intercambio, 1:1 perfecto** (18×18, eficiencia 1,0). HAVE 186→204. Pool repetidas 27→9. FWC páginas mapeadas. Ahorro ~$2.830 |
+| 2026-06-09 | **mar** | A (sobres) | 16:25 | 16:40 | ✅ cerrado | **+21** | sí (21 pegadas) | Dictado 28 códigos → 21 nuevas pegadas + 7 repetidas al pool. HAVE 204→225 (23,0%). Pool repetidas 9→16/15. 🇵🇹 Portugal estrena (POR12 Vitinha). Brillantes 12→13/68 (TUR1). Estrella ENG11 Bellingham |
 
 ---
 
@@ -95,6 +96,28 @@ confirma que el registro de 25 estaba corto por los duplicados sin anotar). Cost
 **Tarjeta para compartir** (`dashboard_share.png` + `gen_dashboard.py`): réplica de la tarjeta azul
 de la app Figuritas con data real — Completado 21% · Total 980 · Me faltan 776 · Tengo 204 ·
 Repetidas 9 · Brillantes 12/68. Regenerable con `py gen_dashboard.py`.
+
+---
+
+## 📦 Lote A — 2026-06-09 (mar) · Sobres · inicio 16:25 · cierre 16:40
+
+Dictado de **28 códigos** → resueltos contra registro ANTES de pegar. **21 nuevas pegadas**
+(`falta→pegada`, `fecha_estado=2026-06-09`) + **7 repetidas** al pool de canje (`repetidas +1`,
+estado sin cambio). **HAVE 204→225 (20,8%→23,0%)**.
+
+**Nuevas pegadas (21):** MEX17 (Raúl Jiménez) · CPV7 (Wagner Pina) · CZE15 (Matej Vydra) ·
+KSA17 (Abdulrahman Al-Aboud) · CPV6 (Steven Moreira) · SEN8 (Kalidou Koulibaly) · PAR10 (Diego Gómez) ·
+ARG2 (Emiliano Martínez) · HAI2 (Johny Placide) · RSA20 (Oswin Appollis) · NED15 (Xavi Simons) ·
+COL12 (Richard Ríos) · EGY11 (Zizo) · **ENG11 (Jude Bellingham ⭐T3)** · BEL11 (Nicolas Raskin) ·
+🇵🇹 **POR12 (Vitinha — primera de Portugal, 0→1/20)** · AUT16 (Romano Schmid) ·
+**TUR1 (Escudo Turquía ⭐ foil)** · AUS4 (Harry Souttar) · PAN12 (Adalberto Carrasquilla) · KOR5 (Cho Yu-min).
+
+**Repetidas al pool (7):** FWC18 (Alemania 2014 FIFA Museum, foil) · RSA19 (Mohau Nkota) ·
+BIH10 (Armin Gigović) · RSA16 (Sipho Mbule) · EGY9 (Ahmed Fatouh) · CUW6 (Joshua Brenet) ·
+**AUT15 (Nicolas Seiwald — recibida en el canje #1 de antier)**. Pool repetidas **9→16 cartas / 15 códigos**.
+
+**Hitos:** Portugal estrena casillero (POR12) — Cristiano POR15 sigue pendiente. Brillantes **12→13/68**
+(TUR1 escudo foil). Primera estrella T3 del lote: Bellingham (ENG11).
 
 ---
 

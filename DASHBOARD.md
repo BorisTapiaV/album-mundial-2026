@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-07 (dom, sesión cerrada) — **204/980 (20,8%)** — **canje #1 1:1 perfecto** (+18, eficiencia 1,0, pool repetidas 27→9); antes 39 sueltas del lote 06-06 marcadas `perdida` (HAVE 225→186→204). FWC páginas mapeadas. Estado `perdida` + columna `fecha_estado` introducidos.
+**Última actualización:** 2026-06-09 (mar, 16:25) — **225/980 (23,0%)** — **Lote A sobres +21 pegadas** (28 dictados = 21 nuevas + 7 repetidas). 🇵🇹 Portugal estrena (POR12 Vitinha); estrella ENG11 Bellingham; brillantes 12→13/68 (TUR1). Pool repetidas 9→16/15. Antes (06-07): canje #1 1:1 perfecto.
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **204** | registro 2026-06-07 (+18 canje #1) |
-| **% completado** (HAVE/N) | **20,8%** | calculado |
+| Tengo/pegadas (HAVE) | **225** | registro 2026-06-09 (+21 Lote A sobres) |
+| **% completado** (HAVE/N) | **23,0%** | calculado |
 | Perdidas (extraviadas en casa) | **39** | lote 06-06 PM, ver `BITACORA_LOTES.md` |
-| Faltan (`falta`) | **737** | calculado |
-| **Por conseguir** (falta + perdida) | **776** | falta 737 + perdida 39 |
-| Repetidas (n°) | **20 cartas / 17 códigos** | dictado ▶️ |
+| Faltan (`falta`) | **716** | calculado |
+| **Por conseguir** (falta + perdida) | **755** | falta 716 + perdida 39 |
+| Repetidas (n°) | **16 cartas / 15 códigos** | registro 2026-06-09 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
