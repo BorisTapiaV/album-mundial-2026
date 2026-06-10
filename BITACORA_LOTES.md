@@ -46,6 +46,7 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-09 | **mar** | A (sobres) | 16:25 | 16:40 | ✅ cerrado | **+21** | sí (21 pegadas) | Dictado 28 códigos → 21 nuevas pegadas + 7 repetidas al pool. HAVE 204→225 (23,0%). Pool repetidas 9→16/15. 🇵🇹 Portugal estrena (POR12 Vitinha). Brillantes 12→13/68 (TUR1). Estrella ENG11 Bellingham |
 | 2026-06-09 | mar | B (sobres) | 18:30 | 18:45 | ✅ cerrado | **+23** | sí (23 pegadas) | Dictado 28 → 22 nuevas + TUN10 re-obtenida en sobre (perdida→pegada, perdidas 39→38) + 5 repetidas. HAVE 225→248 (25,3%). Pool 16→21/20. Marruecos estrena (MAR1 escudo foil, brillantes 13→14). 🇵🇹 POR17 João Félix (Portugal 2/20). Estrellas FRA15 Dembélé, ENG10 Rice |
 | 2026-06-09 | mar | C (sobres) | 19:20 | 19:35 | ✅ cerrado | **+22** | sí (22 pegadas) | Dictado 28 → 21 nuevas + BEL2 re-obtenida en sobre (perdida→pegada, perdidas 38→37) + 6 repetidas. HAVE 248→270 (27,6%). Pool 21→27/25. ARG1 escudo Argentina foil (brillantes 14→15). Estrellas BEL2 Courtois, CRO10 Kovačić, ENG15 Gordon |
+| 2026-06-09 | mar | D (sobres) | 20:05 | 20:20 | ✅ cerrado | **+20** | sí (20 pegadas) | Dictado 28 → 17 nuevas + 3 re-obtenidas de sobre (AUT12/AUT17/COL10, perdidas 37→34) + 8 repetidas. HAVE 270→290 (29,6%). Pool 27→35/32. GER1 + FWC16 foil (brillantes 15→17). Estrellas SWE17 Kulusevski, KOR12 Lee Kang-in, COL15 Quintero |
 
 ---
 
@@ -172,6 +173,29 @@ BEL10 (Amadou Onana) · NZL8 (Francis de Vries) · **RSA19 (Mohau Nkota — 2ª 
 
 **Hitos:** 🇦🇷 escudo Argentina foil (ARG1, brillantes 14→**15/68**) · re-obtenido el arquero estrella Courtois (BEL2) ·
 estrellas Kovačić (CRO10) + Gordon (ENG15).
+
+---
+
+## 📦 Lote D — 2026-06-09 (mar) · Sobres · inicio 20:05 · cierre 20:20
+
+Dictado de **28 códigos** → **17 nuevas pegadas** + **3 re-obtenidas de sobre** + **8 repetidas**.
+**HAVE 270→290 (27,6%→29,6%)**.
+
+**Nuevas pegadas (17):** **GER1 (Escudo Alemania ✨ foil)** · **FWC16 (Brasil 2002 FIFA Museum ✨ foil)** ·
+SWE17 (Dejan Kulusevski ⭐) · KOR12 (Lee Kang-in ⭐) · COL15 (Juan Fernando Quintero) · NZL17 (Chris Wood) ·
+SUI8 (Silvan Widmer) · AUS5 (Alessandro Circati) · CIV3 (Ghislain Konan) · CIV7 (Willy Boly) ·
+CIV17 (Simon Adingra) · COD13 (foto equipo) · TUR19 (Kerem Aktürkoğlu) · KOR8 (Lee Tae-seok) ·
+PAN13 (foto equipo) · CPV17 (Ryan Mendes) · ARG7 (Leonardo Balerdi).
+
+**Re-obtenidas de sobre (3):** AUT12 (Konrad Laimer) · AUT17 (Patrick Wimmer) · COL10 (Jefferson Lerma).
+`perdida→pegada`. Perdidas **37→34**.
+
+**Repetidas al pool (8):** UZB1 (escudo foil) · BIH8 (Hadžiahmetović) · BIH12 (Bašić) · SUI12 (Rieder) ·
+RSA5 (Kabini) · IRQ15 (Aymar Sher) · KSA13 (foto equipo, canje #1) · **AUS10 (Degenek — 2ª repetida)**.
+Pool **27→35 cartas / 32 códigos**.
+
+**Hitos:** 🇩🇪 escudo Alemania foil + FWC Brasil 2002 (brillantes 15→**17/68**) · estrellas Kulusevski (SWE17) +
+Lee Kang-in (KOR12) + Quintero (COL15). Perdidas ya en 34 (de 39 originales).
 
 ---
 

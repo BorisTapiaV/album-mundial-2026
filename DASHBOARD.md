@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-09 (mar, 19:20) — **270/980 (27,6%)** — **Lote C sobres +22 pegadas** (21 nuevas + BEL2 Courtois re-obtenida de sobre, perdidas 38→37). 🇦🇷 escudo Argentina foil (ARG1, brillantes 14→15); estrellas Kovačić + Gordon. Pool repetidas 21→27/25. Hoy: A +21 (23,0%) → B +23 (25,3%) → C +22 (27,6%); 204→270 (+66).
+**Última actualización:** 2026-06-09 (mar, 20:05) — **290/980 (29,6%)** — **Lote D sobres +20 pegadas** (17 nuevas + 3 re-obtenidas de sobre, perdidas 37→34). 🇩🇪 escudo Alemania + FWC Brasil 2002 foil (brillantes 15→17); estrellas Kulusevski, Lee Kang-in, Quintero. Pool repetidas 27→35/32. Hoy: A→B→C→D, 204→290 (**+86**, 4 lotes).
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **270** | registro 2026-06-09 (+22 Lote C sobres) |
-| **% completado** (HAVE/N) | **27,6%** | calculado |
-| Perdidas (extraviadas en casa) | **37** | lote 06-06 PM (TUN10+BEL2 re-obtenidas), ver `BITACORA_LOTES.md` |
-| Faltan (`falta`) | **673** | calculado |
-| **Por conseguir** (falta + perdida) | **710** | falta 673 + perdida 37 |
-| Repetidas (n°) | **27 cartas / 25 códigos** | registro 2026-06-09 |
+| Tengo/pegadas (HAVE) | **290** | registro 2026-06-09 (+20 Lote D sobres) |
+| **% completado** (HAVE/N) | **29,6%** | calculado |
+| Perdidas (extraviadas en casa) | **34** | lote 06-06 PM (5 re-obtenidas en sobre), ver `BITACORA_LOTES.md` |
+| Faltan (`falta`) | **656** | calculado |
+| **Por conseguir** (falta + perdida) | **690** | falta 656 + perdida 34 |
+| Repetidas (n°) | **35 cartas / 32 códigos** | registro 2026-06-09 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
