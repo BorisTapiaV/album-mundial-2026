@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-09 (mar, 20:05) — **290/980 (29,6%)** — **Lote D sobres +20 pegadas** (17 nuevas + 3 re-obtenidas de sobre, perdidas 37→34). 🇩🇪 escudo Alemania + FWC Brasil 2002 foil (brillantes 15→17); estrellas Kulusevski, Lee Kang-in, Quintero. Pool repetidas 27→35/32. Hoy: A→B→C→D, 204→290 (**+86**, 4 lotes).
+**Última actualización:** 2026-06-09 (mar, 21:10) — **320/980 (32,7%)** — **Lote E sobres +30 pegadas** (28 nuevas + 2 re-obtenidas de sobre, perdidas 34→32). 🇵🇹 Portugal 3/20 (POR9 Bernardo Silva); 🇬🇭 escudo Ghana foil (brillantes 17→18); estrellas Raphinha, van Dijk, Alaba. Pool repetidas 35→40/37. Hoy: A→B→C→D→E, 204→320 (**+116**, 5 lotes).
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **290** | registro 2026-06-09 (+20 Lote D sobres) |
-| **% completado** (HAVE/N) | **29,6%** | calculado |
-| Perdidas (extraviadas en casa) | **34** | lote 06-06 PM (5 re-obtenidas en sobre), ver `BITACORA_LOTES.md` |
-| Faltan (`falta`) | **656** | calculado |
-| **Por conseguir** (falta + perdida) | **690** | falta 656 + perdida 34 |
-| Repetidas (n°) | **35 cartas / 32 códigos** | registro 2026-06-09 |
+| Tengo/pegadas (HAVE) | **320** | registro 2026-06-09 (+30 Lote E sobres) |
+| **% completado** (HAVE/N) | **32,7%** | calculado |
+| Perdidas (extraviadas en casa) | **32** | lote 06-06 PM (7 re-obtenidas en sobre), ver `BITACORA_LOTES.md` |
+| Faltan (`falta`) | **628** | calculado |
+| **Por conseguir** (falta + perdida) | **660** | falta 628 + perdida 32 |
+| Repetidas (n°) | **40 cartas / 37 códigos** | registro 2026-06-09 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |

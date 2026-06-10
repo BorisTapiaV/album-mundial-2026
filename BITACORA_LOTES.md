@@ -47,6 +47,7 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-09 | mar | B (sobres) | 18:30 | 18:45 | ✅ cerrado | **+23** | sí (23 pegadas) | Dictado 28 → 22 nuevas + TUN10 re-obtenida en sobre (perdida→pegada, perdidas 39→38) + 5 repetidas. HAVE 225→248 (25,3%). Pool 16→21/20. Marruecos estrena (MAR1 escudo foil, brillantes 13→14). 🇵🇹 POR17 João Félix (Portugal 2/20). Estrellas FRA15 Dembélé, ENG10 Rice |
 | 2026-06-09 | mar | C (sobres) | 19:20 | 19:35 | ✅ cerrado | **+22** | sí (22 pegadas) | Dictado 28 → 21 nuevas + BEL2 re-obtenida en sobre (perdida→pegada, perdidas 38→37) + 6 repetidas. HAVE 248→270 (27,6%). Pool 21→27/25. ARG1 escudo Argentina foil (brillantes 14→15). Estrellas BEL2 Courtois, CRO10 Kovačić, ENG15 Gordon |
 | 2026-06-09 | mar | D (sobres) | 20:05 | 20:20 | ✅ cerrado | **+20** | sí (20 pegadas) | Dictado 28 → 17 nuevas + 3 re-obtenidas de sobre (AUT12/AUT17/COL10, perdidas 37→34) + 8 repetidas. HAVE 270→290 (29,6%). Pool 27→35/32. GER1 + FWC16 foil (brillantes 15→17). Estrellas SWE17 Kulusevski, KOR12 Lee Kang-in, COL15 Quintero |
+| 2026-06-09 | mar | E (sobres) | 21:10 | 21:25 | ✅ cerrado | **+30** | sí (30 pegadas) | Dictado 35 → 28 nuevas + 2 re-obtenidas de sobre (AUT4/PAR13, perdidas 34→32) + 5 repetidas. HAVE 290→320 (32,7%, cruza 30%). Pool 35→40/37. GHA1 escudo foil (brillantes 17→18). 🇵🇹 Portugal 3/20 (POR9 Bernardo Silva). Estrellas BRA19 Raphinha, NED3 van Dijk, AUT4 Alaba |
 
 ---
 
@@ -196,6 +197,30 @@ Pool **27→35 cartas / 32 códigos**.
 
 **Hitos:** 🇩🇪 escudo Alemania foil + FWC Brasil 2002 (brillantes 15→**17/68**) · estrellas Kulusevski (SWE17) +
 Lee Kang-in (KOR12) + Quintero (COL15). Perdidas ya en 34 (de 39 originales).
+
+---
+
+## 📦 Lote E — 2026-06-09 (mar) · Sobres · inicio 21:10 · cierre 21:25
+
+Dictado de **35 códigos** (2 venían pegados en el dictado: "par 15mex 18"→PAR15+MEX18,
+"kor 20ger 3"→KOR20+GER3) → **28 nuevas pegadas** + **2 re-obtenidas de sobre** + **5 repetidas**.
+**HAVE 290→320 (29,6%→32,7%)** — cruza el 30%.
+
+**Nuevas pegadas (28):** 🇵🇹 **POR9 (Bernardo Silva)** · BRA19 (Raphinha ⭐) · NED3 (van Dijk ⭐) ·
+NED11 (Gravenberch) · **GHA1 (Escudo Ghana ✨ foil)** · GER3 (Tah) · GER7 (Anton) · GER12 (Nmecha) ·
+BIH15 (Bajraktarević) · IRQ9 (Iqbal) · IRQ8 (Younis) · PAR15 (Enciso) · MEX18 (Vega) ·
+KSA14 (Abu Alshamat) · KSA18 (Akbrikan) · KSA5 (Bouwashl) · KOR20 (Oh Hyeon-gyu) · KOR17 (Cho Gue-sung) ·
+NOR13 (foto equipo) · USA18 (Pepi) · URU20 (Pellistri) · URU8 (Varela) · RSA14 (Aubaas) ·
+ESP3 (Le Normand) · TUR5 (Bardakcı) · CPV12 (Monteiro) · HAI6 (Adé) · JOR6 (Nasib).
+
+**Re-obtenidas de sobre (2):** **AUT4 (David Alaba ⭐)** · PAR13 (foto equipo). `perdida→pegada`. Perdidas **34→32**.
+
+**Repetidas al pool (5):** IRN18 (Taremi) · **NED15 (Xavi Simons — pegada en Lote A de hoy)** ·
+PAN13 (foto equipo, Lote D) · SCO13 (foto equipo) · COD7 (Joris Kayembe). Pool **35→40 cartas / 37 códigos**.
+
+**Hitos:** 🇵🇹 Portugal sube a **3/20** (POR9 Bernardo Silva + POR12 Vitinha + POR17 João Félix; Cristiano POR15
+sigue pendiente) · 🇬🇭 escudo Ghana foil (brillantes 17→**18/68**) · estrellas Raphinha (BRA19), van Dijk (NED3),
+Alaba re-obtenido (AUT4).
 
 ---
 
