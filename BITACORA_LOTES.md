@@ -48,6 +48,7 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-09 | mar | C (sobres) | 19:20 | 19:35 | ✅ cerrado | **+22** | sí (22 pegadas) | Dictado 28 → 21 nuevas + BEL2 re-obtenida en sobre (perdida→pegada, perdidas 38→37) + 6 repetidas. HAVE 248→270 (27,6%). Pool 21→27/25. ARG1 escudo Argentina foil (brillantes 14→15). Estrellas BEL2 Courtois, CRO10 Kovačić, ENG15 Gordon |
 | 2026-06-09 | mar | D (sobres) | 20:05 | 20:20 | ✅ cerrado | **+20** | sí (20 pegadas) | Dictado 28 → 17 nuevas + 3 re-obtenidas de sobre (AUT12/AUT17/COL10, perdidas 37→34) + 8 repetidas. HAVE 270→290 (29,6%). Pool 27→35/32. GER1 + FWC16 foil (brillantes 15→17). Estrellas SWE17 Kulusevski, KOR12 Lee Kang-in, COL15 Quintero |
 | 2026-06-09 | mar | E (sobres) | 21:10 | 21:25 | ✅ cerrado | **+30** | sí (30 pegadas) | Dictado 35 → 28 nuevas + 2 re-obtenidas de sobre (AUT4/PAR13, perdidas 34→32) + 5 repetidas. HAVE 290→320 (32,7%, cruza 30%). Pool 35→40/37. GHA1 escudo foil (brillantes 17→18). 🇵🇹 Portugal 3/20 (POR9 Bernardo Silva). Estrellas BRA19 Raphinha, NED3 van Dijk, AUT4 Alaba |
+| 2026-06-09 | mar | F (sobres) | 22:55 | 23:10 | ✅ cerrado | **+12** | sí (11 pegadas) | Dictado 14 → 10 nuevas + TUR14 re-obtenida de sobre (perdidas 32→31) + GHA20 (ya pegada en álbum, registro lo tenía `falta` → corregido a pegada + 1 repetida) + IRN3/CZE14 repetidas. HAVE 320→332 (33,9%). Pool 40→43/40. SWE1 escudo foil (brillantes 18→19). Estrellas BRA14 Vinicius Jr, TUR14 Arda Güler |
 
 ---
 
@@ -221,6 +222,46 @@ PAN13 (foto equipo, Lote D) · SCO13 (foto equipo) · COD7 (Joris Kayembe). Pool
 **Hitos:** 🇵🇹 Portugal sube a **3/20** (POR9 Bernardo Silva + POR12 Vitinha + POR17 João Félix; Cristiano POR15
 sigue pendiente) · 🇬🇭 escudo Ghana foil (brillantes 17→**18/68**) · estrellas Raphinha (BRA19), van Dijk (NED3),
 Alaba re-obtenido (AUT4).
+
+---
+
+## 📦 Lote F — 2026-06-09 (mar) · Sobres · inicio 22:55 · cierre 23:10 · **último del día**
+
+Dictado de **14 códigos** → **10 nuevas pegadas** + **TUR14 re-obtenida de sobre** +
+**GHA20 (corrección de registro)** + **2 repetidas**. **HAVE 320→332 (32,7%→33,9%)**.
+
+**Nuevas pegadas (10):** **BRA14 (Vinicius Júnior ⭐)** · **SWE1 (Escudo Suecia ✨ foil)** · FRA7 (Dayot Upamecano) ·
+NED18 (Donyell Malen) · GHA18 (Joseph Paintsil) · ALG18 (Amine Gouiri) · NOR2 (Ørjan Nyland) ·
+CZE7 (Tomas Holes) · CZE10 (Lukas Provod) · HAI3 (Carlens Arcus).
+
+**Re-obtenida de sobre (1):** **TUR14 (Arda Güler ⭐)** — `perdida→pegada`. Perdidas **32→31**.
+
+**Corrección de registro (1):** **GHA20 (Antoine Semenyo)** — Boris confirmó que ya estaba **pegada en el álbum**
+pero el registro la tenía `falta` (caso verificación cruzada). Corregido a `pegada` + la copia dictada va al pool
+(`repetidas=1`). Suma 1 a HAVE (estaba subcontada) y 1 al pool.
+
+**Repetidas al pool (2):** IRN3 (Pouraliganji) · CZE14 (Pavel Sulc). Pool total con GHA20 **40→43 cartas / 40 códigos**.
+
+**Hitos:** ⭐⭐ Vinicius Júnior (BRA14) · 🇸🇪 escudo Suecia foil (brillantes 18→**19/68**) · Arda Güler re-obtenido.
+
+---
+
+## 🏁 Resumen del día 2026-06-09 (martes) — 6 lotes
+
+| Lote | Hora | Δ HAVE | Cierre % |
+|------|------|-------:|---------:|
+| A | 16:25 | +21 | 23,0% |
+| B | 18:30 | +23 | 25,3% |
+| C | 19:20 | +22 | 27,6% |
+| D | 20:05 | +20 | 29,6% |
+| E | 21:10 | +30 | 32,7% |
+| F | 22:55 | +12 | **33,9%** |
+| **Total** | | **+128** | **204→332** |
+
+**Movimientos del día:** HAVE 204→**332** (+128, todo sobres). Perdidas 39→**31** (8 re-obtenidas en sobres
+nuevos: TUN10, BEL2, AUT12, AUT17, COL10, AUT4, PAR13, TUR14). Pool repetidas 9→**43 cartas / 40 códigos**.
+Brillantes 12→**19/68** (TUR1, MAR1, ARG1, GER1, FWC16, GHA1, SWE1). 🇵🇹 Portugal **3/20** (Vitinha, João Félix,
+Bernardo Silva) — Cristiano POR15 sigue pendiente. 1 rotura (BIH10 repetida).
 
 ---
 
