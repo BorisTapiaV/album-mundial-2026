@@ -265,5 +265,76 @@ Bernardo Silva) — Cristiano POR15 sigue pendiente. 1 rotura (BIH10 repetida).
 
 ---
 
+## 📦 Lote A — 2026-06-10 (mié) · Sobres · inicio 12:30 · **PEGADAS**
+
+Dictado de **35 códigos** (+2 consultas posteriores) → **25 nuevas pegadas** + **12 repetidas**.
+**HAVE 332→357 (33,9%→36,4%)**.
+
+**Nuevas pegadas (25):** **COD1, IRN1, URU1 (3 escudos ✨ foil)** · **EGY20 (Omar Marmoush ⭐)** ·
+**KOR4 (Kim Min-jae ⭐)** · **ENG6 (Trent Alexander-Arnold ⭐)** · **CRO19 (Kramarić ⭐)** ·
+**ARG16 (Nico González ⭐)** · HAI16 · BIH2 · BIH6 · NOR11 · EGY10 · EGY15 · EGY8 · QAT6 ·
+KSA12 · COD8 · ALG12 · SEN12 · CRO15 · TUN15 · SWE4 · RSA6 · ARG20.
+
+**Repetidas al pool (12):** HAI14 · BEL16 · ENG20 · EGY10 (2ª copia) · BEL8 · BEL9 · IRN19 · ARG6 ·
+CIV6 · IRN16 · EGY18 · IRN6. Pool **43→55 cartas**.
+
+**Hitos:** brillantes 19→**22/68** (3 escudos) · Egipto avanza fuerte (EGY8/10/15/20).
+
+---
+
+## 📦 Lote B — 2026-06-10 (mié) · Sobres · inicio 17:00 · **PEGADAS**
+
+Dictado de **13 códigos** (+consultas) → **12 nuevas pegadas** + **1 repetida**.
+**HAVE 357→369 (36,4%→37,7%)**.
+
+**Nuevas pegadas (12):** **PAR1 (Escudo Paraguay ✨ foil)** · **TUN13 + UZB13 (📷 primeras 2 fotos de equipo)** ·
+NED6 (Dumfries) · NED10 (Reijnders) · AUT10 (X. Schlager) · AUT11 (Sabitzer) · CAN8 (Bombito) ·
+CAN12 (Osorio) · UZB2 (Yusupov) · SWE10 (Karlström) · SWE11 (Ayari).
+
+**Repetidas al pool (1):** USA17 (Aaronson). Pool **55→56 cartas**.
+
+**Hitos:** brillantes 22→**23/68** (PAR1) · primeras fotos de equipo del proyecto (TUN13, UZB13).
+
+---
+
+## 📦 Lote C — 2026-06-10 (mié) · Sobres · inicio 20:24 · cierre 20:45 · **último del día** · ⚠️ **SUELTAS (en caja)**
+
+Dictado de **34 códigos** → **22 nuevas sueltas** + **TUN20 re-obtenida** + **11 repetidas**.
+**HAVE 369→392 (37,7%→40,0%)**. 🎉 cruza el 40%.
+
+> ⚠️ **Las 22 nuevas + TUN20 quedaron SUELTAS en una caja** (estado `tengo`, no `pegada`) — riesgo de
+> extravío (lección 2026-06-06: 39 sueltas perdidas). Pendiente pegarlas. Entre ellas: BRA15 (Rodrygo ⭐),
+> SWE16 (Bardghji ⭐), JOR1 (escudo ✨).
+
+**Nuevas sueltas (22):** **JOR1 (Escudo Jordania ✨ foil)** · **BRA15 (Rodrygo ⭐)** · **SWE16 (Bardghji ⭐)** ·
+BRA9 (Paquetá) · SWE5 · SWE15 · URU9 (Nández) · JPN16 (Minamino) · JPN11 (Kamada) · JPN20 (Ueda) ·
+CZE11 · CRO3 · CRO7 · HAI20 (Pierrot) · MAR10 (Amrabat) · MAR2 (Bounou) · BIH5 · PAR6 · NED2 (Verbruggen) ·
+ALG8 (Bennacer) · CPV11 · SEN4 (Niakhaté).
+
+**Re-obtenida de sobre (1):** **TUN20 (Naïm Sliti)** — `perdida→tengo`. Perdidas **31→30**.
+
+**Repetidas al pool (11):** PAR1 (¡pegada en Lote B de hoy!) · IRQ20 · CZE5 · FWC15 (foil Brasil 94) · CZE7 ·
+IRN20 · HAI18 · AUS12 · SCO2 · CPV10 · USA17 (2ª copia → rep=2). Pool **56→67 cartas**.
+
+**Hitos:** brillantes 23→**24/68** (JOR1) · 40% alcanzado · Naím Sliti recuperado.
+
+---
+
+## 🏁 Resumen del día 2026-06-10 (miércoles) — 3 lotes
+
+| Lote | Inicio | Cierre | Pegado | Δ HAVE | Cierre % |
+|------|--------|--------|--------|-------:|---------:|
+| A | 12:30 | — | pegadas | +25 | 36,4% |
+| B | 17:00 | — | pegadas | +12 | 37,7% |
+| C | 20:24 | 20:45 | ⚠️ sueltas (caja) | +23 | **40,0%** |
+| **Total** | | | | **+60** | **332→392** |
+
+**Movimientos del día:** HAVE 332→**392** (+60, todo sobres). Perdidas 31→**30** (TUN20 re-obtenida).
+Pool repetidas 43→**67 cartas** (+24). Brillantes 19→**24/68** (COD1, IRN1, URU1, PAR1, JOR1 — 5 escudos).
+Primeras **2 fotos de equipo** (TUN13, UZB13). 🇵🇹 Portugal sigue **3/20**, Cristiano POR15 pendiente.
+⚠️ **Lote C (23 láminas) quedó suelto en caja** — pendiente pegar (riesgo extravío).
+
+---
+
 *Cross-ref: `registro_maestro.csv` (estado autoritativo) · `DASHBOARD.md` (KPIs) ·
 `INVESTIGACION_Y_SISTEMA.md` (arquitectura).*
