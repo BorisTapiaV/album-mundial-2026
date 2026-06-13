@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-13 (sáb, 16:02) — 🎉 **492/980 (50,2%) — CRUZA EL 50%** — **lote sobres, 481→492 (+11 nuevas)**. 28 láminas (4 sobres): 11 nuevas pegadas + 17 repetidas. Nuevas: ⭐ **MAR4 (Achraf Hakimi)** · ⭐ **JPN2 (Zion Suzuki)** · ✨ FWC9 (Italia 1934 Museum foil) · ✨ CIV1 (escudo) · ✨ IRQ1 (escudo) · RSA15 · AUS3 · KSA15 · KSA19 · SWE12 · SWE8. (IRN19 resultó repetida, no nueva → rep=2). Perdidas 28. Pool 131→**148/125 códigos**. Brillantes 32→**35/68** (+3 foils). 🇵🇹 Portugal 3/20 (POR15 aún falta). · *Anterior: 13-jun 10:59 481/980 (+7) · 12-jun (vie) 392→474 (+82).*
+**Última actualización:** 2026-06-13 (sáb, 17:25) — **504/980 (51,4%)** — **lote sobres, 492→504 (+11 nuevas + 1 recuperada)**. 28 láminas (4 sobres): 10 nuevas + ARG13 recuperada (perdida→pegada) + 17 repetidas. Nuevas: 🇵🇹 **POR7 (Nuno Mendes) → Portugal 3→4/20** · ✨ USA1 (escudo) · GER13 (foto eq.) · UZB16 · AUS14 · ALG14 · TUR6 · ECU11 · CZE19 · MAR18. (SEN11 resultó repetida, ya pegada → rep=1). Perdidas 28→**27** (ARG13). Pool 148→**165/140 códigos**. Brillantes 35→**36/68** (USA1). 🇵🇹 **Portugal 4/20** (POR15 Cristiano aún falta). · *Anterior: 13-jun 16:02 492 (+11, cruza 50%) · 10:59 481 (+7) · 12-jun 392→474 (+82).*
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **492** | registro 2026-06-13 (2 lotes, +18) |
-| **% completado** (HAVE/N) | **50,2%** 🎉 | calculado |
-| Perdidas (extraviadas en casa) | **28** | sin cambios (06-13) |
-| Faltan (`falta`) | **460** | calculado |
-| **Por conseguir** (falta + perdida) | **488** | falta 460 + perdida 28 |
-| Repetidas (n°) | **148 cartas / 125 códigos** | registro 2026-06-13 |
+| Tengo/pegadas (HAVE) | **504** | registro 2026-06-13 (3 lotes, +30) |
+| **% completado** (HAVE/N) | **51,4%** | calculado |
+| Perdidas (extraviadas en casa) | **27** | ARG13 recuperada 06-13 |
+| Faltan (`falta`) | **449** | calculado |
+| **Por conseguir** (falta + perdida) | **476** | falta 449 + perdida 27 |
+| Repetidas (n°) | **165 cartas / 140 códigos** | registro 2026-06-13 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
