@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-12 (jue, ~22:50 — álbum cerrado por hoy) — **474/980 (48,4%)** — **4 lotes hoy, 392→474 (+82)**. L1 +25 pegadas +10 rep · L2 18:50 +26 pegadas (ALG16 recuperada) +7 rep · L3 20:05 +24 pegadas (`00` logo Panini, KSA1 escudo, foils FWC11 Alemania Occ. 1954 + FWC19 Argentina 2022) +11 rep · L4 22:30 +5 pegadas + ⭐ **Mbappé (FRA20) recuperado** +8 rep; corrección `00`→repetida (ya estaba pegado). Perdidas 30→28 (ALG16 + Mbappé recuperados). Pool repetidas 67→**110/98 códigos**. Brillantes 24→**32/68**. 🇵🇹 Portugal 3/20 (Cristiano POR15 aún falta). Cruzaste el **48%**.
+**Última actualización:** 2026-06-13 (sáb, 10:59) — **481/980 (49,1%)** — **lote sobres, 474→481 (+7 nuevas)**. 28 láminas dictadas (sobres frescos): 7 nuevas pegadas ahora + 21 repetidas al pool (incl. 2ª copia de TUR15). Nuevas: MAR8 · TUN19 · TUR15 · GHA19 · ⭐ **URU4 (Ronald Araújo)** · URU12 · ⭐ **NED17 (Memphis Depay)**. Perdidas 28 (sin cambios). Pool repetidas 110→**131/113 códigos**. Brillantes 32/68 (ninguna foil nueva). 🇵🇹 Portugal 3/20 (Cristiano POR15 aún falta). **Casi cruzas el 50%.** · *Anterior: 12-jun (vie, ~22:50) 4 lotes 392→474 (+82).*
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **474** | registro 2026-06-12 (4 lotes, +82) |
-| **% completado** (HAVE/N) | **48,4%** | calculado |
-| Perdidas (extraviadas en casa) | **28** | ALG16 + Mbappé (FRA20) recuperados 06-12 |
-| Faltan (`falta`) | **478** | calculado |
-| **Por conseguir** (falta + perdida) | **506** | falta 478 + perdida 28 |
-| Repetidas (n°) | **110 cartas / 98 códigos** | registro 2026-06-12 |
+| Tengo/pegadas (HAVE) | **481** | registro 2026-06-13 (lote sobres, +7) |
+| **% completado** (HAVE/N) | **49,1%** | calculado |
+| Perdidas (extraviadas en casa) | **28** | sin cambios (06-13) |
+| Faltan (`falta`) | **471** | calculado |
+| **Por conseguir** (falta + perdida) | **499** | falta 471 + perdida 28 |
+| Repetidas (n°) | **131 cartas / 113 códigos** | registro 2026-06-13 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
