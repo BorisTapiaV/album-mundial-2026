@@ -49,6 +49,13 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-09 | mar | D (sobres) | 20:05 | 20:20 | ✅ cerrado | **+20** | sí (20 pegadas) | Dictado 28 → 17 nuevas + 3 re-obtenidas de sobre (AUT12/AUT17/COL10, perdidas 37→34) + 8 repetidas. HAVE 270→290 (29,6%). Pool 27→35/32. GER1 + FWC16 foil (brillantes 15→17). Estrellas SWE17 Kulusevski, KOR12 Lee Kang-in, COL15 Quintero |
 | 2026-06-09 | mar | E (sobres) | 21:10 | 21:25 | ✅ cerrado | **+30** | sí (30 pegadas) | Dictado 35 → 28 nuevas + 2 re-obtenidas de sobre (AUT4/PAR13, perdidas 34→32) + 5 repetidas. HAVE 290→320 (32,7%, cruza 30%). Pool 35→40/37. GHA1 escudo foil (brillantes 17→18). 🇵🇹 Portugal 3/20 (POR9 Bernardo Silva). Estrellas BRA19 Raphinha, NED3 van Dijk, AUT4 Alaba |
 | 2026-06-09 | mar | F (sobres) | 22:55 | 23:10 | ✅ cerrado | **+12** | sí (11 pegadas) | Dictado 14 → 10 nuevas + TUR14 re-obtenida de sobre (perdidas 32→31) + GHA20 (ya pegada en álbum, registro lo tenía `falta` → corregido a pegada + 1 repetida) + IRN3/CZE14 repetidas. HAVE 320→332 (33,9%). Pool 40→43/40. SWE1 escudo foil (brillantes 18→19). Estrellas BRA14 Vinicius Jr, TUR14 Arda Güler |
+| 2026-06-10 | mié | A (sobres) | 12:30 | — | ✅ cerrado | **+25** | sí (pegadas) | +25 nuevas (3 escudos COD1/IRN1/URU1 + Marmoush EGY20, Kim Min-jae KOR4, Trent ENG6, Kramarić CRO19, Nico González ARG16) + 12 repetidas. HAVE 332→357 (36,4%). Brillantes 19→22/68 |
+| 2026-06-10 | mié | B (sobres) | 17:00 | — | ✅ cerrado | **+12** | sí (pegadas) | +12 nuevas (PAR1 escudo; TUN13+UZB13 = primeras 2 fotos de equipo; Dumfries/Reijnders/Sabitzer) + 1 repetida (USA17). HAVE 357→369 (37,7%). Brillantes 22→23/68 (PAR1) |
+| 2026-06-10 | mié | C (sobres) | 20:24 | 20:45 | ✅ cerrado | **+23** | ⚠️ no (sueltas en caja) | +22 nuevas sueltas (JOR1 escudo, Rodrygo BRA15 ⭐, Bardghji SWE16 ⭐) + TUN20 re-obtenida (perdida→tengo, perdidas 31→30) + 11 repetidas. HAVE 369→392 (40,0%, cruza 40%). Pool 56→67. Brillantes 23→24/68 (JOR1). ⚠️ pendiente pegar |
+| 2026-06-12 | jue | A (sobres) | n/d | — | ✅ cerrado | **+25** | sí (pegadas) | 25 nuevas. HAVE 392→417 (42,6%). +10 repetidas al pool |
+| 2026-06-12 | jue | B (sobres) | 18:50 | — | ✅ cerrado | **+27** | sí (pegadas) | 26 nuevas + **ALG16 recuperada** (perdida→pegada, perdidas 30→29) + 7 repetidas. HAVE 417→444 (45,3%) |
+| 2026-06-12 | jue | C (sobres) | 20:05 | — | ✅ cerrado | **+24** | sí (pegadas) | 24 nuevas incl. **`00` logo Panini + KSA1 escudo + foils FWC11 (Alemania Occ. 1954) y FWC19 (Argentina 2022)** + 11 repetidas. HAVE 444→468 (47,8%) |
+| 2026-06-12 | jue | D (sobres) | 22:30 | — | ✅ cerrado | **+6** | sí (pegadas) | 5 nuevas + ⭐ **Mbappé (FRA20) recuperado** (perdida→pegada, perdidas 29→28) + 8 repetidas; corrección `00`→repetida (ya estaba pegado). HAVE 468→474 (48,4%) |
 
 ---
 
@@ -333,6 +340,56 @@ IRN20 · HAI18 · AUS12 · SCO2 · CPV10 · USA17 (2ª copia → rep=2). Pool **
 Pool repetidas 43→**67 cartas** (+24). Brillantes 19→**24/68** (COD1, IRN1, URU1, PAR1, JOR1 — 5 escudos).
 Primeras **2 fotos de equipo** (TUN13, UZB13). 🇵🇹 Portugal sigue **3/20**, Cristiano POR15 pendiente.
 ⚠️ **Lote C (23 láminas) quedó suelto en caja** — pendiente pegar (riesgo extravío).
+
+---
+
+## 📦 Día 2026-06-12 (jue) — 4 lotes de sobres (A–D) · **PEGADAS**
+
+> ⚠️ **Reconstruido el 2026-06-13** a partir del `registro_maestro.csv` (estado autoritativo) +
+> resumen por lote que quedó en el `DASHBOARD.md`. El registro timestampa el **día**
+> (`fecha_estado=2026-06-12`), no el lote individual → el detalle **código-por-código de abajo es el
+> agregado del día**; los conteos y destacados **por lote** (L1–L4) vienen del DASHBOARD.
+
+**HAVE 392→474 (40,0%→48,4%)** = **+82** (80 nuevas + 2 recuperadas). Cruza el **48%**.
+Perdidas **30→28** · Pool repetidas **67→110 cartas / 98 códigos** (+43) · Brillantes **24→32/68**.
+**Además: 173 láminas que estaban sueltas se pegaron al álbum** (`tengo→pegada`) — cierra el riesgo
+de extravío del Lote C del 10-jun y el backlog suelto acumulado. 🇵🇹 Portugal sigue **3/20**,
+**Cristiano POR15 pendiente**.
+
+**Resumen por lote (del DASHBOARD):**
+
+| Lote | Inicio | Nuevas | Recuperada | Rep. | Δ HAVE | Cierre % | Destacados |
+|------|--------|-------:|------------|-----:|-------:|---------:|------------|
+| A | n/d | 25 | — | +10 | +25 | 42,6% | — |
+| B | 18:50 | 26 | ALG16 (perdida→pegada) | +7 | +27 | 45,3% | ALG16 recuperada |
+| C | 20:05 | 24 | — | +11 | +24 | 47,8% | `00` logo Panini · KSA1 escudo · foils FWC11 (Alemania Occ. 1954) + FWC19 (Argentina 2022) |
+| D | 22:30 | 5 | FRA20 (perdida→pegada) | +8 | +6 | **48,4%** | ⭐ **Mbappé (FRA20) recuperado** · corrección `00`→repetida (ya estaba pegado) |
+| **Total** | | **80** | **2** | **+43** | **+82** | **392→474** | brillantes 24→32 |
+
+**Recuperadas de sobre (2):** ALG16 (Argelia) · **FRA20 (Mbappé ⭐, Francia)** — ambas `perdida→pegada`.
+Perdidas 30→28.
+
+**Nuevas del día (80, agregado por equipo):**
+Alemania GER11/16/20 · Arabia Saudita KSA1(escudo)/9 · Argelia ALG11 · Austria AUT2/18 ·
+Bélgica BEL3/20 · Brasil BRA5 · Catar QAT7/8/12/17 · Colombia COL17 · Corea del Sur KOR1(escudo)/7/11/16 ·
+Croacia CRO11/16/20 · Curazao CUW16 · Ecuador ECU5/18 · España ESP9/11 · Estados Unidos USA20 ·
+**FWC FWC11(foil)/FWC19(foil)** · Francia FRA18 · Ghana GHA5/9/14 · Haití HAI7/11/19 ·
+Inglaterra ENG4/7/8/9/14/18 · Irán IRN9 · Japón JPN1(escudo)/7 · Jordania JOR3/7/11/16/20 ·
+Marruecos MAR3/7/11 · México MEX13 · Noruega NOR3/7/16 · Países Bajos NED7/16 · Panamá PAN1(escudo) ·
+**Panini `00`(logo foil)** · Paraguay PAR3 · Senegal SEN20 · Sudáfrica RSA13 · Suecia SWE3/7 ·
+Suiza SUI9/11/13/14/17 · Túnez TUN1(escudo)/2/6/18 · Uruguay URU6/18 · Uzbekistán UZB3.
+
+**Brillantes nuevos (8 → 24→32/68):** `00` · FWC11 · FWC19 · KSA1 · KOR1 · PAN1 · TUN1 · JPN1.
+
+**Repetidas al pool (41 códigos, pool 67→110 cartas):**
+00 · ALG1 · BIH9 (rep=3) · BIH14 · COD3 · COL1 · CUW5 · CUW9 · CUW18 · CZE9 · ECU3 · EGY5 · FRA19 ·
+GER5 · GER14 · GHA13 · HAI3 · HAI5 · HAI7 · HAI9 · HAI11 · HAI16 · HAI18 · IRN7 (rep=2) · IRN11 ·
+IRN14 · IRN20 · JOR11 · KSA13 · NED11 · QAT13 · RSA20 · SUI5 · SUI8 · SUI16 · URU5 · URU14 · URU16 ·
+URU20 · USA16 · USA18.
+
+**Housekeeping del día:** 173 láminas `tengo→pegada` (sueltas acumuladas finalmente pegadas, incl. el
+Lote C del 10-jun) + RSA11 `repetida→pegada` (reconciliación). Tras esto, **0 láminas en estado
+`tengo`** — todo lo adquirido está `pegada` o en el pool de `repetida`.
 
 ---
 
