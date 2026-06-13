@@ -56,7 +56,8 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-12 | vie | B (sobres) | 18:50 | — | ✅ cerrado | **+27** | sí (pegadas) | 26 nuevas + **ALG16 recuperada** (perdida→pegada, perdidas 30→29) + 7 repetidas. HAVE 417→444 (45,3%) |
 | 2026-06-12 | vie | C (sobres) | 20:05 | — | ✅ cerrado | **+24** | sí (pegadas) | 24 nuevas incl. **`00` logo Panini + KSA1 escudo + foils FWC11 (Alemania Occ. 1954) y FWC19 (Argentina 2022)** + 11 repetidas. HAVE 444→468 (47,8%) |
 | 2026-06-12 | vie | D (sobres) | 22:30 | — | ✅ cerrado | **+6** | sí (pegadas) | 5 nuevas + ⭐ **Mbappé (FRA20) recuperado** (perdida→pegada, perdidas 29→28) + 8 repetidas; corrección `00`→repetida (ya estaba pegado). HAVE 468→474 (48,4%) |
-| 2026-06-13 | sáb | único (sobres) | 10:59 | — | ✅ cerrado | **+7** | sí (pegadas) | 7 nuevas (⭐ URU4 Araújo, ⭐ NED17 Depay, MAR8, TUN19, TUR15, GHA19, URU12) + 21 repetidas (incl. 2ª TUR15). HAVE 474→481 (49,1%). Pool 110→131 |
+| 2026-06-13 | sáb | A (sobres) | 10:59 | — | ✅ cerrado | **+7** | sí (pegadas) | 7 nuevas (⭐ URU4 Araújo, ⭐ NED17 Depay, MAR8, TUN19, TUR15, GHA19, URU12) + 21 repetidas (incl. 2ª TUR15). HAVE 474→481 (49,1%). Pool 110→131 |
+| 2026-06-13 | sáb | B (sobres) | 16:02 | — | ✅ cerrado | **+11** | sí (pegadas) | 🎉 **cruza 50%**. 11 nuevas (⭐ MAR4 Hakimi, ⭐ JPN2, ✨ FWC9/CIV1/IRQ1 foils, RSA15, AUS3, KSA15/19, SWE8/12) + 17 repetidas (incl. IRN19→2). IRN19 era repetida, no nueva. HAVE 481→492 (50,2%). Pool 131→148 |
 
 ---
 
@@ -411,6 +412,28 @@ RSA16 (→2) · **TUR15 (2ª copia)**. Pool **110→131 cartas / 98→113 códig
 
 **Nota de calendario:** se corrigió el error de día arrastrado del DASHBOARD — el **12-jun fue viernes**, no jueves
 (el 9-jun fue martes). Filas del log y encabezados del 12-jun ya corregidos.
+
+---
+
+## 📦 Lote — 2026-06-13 (sáb) · Sobres · 16:02 · **PEGADAS** · 🎉 CRUZA EL 50%
+
+Dictado de **28 láminas (4 sobres)** → **11 nuevas pegadas** + **17 repetidas**.
+**HAVE 481→492 (49,1%→50,2%)** — **cruza el 50%**. Perdidas 28 (sin cambios).
+
+**Nuevas pegadas (11):** ⭐ **MAR4 (Achraf Hakimi)** · ⭐ **JPN2 (Zion Suzuki)** ·
+✨ **FWC9 (Italia 1934 — FIFA Museum, foil)** · ✨ **CIV1 (Costa de Marfil, escudo)** · ✨ **IRQ1 (Irak, escudo)** ·
+RSA15 (Yaya Sithole) · AUS3 (Joe Gauci) · KSA15 (Marwan Alsahafi) ·
+KSA19 (Saleh Alshehri) · SWE12 (Mattias Svanberg) · SWE8 (Lucas Bergvall).
+
+**Repetidas al pool (17):** JOR12 · URU8 (→2) · JOR17 · UZB1 (→2) · TUN10 (→2) · QAT8 · RSA10 ·
+RSA20 (→2) · TUN15 · SUI17 · GER1 · SUI13 · NOR19 · TUN2 · RSA6 · UZB13 · **IRN19 (→2)**. Pool **131→148 cartas / 113→125 códigos**.
+
+**Hitos:** brillantes 32→**35/68** (FWC9 + CIV1 + IRQ1) · 🇵🇹 Portugal sigue 3/20 (Cristiano POR15 aún falta).
+
+**⚠️ Enredo Iran (resuelto):** al dictar, "IRN20" fue un desliz por **IRN19**. **IRN20** no venía en este lote (Boris
+la tiene pegada; no se tocó). **IRN19 sí venía y resultó repetida** — Boris la tenía bien pegada con 1 repetida desde
+el 10-jun, así que la de este sobre la subió a **rep=2** (el registro estaba correcto; no había fantasma). HAVE no se
+movió por IRN19 (ya estaba pegada); solo sumó al pool.
 
 ---
 
