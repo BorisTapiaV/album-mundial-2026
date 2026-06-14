@@ -51,7 +51,7 @@ ARG9,Argentina,9,Alexis Mac Allister,base,falta,0,,MED,Liverpool FC (ENG),24-12-
 ARG10,Argentina,10,Rodrigo De Paul,base,falta,0,,MED,Inter Miami CF (USA),24-05-1994,1.80,,high,37,82-83,
 ARG11,Argentina,11,Exequiel Palacios,base,pegada,0,,MED,Bayer 04 Leverkusen (GER),05-10-1998,1.77,,high,37,82-83,2026-06-09
 ARG12,Argentina,12,Leandro Paredes,base,pegada,0,,MED,Boca Juniors (ARG),29-06-1994,1.80,,high,37,82-83,
-ARG13,Argentina,13,Foto equipo,base,pegada,0,,,,,,,,37,82-83,2026-06-13
+ARG13,Argentina,13,Foto equipo,base,pegada,1,,,,,,,,37,82-83,2026-06-13
 ARG14,Argentina,14,Nico Paz,base,falta,0,,MED,Como 1907 (ITA),08-09-2004,1.85,,high,37,82-83,
 ARG15,Argentina,15,Franco Mastantuono,base,falta,0,,MED,Real Madrid CF (ESP),14-08-2007,1.80,,high,37,82-83,
 ARG16,Argentina,16,Nico González,base,pegada,0,,MED,Atletico Madrid (ESP),06-04-1998,1.80,,high,37,82-83,2026-06-10
@@ -113,11 +113,11 @@ BEL11,Belgica,11,Nicolas Raskin,base,pegada,0,,MED,Rangers FC (SCO),23-02-2001,1
 BEL12,Belgica,12,Alexis Saelemaekers,base,falta,0,,MED,AC Milan (ITA),27-06-1999,1.80,,high,25,58-59,
 BEL13,Belgica,13,Foto equipo,base,pegada,0,,,,,,,,25,58-59,2026-06-07
 BEL14,Belgica,14,Hans Vanaken,base,falta,0,,MED,Club Brugge KV (BEL),24-08-1992,1.88,,med,25,58-59,
-BEL15,Belgica,15,Kevin De Bruyne,base,pegada,0,,MED,SSC Napoli (ITA),28-06-1991,1.81,,high,25,58-59,
+BEL15,Belgica,15,Kevin De Bruyne,base,pegada,1,,MED,SSC Napoli (ITA),28-06-1991,1.81,,high,25,58-59,2026-06-13
 BEL16,Belgica,16,Jérémy Doku,base,pegada,1,,DEL,Manchester City FC (ENG),27-05-2002,1.71,,high,25,58-59,2026-06-07
 BEL17,Belgica,17,Charles De Ketelaere,base,falta,0,,DEL,Atalanta BC (ITA),10-03-2001,1.92,,high,25,58-59,
 BEL18,Belgica,18,Leandro Trossard,base,falta,0,,DEL,Arsenal FC (ENG),04-12-1994,1.72,,high,25,58-59,
-BEL19,Belgica,19,Loïs Openda,base,pegada,0,,DEL,Juventus FC (ITA),16-02-2000,1.77,,high,25,58-59,
+BEL19,Belgica,19,Loïs Openda,base,pegada,1,,DEL,Juventus FC (ITA),16-02-2000,1.77,,high,25,58-59,2026-06-13
 BEL20,Belgica,20,Romelu Lukaku,base,pegada,0,,DEL,SSC Napoli (ITA),13-05-1993,1.91,,high,25,58-59,2026-06-12
 BIH1,Bosnia y Herzegovina,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,6,18-19,
 BIH2,Bosnia y Herzegovina,2,Nikola Vasilj,base,pegada,0,,POR,FC St. Pauli (GER),02-12-1995,1.93,,high,6,18-19,2026-06-10
@@ -142,7 +142,7 @@ BIH20,Bosnia y Herzegovina,20,Haris Tabaković,base,falta,0,,DEL,Borussia Monche
 BRA1,Brasil,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,9,24-25,
 BRA2,Brasil,2,Alisson,base,falta,0,,POR,Liverpool FC (ENG),02-10-1992,1.93,91,high,9,24-25,
 BRA3,Brasil,3,Bento,base,falta,0,,POR,Al-Nassr FC (KSA),10-06-1999,1.90,92,high,9,24-25,
-BRA4,Brasil,4,Marquinhos,base,falta,0,,DEF,Paris Saint-Germain (FRA),14-05-1994,1.83,75,high,9,24-25,
+BRA4,Brasil,4,Marquinhos,base,pegada,0,,DEF,Paris Saint-Germain (FRA),14-05-1994,1.83,75,high,9,24-25,2026-06-13
 BRA5,Brasil,5,Éder Militão,base,pegada,0,,DEF,Real Madrid (ESP),18-01-1998,1.86,78,high,9,24-25,2026-06-12
 BRA6,Brasil,6,Gabriel Magalhães,base,falta,0,,DEF,Arsenal FC (ENG),19-12-1997,1.90,78,high,9,24-25,
 BRA7,Brasil,7,Danilo,base,falta,0,,DEF,CR Flamengo (BRA),15-07-1991,1.84,,high,9,24-25,
@@ -158,21 +158,21 @@ BRA16,Brasil,16,João Pedro,base,pegada,0,,DEL,Chelsea FC (ENG),26-09-2001,1.86,
 BRA17,Brasil,17,Matheus Cunha,base,perdida,0,,DEL,Manchester United (ENG),27-05-1999,1.83,76,high,9,24-25,2026-06-06
 BRA18,Brasil,18,Gabriel Martinelli,base,falta,0,,DEL,Arsenal FC (ENG),18-06-2001,1.78,75,high,9,24-25,
 BRA19,Brasil,19,Raphinha,base,pegada,0,,DEL,FC Barcelona (ESP),14-12-1996,1.76,,high,9,24-25,2026-06-09
-BRA20,Brasil,20,Estêvão,base,falta,0,,DEL,Chelsea FC (ENG),24-04-2007,1.76,62,high,9,24-25,
+BRA20,Brasil,20,Estêvão,base,pegada,0,,DEL,Chelsea FC (ENG),24-04-2007,1.76,62,high,9,24-25,2026-06-13
 CAN1,Canada,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,5,16-17,
 CAN2,Canada,2,Dayne St. Clair,base,pegada,0,,POR,Inter Miami CF (USA),09-05-1997,1.91,86,high,5,16-17,
 CAN3,Canada,3,Alphonso Davies,base,falta,0,,DEF,Bayern Munich (GER),02-11-2000,1.83,,high,5,16-17,
 CAN4,Canada,4,Alistair Johnston,base,falta,0,,DEF,Celtic FC (SCO),08-10-1998,1.80,74,high,5,16-17,
-CAN5,Canada,5,Samuel Adekugbe,base,falta,0,,DEF,Vancouver Whitecaps (CAN),16-01-1995,1.76,75,high,5,16-17,
+CAN5,Canada,5,Samuel Adekugbe,base,pegada,0,,DEF,Vancouver Whitecaps (CAN),16-01-1995,1.76,75,high,5,16-17,2026-06-13
 CAN6,Canada,6,Richie Laryea,base,pegada,0,,DEF,Toronto FC (CAN),07-01-1995,1.75,,high,5,16-17,
 CAN7,Canada,7,Derek Cornelius,base,falta,0,,DEF,Olympique Marseille (FRA),25-11-1997,1.87,,med,5,16-17,
 CAN8,Canada,8,Moïse Bombito,base,pegada,0,,DEF,OGC Nice (FRA),30-03-2000,1.90,83,high,5,16-17,2026-06-10
-CAN9,Canada,9,Kamal Miller,base,falta,0,,DEF,Portland Timbers (USA),16-05-1997,1.83,76,high,5,16-17,
+CAN9,Canada,9,Kamal Miller,base,pegada,0,,DEF,Portland Timbers (USA),16-05-1997,1.83,76,high,5,16-17,2026-06-13
 CAN10,Canada,10,Stephen Eustáquio,base,pegada,0,,MED,Los Angeles FC (USA),21-12-1996,1.77,,high,5,16-17,
 CAN11,Canada,11,Ismaël Koné,base,falta,0,,MED,US Sassuolo (ITA),16-06-2002,1.88,,high,5,16-17,
 CAN12,Canada,12,Jonathan Osorio,base,pegada,0,,MED,Toronto FC (CAN),12-06-1992,1.75,,high,5,16-17,2026-06-10
 CAN13,Canada,13,Foto equipo,base,falta,0,,,,,,,,5,16-17,
-CAN14,Canada,14,Jacob Shaffelburg,base,falta,0,,DEL,Los Angeles FC (USA),26-11-1999,1.81,,high,5,16-17,
+CAN14,Canada,14,Jacob Shaffelburg,base,pegada,0,,DEL,Los Angeles FC (USA),26-11-1999,1.81,,high,5,16-17,2026-06-13
 CAN15,Canada,15,Mathieu Choinière,base,falta,0,,MED,Los Angeles FC (USA),07-02-1999,1.75,68,high,5,16-17,
 CAN16,Canada,16,Niko Sigur,base,falta,0,,DEF,HNK Hajduk Split (CRO),09-09-2003,1.80,,high,5,16-17,
 CAN17,Canada,17,Tajon Buchanan,base,falta,0,,DEL,Villarreal CF (ESP),08-02-1999,1.83,68,high,5,16-17,
@@ -207,16 +207,16 @@ COL5,Colombia,5,Yerry Mina,base,pegada,0,,DEF,Cagliari Calcio (ITA),23-09-1994,1
 COL6,Colombia,6,Daniel Muñoz,base,pegada,0,,DEF,Crystal Palace FC (ENG),26-05-1996,1.81,73,high,44,96-97,
 COL7,Colombia,7,Johan Mojica,base,falta,0,,DEF,RCD Mallorca (ESP),21-08-1992,1.85,66,high,44,96-97,
 COL8,Colombia,8,Jhon Lucumí,base,falta,0,,DEF,Bologna FC (ITA),26-06-1998,1.87,84,high,44,96-97,
-COL9,Colombia,9,Santiago Arias,base,falta,0,,DEF,sin club,13-01-1992,1.78,,low,44,96-97,
+COL9,Colombia,9,Santiago Arias,base,pegada,0,,DEF,sin club,13-01-1992,1.78,,low,44,96-97,2026-06-13
 COL10,Colombia,10,Jefferson Lerma,base,pegada,0,,MED,Crystal Palace FC (ENG),25-10-1994,1.79,,high,44,96-97,2026-06-09
 COL11,Colombia,11,Kevin Castaño,base,falta,0,,MED,River Plate (ARG),29-09-2000,1.77,68,high,44,96-97,
 COL12,Colombia,12,Richard Ríos,base,pegada,0,,MED,SL Benfica (POR),02-06-2000,1.87,74,high,44,96-97,2026-06-09
 COL13,Colombia,13,Foto equipo,base,falta,0,,,,,,,,44,96-97,
-COL14,Colombia,14,James Rodríguez,base,falta,0,,MED,Club Leon (MEX),12-07-1991,1.80,75,high,44,96-97,
+COL14,Colombia,14,James Rodríguez,base,pegada,0,,MED,Club Leon (MEX),12-07-1991,1.80,75,high,44,96-97,2026-06-13
 COL15,Colombia,15,Juan Fernando Quintero,base,pegada,0,,MED,River Plate (ARG),18-01-1993,1.68,63,high,44,96-97,2026-06-09
 COL16,Colombia,16,Jorge Carrascal,base,falta,0,,MED,CR Flamengo (BRA),25-05-1998,1.80,,high,44,96-97,
 COL17,Colombia,17,Jhon Arias,base,pegada,0,,DEL,SE Palmeiras (BRA),21-09-1997,1.68,,high,44,96-97,2026-06-12
-COL18,Colombia,18,Jhon Córdoba,base,falta,0,,DEL,FC Krasnodar (RUS),11-05-1993,1.88,85,high,44,96-97,
+COL18,Colombia,18,Jhon Córdoba,base,pegada,0,,DEL,FC Krasnodar (RUS),11-05-1993,1.88,85,high,44,96-97,2026-06-13
 COL19,Colombia,19,Luis Suárez,base,falta,0,,DEL,Sporting CP (POR),02-12-1997,1.85,83,high,44,96-97,
 COL20,Colombia,20,Luis Díaz,base,falta,0,,DEL,Bayern Munich (GER),13-01-1997,1.80,73,high,44,96-97,
 COD1,RD Congo,1,Escudo (foil),T2,pegada,1,escudo foil,,,,,,,42,92-93,2026-06-13
@@ -329,7 +329,7 @@ EGY7,Egipto,7,Ramy Rabia,base,pegada,0,,DEF,Al-Ain (UAE),20-05-1993,1.83,,med,26
 EGY8,Egipto,8,Hossam Abdelmaguid,base,pegada,0,,DEF,Zamalek (EGY),30-04-2001,1.94,,med,26,60-61,2026-06-10
 EGY9,Egipto,9,Ahmed Fatouh,base,pegada,1,,DEF,Zamalek (EGY),22-03-1998,1.78,,med,26,60-61,
 EGY10,Egipto,10,Marwan Attia,base,pegada,1,,MED,Al Ahly (EGY),01-08-1998,1.72,,med,26,60-61,2026-06-10
-EGY11,Egipto,11,Zizo,base,pegada,0,,DEL,Al Ahly (EGY),10-01-1996,1.80,,high,26,60-61,2026-06-09
+EGY11,Egipto,11,Zizo,base,pegada,1,,DEL,Al Ahly (EGY),10-01-1996,1.80,,high,26,60-61,2026-06-13
 EGY12,Egipto,12,Hamdy Fathy,base,pegada,0,,MED,Al-Wakrah (QAT),29-09-1994,1.80,,med,26,60-61,2026-06-09
 EGY13,Egipto,13,Foto equipo,base,falta,0,,,,,,,,26,60-61,
 EGY14,Egipto,14,Mohamed Lasheen,base,falta,0,,MED,Pyramids FC (EGY),29-05-1996,1.79,,med,26,60-61,
@@ -398,8 +398,8 @@ GER16,Alemania,16,Serge Gnabry,base,pegada,0,,DEL,Bayern Munchen (GER),14-07-199
 GER17,Alemania,17,Kai Havertz,base,pegada,0,,DEL,Arsenal (ENG),11-06-1999,1.93,82,high,17,40-41,
 GER18,Alemania,18,Leroy Sané,base,falta,0,,DEL,Galatasaray (TUR),11-01-1996,1.83,75,high,17,40-41,
 GER19,Alemania,19,Karim Adeyemi,base,falta,0,,DEL,Borussia Dortmund (GER),18-01-2002,1.80,74,high,17,40-41,
-GER20,Alemania,20,Nick Woltemade,base,pegada,0,,DEL,Newcastle United (ENG),14-02-2002,1.98,95,high,17,40-41,2026-06-12
-GHA1,Ghana,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,47,102-103,2026-06-09
+GER20,Alemania,20,Nick Woltemade,base,pegada,1,,DEL,Newcastle United (ENG),14-02-2002,1.98,95,high,17,40-41,2026-06-13
+GHA1,Ghana,1,Escudo (foil),T2,pegada,1,escudo foil,,,,,,,47,102-103,2026-06-13
 GHA2,Ghana,2,Lawrence Ati Zigi,base,pegada,0,,POR,FC St. Gallen (SUI),29-11-1996,1.88,82,high,47,102-103,
 GHA3,Ghana,3,Tariq Lamptey,base,falta,0,,DEF,Fiorentina (ITA),30-09-2000,1.63,65,high,47,102-103,
 GHA4,Ghana,4,Mohammed Salisu,base,falta,0,,DEF,AS Monaco (FRA),17-04-1999,1.91,80,high,47,102-103,
@@ -523,7 +523,7 @@ JOR1,Jordania,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,40,88-89,2026-06-10
 JOR2,Jordania,2,Yazeed Abulaila,base,falta,0,,POR,Al-Hussein (JOR),08-01-1993,1.89,85,high,40,88-89,
 JOR3,Jordania,3,Ihsan Haddad,base,pegada,0,,DEF,Al-Hussein (JOR),05-02-1994,,,med,40,88-89,2026-06-12
 JOR4,Jordania,4,Mohammad Abu Hashish,base,falta,0,,DEF,Al-Karma (IRQ),09-05-1995,1.77,,med,40,88-89,
-JOR5,Jordania,5,Yazan Al-Arab,base,pegada,0,,DEF,FC Seoul (KOR),31-01-1996,1.87,,high,40,88-89,
+JOR5,Jordania,5,Yazan Al-Arab,base,pegada,1,,DEF,FC Seoul (KOR),31-01-1996,1.87,,high,40,88-89,2026-06-13
 JOR6,Jordania,6,Abdallah Nasib,base,pegada,0,,DEF,Al-Zawraa (IRQ),25-02-1994,1.83,,med,40,88-89,2026-06-09
 JOR7,Jordania,7,Saleem Obaid,base,pegada,0,,DEF,Al-Hussein (JOR),17-01-1992,1.85,,med,40,88-89,2026-06-12
 JOR8,Jordania,8,Mohammad Abualnadi,base,pegada,0,,DEF,Selangor FC (MAS),08-02-2001,1.86,,high,40,88-89,
@@ -592,7 +592,7 @@ NED10,Paises Bajos,10,Tijjani Reijnders,base,pegada,0,,MED,Manchester City (ENG)
 NED11,Paises Bajos,11,Ryan Gravenberch,base,pegada,1,,MED,Liverpool FC (ENG),16-05-2002,1.90,78,high,21,48-49,2026-06-12
 NED12,Paises Bajos,12,Teun Koopmeiners,base,pegada,0,,MED,Juventus (ITA),28-02-1998,1.84,76,high,21,48-49,
 NED13,Paises Bajos,13,Foto equipo,base,falta,0,,,,,,,,21,48-49,
-NED14,Paises Bajos,14,Frenkie de Jong,base,pegada,0,,MED,FC Barcelona (ESP),12-05-1997,1.81,74,high,21,48-49,
+NED14,Paises Bajos,14,Frenkie de Jong,base,pegada,1,,MED,FC Barcelona (ESP),12-05-1997,1.81,74,high,21,48-49,2026-06-13
 NED15,Paises Bajos,15,Xavi Simons,base,pegada,1,,MED,RB Leipzig (GER),21-04-2003,1.79,70,high,21,48-49,2026-06-09
 NED16,Paises Bajos,16,Justin Kluivert,base,pegada,0,,DEL,AFC Bournemouth (ENG),05-05-1999,1.71,68,high,21,48-49,2026-06-12
 NED17,Paises Bajos,17,Memphis Depay,base,pegada,0,,DEL,Corinthians (BRA),13-02-1994,1.76,78,high,21,48-49,2026-06-13
@@ -727,7 +727,7 @@ KSA5,Arabia Saudita,5,Nawaf Bouwashl,base,pegada,0,,DEF,Al-Nassr FC (KSA),16-09-
 KSA6,Arabia Saudita,6,Jihad Thakri,base,perdida,0,,DEF,Al-Qadsiah FC (KSA),21-07-2001,1.83,,med,31,70-71,2026-06-06
 KSA7,Arabia Saudita,7,Moteb Al-Harbi,base,falta,0,,DEF,Al-Hilal (KSA),19-02-2000,1.73,,high,31,70-71,
 KSA8,Arabia Saudita,8,Hassan Altambakti,base,falta,0,,DEF,Al-Hilal (KSA),09-02-1999,1.83,,high,31,70-71,
-KSA9,Arabia Saudita,9,Musab Aljuwayr,base,pegada,0,,MED,Al-Qadsiah FC (KSA),20-06-2003,1.78,,high,31,70-71,2026-06-12
+KSA9,Arabia Saudita,9,Musab Aljuwayr,base,pegada,1,,MED,Al-Qadsiah FC (KSA),20-06-2003,1.78,,high,31,70-71,2026-06-13
 KSA10,Arabia Saudita,10,Ziyad Aljohani,base,perdida,0,,MED,Al-Ahli SFC (KSA),11-11-2001,1.80,,med,31,70-71,2026-06-06
 KSA11,Arabia Saudita,11,Abdullah Alkhaibari,base,falta,0,,MED,Al-Nassr FC (KSA),16-08-1996,1.78,,high,31,70-71,
 KSA12,Arabia Saudita,12,Nasser Aldawsari,base,pegada,0,,MED,Al-Hilal (KSA),19-12-1998,1.78,,high,31,70-71,2026-06-10
@@ -767,12 +767,12 @@ SEN5,Senegal,5,Abdoulaye Seck,base,pegada,0,,DEF,Maccabi Haifa (ISR),04-06-1992,
 SEN6,Senegal,6,Ismail Jakobs,base,pegada,0,,DEF,Galatasaray (TUR),17-08-1999,1.84,,high,34,76-77,
 SEN7,Senegal,7,El Hadji Malick Diouf,base,falta,0,,DEF,West Ham United (ENG),29-12-2004,1.83,,high,34,76-77,
 SEN8,Senegal,8,Kalidou Koulibaly,base,pegada,0,,DEF,Al-Hilal (KSA),20-06-1991,1.86,89,high,34,76-77,2026-06-09
-SEN9,Senegal,9,Idrissa Gana Gueye,base,falta,0,,MED,Everton (ENG),26-09-1989,1.74,66,high,34,76-77,
+SEN9,Senegal,9,Idrissa Gana Gueye,base,pegada,0,,MED,Everton (ENG),26-09-1989,1.74,66,high,34,76-77,2026-06-13
 SEN10,Senegal,10,Pape Matar Sarr,base,falta,0,,MED,Tottenham Hotspur (ENG),14-09-2002,1.84,,high,34,76-77,
 SEN11,Senegal,11,Pape Gueye,base,pegada,1,,MED,Villarreal CF (ESP),24-01-1999,1.88,,high,34,76-77,2026-06-13
 SEN12,Senegal,12,Habib Diarra,base,pegada,0,,MED,Sunderland (ENG),03-01-2004,1.79,,high,34,76-77,2026-06-10
 SEN13,Senegal,13,Foto equipo,base,falta,0,,,,,,,,34,76-77,
-SEN14,Senegal,14,Lamine Camara,base,falta,0,,MED,AS Monaco (FRA),01-01-2004,1.73,,high,34,76-77,
+SEN14,Senegal,14,Lamine Camara,base,pegada,0,,MED,AS Monaco (FRA),01-01-2004,1.73,,high,34,76-77,2026-06-13
 SEN15,Senegal,15,Sadio Mané,base,falta,0,,DEL,Al-Nassr (KSA),10-04-1992,1.74,69,high,34,76-77,
 SEN16,Senegal,16,Ismaïla Sarr,base,falta,0,,DEL,Crystal Palace (ENG),25-02-1998,1.85,,high,34,76-77,
 SEN17,Senegal,17,Boulaye Dia,base,falta,0,,DEL,SS Lazio (ITA),16-11-1996,1.80,,high,34,76-77,
@@ -841,11 +841,11 @@ ESP19,Espana,19,Álvaro Morata,base,falta,0,,DEL,Como 1907 (ITA),23-10-1992,1.90
 ESP20,Espana,20,Mikel Oyarzabal,base,pegada,0,,DEL,Real Sociedad (ESP),21-04-1997,1.81,,high,29,66-67,
 SWE1,Suecia,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,23,52-53,2026-06-09
 SWE2,Suecia,2,Victor Johansson,base,pegada,0,,POR,Stoke City (ENG),14-09-1998,1.87,,high,23,52-53,2026-06-07
-SWE3,Suecia,3,Isak Hien,base,pegada,0,,DEF,Atalanta (ITA),13-01-1999,1.89,,high,23,52-53,2026-06-12
+SWE3,Suecia,3,Isak Hien,base,pegada,1,,DEF,Atalanta (ITA),13-01-1999,1.89,,high,23,52-53,2026-06-13
 SWE4,Suecia,4,Gabriel Gudmundsson,base,pegada,1,,DEF,VfB Stuttgart (GER),29-04-1999,1.81,,med,23,52-53,2026-06-13
 SWE5,Suecia,5,Emil Holm,base,pegada,1,,DEF,Juventus (ITA),13-05-2000,1.91,,high,23,52-53,2026-06-13
 SWE6,Suecia,6,Victor Nilsson Lindelöf,base,pegada,0,,DEF,Aston Villa (ENG),17-07-1994,1.87,,med,23,52-53,2026-06-07
-SWE7,Suecia,7,Gustaf Lagerbielke,base,pegada,0,,DEF,SC Braga (POR),10-04-2000,1.93,,high,23,52-53,2026-06-12
+SWE7,Suecia,7,Gustaf Lagerbielke,base,pegada,1,,DEF,SC Braga (POR),10-04-2000,1.93,,high,23,52-53,2026-06-13
 SWE8,Suecia,8,Lucas Bergvall,base,pegada,0,,MED,Tottenham Hotspur (ENG),02-02-2006,1.85,,high,23,52-53,2026-06-13
 SWE9,Suecia,9,Hugo Larsson,base,falta,0,,MED,Eintracht Frankfurt (GER),27-06-2004,1.83,,high,23,52-53,
 SWE10,Suecia,10,Jesper Karlström,base,pegada,0,,MED,Lech Poznan (POL),21-06-1995,1.81,,med,23,52-53,2026-06-10
@@ -861,11 +861,11 @@ SWE19,Suecia,19,Alexander Isak,base,falta,0,,DEL,Liverpool (ENG),21-09-1999,1.92
 SWE20,Suecia,20,Viktor Gyökeres,base,falta,0,,DEL,Arsenal (ENG),04-06-1998,1.87,,high,23,52-53,
 SUI1,Suiza,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,8,22-23,
 SUI2,Suiza,2,Gregor Kobel,base,falta,0,,POR,Borussia Dortmund (GER),06-12-1997,1.94,90,high,8,22-23,
-SUI3,Suiza,3,Yvon Mvogo,base,pegada,0,,POR,FC Lorient (FRA),06-06-1994,1.88,82,med,8,22-23,
+SUI3,Suiza,3,Yvon Mvogo,base,pegada,1,,POR,FC Lorient (FRA),06-06-1994,1.88,82,med,8,22-23,2026-06-13
 SUI4,Suiza,4,Manuel Akanji,base,falta,0,,DEF,Inter Milan (ITA),19-07-1995,1.87,91,high,8,22-23,
 SUI5,Suiza,5,Ricardo Rodríguez,base,pegada,1,,DEF,Real Betis (ESP),25-08-1992,1.80,78,high,8,22-23,2026-06-12
 SUI6,Suiza,6,Nico Elvedi,base,falta,0,,DEF,Borussia Monchengladbach (GER),30-09-1996,1.89,80,high,8,22-23,
-SUI7,Suiza,7,Aurèle Amenda,base,pegada,0,,DEF,Eintracht Frankfurt (GER),31-07-2003,1.94,84,med,8,22-23,
+SUI7,Suiza,7,Aurèle Amenda,base,pegada,1,,DEF,Eintracht Frankfurt (GER),31-07-2003,1.94,84,med,8,22-23,2026-06-13
 SUI8,Suiza,8,Silvan Widmer,base,pegada,2,,DEF,FSV Mainz 05 (GER),05-03-1993,1.81,75,high,8,22-23,2026-06-13
 SUI9,Suiza,9,Granit Xhaka,base,pegada,0,,MED,Bayer Leverkusen (GER),27-09-1992,1.85,82,high,8,22-23,2026-06-12
 SUI10,Suiza,10,Denis Zakaria,base,pegada,0,,MED,AS Monaco (FRA),20-11-1996,1.91,81,high,8,22-23,
@@ -892,11 +892,11 @@ TUN10,Tunez,10,Aïssa Laïdouni,base,pegada,2,,MED,Al Wakrah (QAT),13-12-1996,1.
 TUN11,Tunez,11,Ferjani Sassi,base,falta,0,,MED,Al-Gharafa (QAT),18-03-1992,1.86,80,med,24,54-55,
 TUN12,Tunez,12,Mohamed Ali Ben Romdhane,base,falta,0,,MED,Al Ahly (EGY),06-09-1999,1.85,74,high,24,54-55,
 TUN13,Tunez,13,Foto equipo,base,pegada,0,,,,,,,,24,54-55,2026-06-10
-TUN14,Tunez,14,Hannibal Mejbri,base,falta,0,,MED,Burnley (ENG),21-01-2003,1.83,73,high,24,54-55,
+TUN14,Tunez,14,Hannibal Mejbri,base,pegada,0,,MED,Burnley (ENG),21-01-2003,1.83,73,high,24,54-55,2026-06-13
 TUN15,Tunez,15,Elias Achouri,base,pegada,1,,MED,FC Copenhagen (DEN),10-02-1999,1.77,70,high,24,54-55,2026-06-13
 TUN16,Tunez,16,Elias Saad,base,falta,0,,DEL,FC Augsburg (GER),27-12-1999,1.85,76,high,24,54-55,
 TUN17,Tunez,17,Hazem Mastouri,base,falta,0,,DEL,Dynamo Makhachkala (RUS),18-06-1997,1.91,82,med,24,54-55,
-TUN18,Tunez,18,Ismael Gharbi,base,pegada,0,,MED,FC Augsburg (GER),10-04-2004,1.73,66,high,24,54-55,2026-06-12
+TUN18,Tunez,18,Ismael Gharbi,base,pegada,1,,MED,FC Augsburg (GER),10-04-2004,1.73,66,high,24,54-55,2026-06-13
 TUN19,Tunez,19,Sayfallah Ltaief,base,pegada,0,,MED,Greuther Furth (GER),22-04-2000,1.78,77,high,24,54-55,2026-06-13
 TUN20,Tunez,20,Naïm Sliti,base,pegada,0,,DEL,Al Shamal (QAT),27-07-1992,1.73,75,high,24,54-55,2026-06-10
 TUR1,Turquia,1,Escudo (foil),T2,pegada,1,escudo foil,,,,,,,16,38-39,2026-06-09
@@ -912,11 +912,11 @@ TUR10,Turquia,10,İsmail Yüksek,base,falta,0,,MED,Fenerbahce (TUR),26-01-1999,1
 TUR11,Turquia,11,Hakan Çalhanoğlu,base,pegada,0,,MED,Inter Milan (ITA),08-02-1994,1.78,77,high,16,38-39,2026-06-09
 TUR12,Turquia,12,Orkun Kökçü,base,falta,0,,MED,Benfica (POR),29-12-2000,1.76,70,high,16,38-39,
 TUR13,Turquia,13,Foto equipo,base,falta,0,,,,,,,,16,38-39,
-TUR14,Turquia,14,Arda Güler,base,pegada,0,,MED,Real Madrid (ESP),25-02-2005,1.76,68,high,16,38-39,2026-06-09
+TUR14,Turquia,14,Arda Güler,base,pegada,1,,MED,Real Madrid (ESP),25-02-2005,1.76,68,high,16,38-39,2026-06-13
 TUR15,Turquia,15,İrfan Can Kahveci,base,pegada,1,,MED,Fenerbahce (TUR),15-07-1995,1.76,72,high,16,38-39,2026-06-13
 TUR16,Turquia,16,Yunus Akgün,base,pegada,0,,DEL,Galatasaray (TUR),07-07-2000,1.77,70,high,16,38-39,2026-06-09
 TUR17,Turquia,17,Can Uzun,base,pegada,0,,DEL,Eintracht Frankfurt (GER),11-11-2005,1.86,67,high,16,38-39,2026-06-09
-TUR18,Turquia,18,Barış Alper Yılmaz,base,pegada,0,,DEL,Galatasaray (TUR),23-05-2000,1.86,78,high,16,38-39,2026-06-09
+TUR18,Turquia,18,Barış Alper Yılmaz,base,pegada,1,,DEL,Galatasaray (TUR),23-05-2000,1.86,78,high,16,38-39,2026-06-13
 TUR19,Turquia,19,Kerem Aktürkoğlu,base,pegada,1,,DEL,Fenerbahce (TUR),21-10-1998,1.78,72,high,16,38-39,2026-06-13
 TUR20,Turquia,20,Kenan Yıldız,base,falta,0,,DEL,Juventus (ITA),04-05-2005,1.85,70,high,16,38-39,
 URU1,Uruguay,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,32,72-73,2026-06-10
@@ -976,6 +976,6 @@ UZB14,Uzbekistan,14,Azizbek Turgunboev,base,falta,0,,DEL,Pakhtakor (UZB),01-10-1
 UZB15,Uzbekistan,15,Khojimat Erkinov,base,pegada,0,,MED,Pakhtakor (UZB),29-05-2001,1.71,69,high,43,94-95,2026-06-09
 UZB16,Uzbekistan,16,Eldor Shomurodov,base,pegada,0,,DEL,Istanbul Basaksehir (TUR),29-06-1995,1.90,71,high,43,94-95,2026-06-13
 UZB17,Uzbekistan,17,Oston Urunov,base,perdida,0,,DEL,Persepolis (IRN),19-12-2000,1.81,,med,43,94-95,2026-06-06
-UZB18,Uzbekistan,18,Jaloliddin Masharipov,base,perdida,0,,DEL,Esteghlal (IRN),01-09-1993,1.72,,med,43,94-95,2026-06-06
+UZB18,Uzbekistan,18,Jaloliddin Masharipov,base,pegada,0,,DEL,Esteghlal (IRN),01-09-1993,1.72,,med,43,94-95,2026-06-13
 UZB19,Uzbekistan,19,Igor Sergeev,base,pegada,0,,DEL,Persepolis (IRN),30-04-1993,1.86,76,high,43,94-95,2026-06-07
 UZB20,Uzbekistan,20,Abbosbek Fayzullaev,base,falta,0,,MED,Istanbul Basaksehir (TUR),03-10-2003,1.70,59,med,43,94-95,

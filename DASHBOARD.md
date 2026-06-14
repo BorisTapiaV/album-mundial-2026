@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-13 (sáb, 18:22) — **521/980 (53,2%)** — **lote sobres, 504→521 (+16 nuevas)**. 28 láminas (4 sobres): 16 nuevas + 12 repetidas. Nuevas: ✨ AUT1/ECU1/BEL1 (3 escudos) · BRA16 (João Pedro) · COL5 (Yerry Mina) · SEN5 · CIV20 · ALG5 · ALG9 · CPV13 · ECU13 · UZB7 · UZB11 · AUS9 · TUR2 · JPN3. (SEN18 resultó repetida, ya pegada → rep=1). Perdidas 27. Pool 165→**177/150 códigos**. Brillantes 36→**39/68** (+3 escudos). 🇵🇹 Portugal 4/20 (POR15 Cristiano aún falta). · *Anterior: 13-jun 17:25 504 (+11) · 16:02 492 (cruza 50%) · 10:59 481 · 12-jun 392→474.*
+**Última actualización:** 2026-06-13 (sáb, 20:10) — **533/980 (54,4%)** — **lote sobres, 521→533 (+11 nuevas + 1 recuperada)**. 28 láminas (4 sobres): 11 nuevas + UZB18 recuperada + 16 repetidas. Nuevas: ⭐ **COL14 (James Rodríguez)** · BRA20 (Estêvão) · BRA4 (Marquinhos) · CAN5/9/14 · COL9/18 · SEN9/14 · TUN14. Perdidas 27→**26** (UZB18). Pool 177→**193/166 códigos**. Brillantes 39/68 (sin foils). 🇵🇹 Portugal 4/20 (POR15 Cristiano aún falta). · *Anterior: 13-jun 18:22 521 (+16) · 17:25 504 · 16:02 492 (cruza 50%) · 12-jun 392→474.*
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades.
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **521** | registro 2026-06-13 (4 lotes, +47) |
-| **% completado** (HAVE/N) | **53,2%** | calculado |
-| Perdidas (extraviadas en casa) | **27** | ARG13 recuperada 06-13 |
-| Faltan (`falta`) | **432** | calculado |
-| **Por conseguir** (falta + perdida) | **459** | falta 432 + perdida 27 |
-| Repetidas (n°) | **177 cartas / 150 códigos** | registro 2026-06-13 |
+| Tengo/pegadas (HAVE) | **533** | registro 2026-06-13 (5 lotes, +59) |
+| **% completado** (HAVE/N) | **54,4%** | calculado |
+| Perdidas (extraviadas en casa) | **26** | ARG13+UZB18 recuperadas 06-13 |
+| Faltan (`falta`) | **421** | calculado |
+| **Por conseguir** (falta + perdida) | **447** | falta 421 + perdida 26 |
+| Repetidas (n°) | **193 cartas / 166 códigos** | registro 2026-06-13 |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |

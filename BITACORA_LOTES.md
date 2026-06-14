@@ -60,6 +60,7 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-13 | sáb | B (sobres) | 16:02 | — | ✅ cerrado | **+11** | sí (pegadas) | 🎉 **cruza 50%**. 11 nuevas (⭐ MAR4 Hakimi, ⭐ JPN2, ✨ FWC9/CIV1/IRQ1 foils, RSA15, AUS3, KSA15/19, SWE8/12) + 17 repetidas (incl. IRN19→2). IRN19 era repetida, no nueva. HAVE 481→492 (50,2%). Pool 131→148 |
 | 2026-06-13 | sáb | C (sobres) | 17:25 | — | ✅ cerrado | **+11** | sí (pegadas) | 10 nuevas (🇵🇹 POR7 Nuno Mendes, ✨ USA1 escudo, GER13, UZB16, AUS14, ALG14, TUR6, ECU11, CZE19, MAR18) + **ARG13 recuperada** (perdida→pegada) + 17 repetidas (incl. SEN11→1). HAVE 492→504 (51,4%). Perdidas 28→27. Pool 148→165 |
 | 2026-06-13 | sáb | D (sobres) | 18:22 | — | ✅ cerrado | **+16** | sí (pegadas) | 16 nuevas (✨ AUT1/ECU1/BEL1 escudos, BRA16, COL5, SEN5, CIV20, ALG5/9, CPV13, ECU13, UZB7/11, AUS9, TUR2, JPN3) + 12 repetidas (incl. SEN18→1). HAVE 504→521 (53,2%). Pool 165→177 |
+| 2026-06-13 | sáb | E (sobres) | 20:10 | — | ✅ cerrado | **+12** | sí (pegadas) | 11 nuevas (⭐ COL14 James, BRA20 Estêvão, BRA4 Marquinhos, CAN5/9/14, COL9/18, SEN9/14, TUN14) + **UZB18 recuperada** + 16 repetidas (incl. ARG13). HAVE 521→533 (54,4%). Perdidas 27→26. Pool 177→193 |
 
 ---
 
@@ -477,6 +478,24 @@ BRA8 · JOR9 · **SEN18 (→1)**. Pool **165→177 cartas / 140→150 códigos**
 
 **⚠️ Corrección SEN18:** igual que SEN11 — registro `falta` (atrasado) pero Boris ya la tenía pegada → la del sobre
 es repetida. Se dejó `pegada` con rep=1.
+
+---
+
+## 📦 Lote — 2026-06-13 (sáb) · Sobres · 20:10 · **PEGADAS**
+
+Dictado de **28 láminas (4 sobres)** → **11 nuevas pegadas** + **1 recuperada** + **16 repetidas**.
+**HAVE 521→533 (53,2%→54,4%)**. Perdidas 27→**26**.
+
+**Nuevas pegadas (11):** ⭐ **COL14 (James Rodríguez)** · BRA20 (Estêvão) · BRA4 (Marquinhos) ·
+CAN14 (Jacob Shaffelburg) · CAN9 (Kamal Miller) · CAN5 (Samuel Adekugbe) · COL18 (Jhon Córdoba) ·
+COL9 (Santiago Arias) · SEN14 (Lamine Camara) · SEN9 (Idrissa Gana Gueye) · TUN14 (Hannibal Mejbri).
+
+**Recuperada (1):** **UZB18** (Jaloliddin Masharipov) `perdida→pegada`. Perdidas 27→26.
+
+**Repetidas al pool (16):** TUR14 · SWE3 · EGY11 · KSA9 · GHA1 · NED14 · TUR18 · SWE7 · GER20 · BEL15 ·
+JOR5 · SUI7 · TUN18 · BEL19 · **ARG13** (recuperada 17:25, ahora repe) · SUI3. Pool **177→193 cartas / 150→166 códigos**.
+
+**Hitos:** brillantes 39/68 (sin foils nuevos) · 🇵🇹 Portugal sigue 4/20 (POR15 Cristiano aún falta).
 
 ---
 
