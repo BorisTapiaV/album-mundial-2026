@@ -519,5 +519,27 @@ en estado `tengo` pendientes de pegar.
 
 ---
 
+## 📦 Lote — 2026-06-14 (dom) · Sobres · 14:40 · **PEGADAS**
+
+Dictado de **28 láminas (4 sobres)** → **8 nuevas pegadas** + **1 recuperada** + **19 repetidas**.
+**HAVE 544→553 (55,5%→56,4%)**. Perdidas 26→**25**. Suerte dura: 9/28 nuevas (~32%, normal pasado el 40%).
+
+**Nuevas pegadas (8):** SCO19 (Che Adams) · KOR19 (Hwang Hee-chan) · KOR15 (Jens Castrop) ·
+KSA4 (Saud Abdulhamid) · KSA8 (Hassan Altambakti) · COD17 (Brian Cipenga) · COD20 (Nathanaël Mbuku) ·
+AUT6 (Philipp Lienhart).
+
+**Recuperada (1):** **COD12** (Noah Sadiki) `perdida→pegada`. Perdidas 26→25.
+
+**Repetidas al pool (19):** NED6 · UZB15 · ALG12 · **AUS10 (→3)** · CZE5 (→2) · NED10 · **USA17 (→3)** ·
+ALG17 · AUS15 (→2) · **CZE9 (→3)** · NED15 (→2) · UZB2 · ARG2 (Dibu Martínez) · AUS19 (→2) · SCO14 · NED2 ·
+UZB10 · ALG8 · COL1 escudo foil (→2). Pool **209→228 cartas / 180→191 códigos**.
+
+**Hitos:** brillantes 39/68 (sin foils nuevos) · 🇵🇹 Portugal sigue (POR15 Cristiano aún falta).
+
+**Notas:** (1) Ninguna repetida cruzó con la wantlist de 20 del otro coleccionista; ojo códigos trampa
+AUS≠AUT, NED2≠NOR2, UZB2≠UZB8. (2) Siguen pendientes de pegar las **11 sueltas del lote F (13-jun)** en estado `tengo`.
+
+---
+
 *Cross-ref: `registro_maestro.csv` (estado autoritativo) · `DASHBOARD.md` (KPIs) ·
 `INVESTIGACION_Y_SISTEMA.md` (arquitectura).*
