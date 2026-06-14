@@ -61,6 +61,7 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-13 | sáb | C (sobres) | 17:25 | — | ✅ cerrado | **+11** | sí (pegadas) | 10 nuevas (🇵🇹 POR7 Nuno Mendes, ✨ USA1 escudo, GER13, UZB16, AUS14, ALG14, TUR6, ECU11, CZE19, MAR18) + **ARG13 recuperada** (perdida→pegada) + 17 repetidas (incl. SEN11→1). HAVE 492→504 (51,4%). Perdidas 28→27. Pool 148→165 |
 | 2026-06-13 | sáb | D (sobres) | 18:22 | — | ✅ cerrado | **+16** | sí (pegadas) | 16 nuevas (✨ AUT1/ECU1/BEL1 escudos, BRA16, COL5, SEN5, CIV20, ALG5/9, CPV13, ECU13, UZB7/11, AUS9, TUR2, JPN3) + 12 repetidas (incl. SEN18→1). HAVE 504→521 (53,2%). Pool 165→177 |
 | 2026-06-13 | sáb | E (sobres) | 20:10 | — | ✅ cerrado | **+12** | sí (pegadas) | 11 nuevas (⭐ COL14 James, BRA20 Estêvão, BRA4 Marquinhos, CAN5/9/14, COL9/18, SEN9/14, TUN14) + **UZB18 recuperada** + 16 repetidas (incl. ARG13). HAVE 521→533 (54,4%). Perdidas 27→26. Pool 177→193 |
+| 2026-06-13 | sáb | F (sobres) | — | — | ⚠️ SOLO IDENTIF. | **+11** | 🔴 **SUELTAS** | 11 nuevas SIN PEGAR (estado `tengo`: ⭐ SWE20 Gyökeres, GER19, ENG5, MEX20, CUW11, IRQ14/18, TUR9, EGY16, CZE2, SCO9) + 16 repetidas. HAVE 533→544 (55,5%). Pool 193→209. **Pendiente: pegarlas.** |
 
 ---
 
@@ -496,6 +497,25 @@ COL9 (Santiago Arias) · SEN14 (Lamine Camara) · SEN9 (Idrissa Gana Gueye) · T
 JOR5 · SUI7 · TUN18 · BEL19 · **ARG13** (recuperada 17:25, ahora repe) · SUI3. Pool **177→193 cartas / 150→166 códigos**.
 
 **Hitos:** brillantes 39/68 (sin foils nuevos) · 🇵🇹 Portugal sigue 4/20 (POR15 Cristiano aún falta).
+
+---
+
+## 📦 Lote — 2026-06-13 (sáb) · Sobres · lote F · ⚠️ **SOLO IDENTIFICADO — NO PEGADO**
+
+Dictado de **27 láminas** → **11 nuevas** + **16 repetidas**. **Boris solo las identificó; no pegó nada.**
+Las 11 nuevas quedan en estado **`tengo` (SUELTAS, sin pegar)** — NO `pegada`. **HAVE 533→544 (54,4%→55,5%)**
+(el estado `tengo` cuenta en HAVE igual que `pegada`, pero marca el riesgo de extravío — lección 06-06). Perdidas 26.
+
+**🔴 Nuevas SUELTAS (11) — pendiente pegarlas:** ⭐ **SWE20 (Viktor Gyökeres)** · GER19 (Karim Adeyemi) ·
+ENG5 (Ezri Konsa) · MEX20 (César Huerta) · CUW11 (Juninho Bacuna) · IRQ14 (Youssef Amyn) · IRQ18 (Ali Al-Hamadi) ·
+TUR9 (Kaan Ayhan) · EGY16 (Osama Faisal) · CZE2 (Matěj Kovář) · SCO9 (Anthony Ralston).
+
+**Repetidas al pool (16):** CRO2 · IRQ9 · KOR16 · CUW16 · CRO6 · KOR20 · **EGY20** ("egv 20") · TUR5 · NED5 ·
+KSA5 · BEL10 (→2) · NED9 (→2) · JOR6 · PAR6 · RSA4 · AUT4. Pool **193→209 cartas / 166→180 códigos**.
+
+**Notas:** (1) el lote salió de **27 láminas**, no 28 — si fueron 4 sobres falta un código por dictar. (2) "egv 20"
+se interpretó como **EGY20** (Egipto). (3) **Se rompe la racha de 0 sueltas** que venía desde el 12-jun; quedan 11
+en estado `tengo` pendientes de pegar.
 
 ---
 
