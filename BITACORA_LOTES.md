@@ -59,6 +59,7 @@ Boris diga lo contrario** (ej. "encontré la que se me había perdido" → ahí 
 | 2026-06-13 | sáb | A (sobres) | 10:59 | — | ✅ cerrado | **+7** | sí (pegadas) | 7 nuevas (⭐ URU4 Araújo, ⭐ NED17 Depay, MAR8, TUN19, TUR15, GHA19, URU12) + 21 repetidas (incl. 2ª TUR15). HAVE 474→481 (49,1%). Pool 110→131 |
 | 2026-06-13 | sáb | B (sobres) | 16:02 | — | ✅ cerrado | **+11** | sí (pegadas) | 🎉 **cruza 50%**. 11 nuevas (⭐ MAR4 Hakimi, ⭐ JPN2, ✨ FWC9/CIV1/IRQ1 foils, RSA15, AUS3, KSA15/19, SWE8/12) + 17 repetidas (incl. IRN19→2). IRN19 era repetida, no nueva. HAVE 481→492 (50,2%). Pool 131→148 |
 | 2026-06-13 | sáb | C (sobres) | 17:25 | — | ✅ cerrado | **+11** | sí (pegadas) | 10 nuevas (🇵🇹 POR7 Nuno Mendes, ✨ USA1 escudo, GER13, UZB16, AUS14, ALG14, TUR6, ECU11, CZE19, MAR18) + **ARG13 recuperada** (perdida→pegada) + 17 repetidas (incl. SEN11→1). HAVE 492→504 (51,4%). Perdidas 28→27. Pool 148→165 |
+| 2026-06-13 | sáb | D (sobres) | 18:22 | — | ✅ cerrado | **+16** | sí (pegadas) | 16 nuevas (✨ AUT1/ECU1/BEL1 escudos, BRA16, COL5, SEN5, CIV20, ALG5/9, CPV13, ECU13, UZB7/11, AUS9, TUR2, JPN3) + 12 repetidas (incl. SEN18→1). HAVE 504→521 (53,2%). Pool 165→177 |
 
 ---
 
@@ -456,6 +457,26 @@ IRQ4 · **FWC19** · UZB6 · AUT2 · AUS1 · AUS6 · COD16 · **SEN11 (→1)**. 
 sobre es repetida. Se dejó `pegada` con rep=1. HAVE no cambió (ya contaba como pegada en el total).
 
 **Hitos:** brillantes 35→**36/68** (USA1 escudo) · 🇵🇹 **Portugal 3→4/20** (POR15 Cristiano aún falta).
+
+---
+
+## 📦 Lote — 2026-06-13 (sáb) · Sobres · 18:22 · **PEGADAS**
+
+Dictado de **28 láminas (4 sobres)** → **16 nuevas pegadas** + **12 repetidas**.
+**HAVE 504→521 (51,4%→53,2%)**. Perdidas 27 (sin cambios). ("al 9" = ALG9.)
+
+**Nuevas pegadas (16):** ✨ **AUT1 (Austria, escudo)** · ✨ **ECU1 (Ecuador, escudo)** · ✨ **BEL1 (Bélgica, escudo)** ·
+BRA16 (João Pedro) · COL5 (Yerry Mina) · SEN5 (Abdoulaye Seck) · CIV20 (Oumar Diakité) · ALG5 (Rayan Aït-Nouri) ·
+ALG9 (Houssem Aouar) · CPV13 (foto eq. Cabo Verde) · ECU13 (foto eq. Ecuador) · UZB7 (Rustamjon Ashurmatov) ·
+UZB11 (Otabek Shukurov) · AUS9 (Lewis Miller) · TUR2 (Uğurcan Çakır) · JPN3 (Henry Mochizuki).
+
+**Repetidas al pool (12):** GHA9 · RSA5 (→2) · JOR14 · GHA14 · SWE17 · JOR18 · GHA18 · ALG1 (→2) · GHA5 ·
+BRA8 · JOR9 · **SEN18 (→1)**. Pool **165→177 cartas / 140→150 códigos**.
+
+**Hitos:** brillantes 36→**39/68** (AUT1 + ECU1 + BEL1) · 🇵🇹 Portugal sigue 4/20 (POR15 Cristiano aún falta).
+
+**⚠️ Corrección SEN18:** igual que SEN11 — registro `falta` (atrasado) pero Boris ya la tenía pegada → la del sobre
+es repetida. Se dejó `pegada` con rep=1.
 
 ---
 
