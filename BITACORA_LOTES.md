@@ -560,3 +560,19 @@ AUS≠AUT, NED2≠NOR2, UZB2≠UZB8. (2) Siguen pendientes de pegar las **11 sue
 **Origen confirmado (wantlist Jorge):** Jorge pidió FWC7/IRN6/ESP12,15/KSA6,12,17/SEN6/IRQ12,17/NOR2/AUT10,15,20/JOR12,13/UZB8/COL2,6. Boris le entregó **JOR12 + AUT15**; **IRN6 nunca estuvo** (registro inflado). Wantlist guardada en `JORGE_VASQUEZ_WANTLIST.md` (sin JOR12/AUT15). Ningún código pendiente de Jorge está hoy en la pila de repetidas.
 
 **Lección:** el conteo de repetidas se infla con dictados acumulados sin verificación física. Hacer cross-check periódico de la pila completa contra el registro (este es el 2º; ver reconciliaciones 06-06/06-07).
+
+---
+
+## 📦 Lote — 2026-06-14 (dom) · 21:10 · Canje recibido de **Jorge Vásquez** · **PEGADAS**
+
+11 láminas recibidas de Jorge → **10 nuevas + 1 repetida (CUW7)**. Todas **pegadas en el acto**. **HAVE 554→564 (57,6%)**.
+
+**Nuevas pegadas (10):** CUW20 (Sontje Hansen) · USA14 (Diego Luna) · USA15 (Malik Tillman) · USA19 (Haji Wright) ·
+ECU8 (Joel Ordóñez) · ECU17 (Nilson Angulo) · TUR12 (Orkun Kökçü) · ⭐ **TUR20 (Kenan Yıldız)** ·
+⭐ **SCO11 (Scott McTominay)** · HAI15 (Derrick Etienne Jr).
+
+**Repetida:** **CUW7** (Roshon van Eijma) — Jorge pasó un 2º CUW7; con la rescatada del cross-check, se pega 1 → la otra a pool. CUW7 `tengo→pegada`, repe 0→1.
+
+Pool repetidas 222→**223 cartas / 189 códigos**. Brillantes 39/68 (ninguna foil en el lote). 🇵🇹 Portugal sigue (POR15 Cristiano aún falta). Perdidas 25.
+
+**Nota:** este canje fue el "lado B" de la sesión Jorge — él recibió JOR12+AUT15 de Boris (ver mantenimiento cross-check arriba) y a cambio entregó estas 11.

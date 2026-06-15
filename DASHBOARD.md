@@ -5,10 +5,10 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-14 (dom) — **554/980 (56,5%)** — **CROSS-CHECK FÍSICO COMPLETO de la pila de repetidas** (5 paquetes, 223 cartas dictadas) tras detectar repetidas mal registradas al canjear con Jorge Vásquez. **Corrección:** registro inflaba 9 cartas en 8 códigos (USA17, ALG8, EGY10, IRN6, JOR12, BEL10, IRN7, IRN20 — todas con slot **pegado**, no se perdió ningún slot del álbum) + 3 cartas extra en mano (EGY20, HAI16, QAT6) + **CUW7** rescatada (estaba `falta` pero la tenías en la pila → `tengo`, apartada para pegar). Pool **222 cartas / 188 códigos** (= pila física real). Wantlist de Jorge guardada en `JORGE_VASQUEZ_WANTLIST.md` (17 códigos; JOR12+AUT15 ya entregadas). Perdidas 25. Brillantes 39/68. 🇵🇹 Portugal (POR15 Cristiano aún falta). · *Anterior: 14-jun 14:40 lote sobres 553 (+9 pegadas) · 13-jun lote F 544 · 12-jun 392→474.*
+**Última actualización:** 2026-06-14 (dom, 21:10) — **564/980 (57,6%)** — **canje recibido de Jorge Vásquez:** +10 nuevas PEGADAS (CUW20, USA14/15/19, ECU8/17, TUR12, ⭐TUR20 Kenan Yıldız, ⭐SCO11 McTominay, HAI15) + 2º CUW7 (pega 1 → repe=1). Pool 222→**223 cartas / 189 códigos**. · *Antes mismo día — **554/980 (56,5%)** — **CROSS-CHECK FÍSICO COMPLETO de la pila de repetidas** (5 paquetes, 223 cartas dictadas) tras detectar repetidas mal registradas al canjear con Jorge Vásquez. **Corrección:** registro inflaba 9 cartas en 8 códigos (USA17, ALG8, EGY10, IRN6, JOR12, BEL10, IRN7, IRN20 — todas con slot **pegado**, no se perdió ningún slot del álbum) + 3 cartas extra en mano (EGY20, HAI16, QAT6) + **CUW7** rescatada (estaba `falta` pero la tenías en la pila → `tengo`, apartada para pegar). Pool **222 cartas / 188 códigos** (= pila física real). Wantlist de Jorge guardada en `JORGE_VASQUEZ_WANTLIST.md` (17 códigos; JOR12+AUT15 ya entregadas). Perdidas 25. Brillantes 39/68. 🇵🇹 Portugal (POR15 Cristiano aún falta). · *Anterior: 14-jun 14:40 lote sobres 553 (+9 pegadas) · 13-jun lote F 544 · 12-jun 392→474.*
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
-**Pendientes abiertos:** 🔴 **PEGAR CUW7** (única suelta `tengo`, rescatada del cross-check — al pegarla pasa a `pegada`) · resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades. *(Las 11 sueltas del lote F figuran ya como `pegada` en el registro.)*
+**Pendientes abiertos:** resolver "scomar" cuando aparezca · mapear `00`/FWC19/inserto 56-57 · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades. *(Las 11 sueltas del lote F figuran ya como `pegada` en el registro.)*
 
 ---
 
@@ -17,12 +17,12 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **554** (553 pegadas + **1 suelta** CUW7) | registro 2026-06-14 |
-| **% completado** (HAVE/N) | **56,5%** | calculado |
+| Tengo/pegadas (HAVE) | **564** (todas pegadas) | registro 2026-06-14 21:10 |
+| **% completado** (HAVE/N) | **57,6%** | calculado |
 | Perdidas (extraviadas en casa) | **25** | COD12 recuperada 06-14 |
-| Faltan (`falta`) | **401** | calculado |
-| **Por conseguir** (falta + perdida) | **426** | falta 401 + perdida 25 |
-| Repetidas (n°) | **222 cartas / 188 códigos** | registro 2026-06-14 (cross-check físico) |
+| Faltan (`falta`) | **391** | calculado |
+| **Por conseguir** (falta + perdida) | **416** | falta 391 + perdida 25 |
+| Repetidas (n°) | **223 cartas / 189 códigos** | registro 2026-06-14 (canje Jorge) |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
