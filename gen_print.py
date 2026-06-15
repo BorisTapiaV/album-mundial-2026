@@ -62,6 +62,13 @@ h1 { font-size: 15pt; margin: 0 0 1mm; }
 .dim .row.have { opacity:0.32; }
 @media print { .noprint { display:none; } }
 .noprint { background:#fffbe6; border:1px solid #e8d97a; padding:2mm 3mm; font-size:8pt; margin-bottom:4mm; }
+/* Buscador (solo pantalla): filtra .row por codigo o nombre en vivo */
+.search { position:sticky; top:0; z-index:5; display:flex; gap:2mm; align-items:center;
+          background:#eef6ff; border:1px solid #b3d4fc; border-radius:1.5mm; padding:2mm 3mm; margin-bottom:3mm; }
+.search input { flex:1 1 auto; font-size:12pt; padding:1.6mm 2.2mm; border:1px solid #888; border-radius:1mm; }
+.search button { font-size:9pt; padding:1.6mm 3mm; cursor:pointer; border:1px solid #888; border-radius:1mm; background:#fff; }
+#cnt { font-size:8.5pt; color:#1565c0; white-space:nowrap; min-width:18mm; }
+@media print { .search { display:none; } }
 """
 
 LEGEND = ('<div class="legend">Casilla &#9744; = marca a mano lo que pegas. '
@@ -71,6 +78,34 @@ LEGEND = ('<div class="legend">Casilla &#9744; = marca a mano lo que pegas. '
 
 PRINT_HINT = ('<div class="noprint">Abre este archivo en el navegador y pulsa '
               '<b>Ctrl+P</b> para imprimir o guardar como PDF. Esta caja no se imprime.</div>')
+
+SEARCH_BAR = ('<div class="search noprint">'
+              '<input id="q" type="search" autocomplete="off" '
+              'placeholder="Buscar codigo o nombre (ej: URU8, Messi)...">'
+              '<button id="clr" type="button">limpiar</button>'
+              '<span id="cnt"></span></div>')
+
+# Filtra .row por texto (codigo o nombre), ignora acentos/mayusculas, y oculta los
+# encabezados .team que queden sin filas visibles. Funciona offline.
+SEARCH_JS = """<script>
+(function(){
+  var q=document.getElementById('q'),clr=document.getElementById('clr'),cnt=document.getElementById('cnt');
+  if(!q)return;
+  function norm(s){return s.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase();}
+  var data=[].slice.call(document.querySelectorAll('.row')).map(function(r){return {el:r,t:norm(r.textContent)};});
+  var teams=[].slice.call(document.querySelectorAll('.team'));
+  function apply(){
+    var v=norm(q.value.trim()),shown=0;
+    data.forEach(function(d){var ok=!v||d.t.indexOf(v)>=0;d.el.style.display=ok?'':'none';if(ok)shown++;});
+    teams.forEach(function(t){
+      var any=[].slice.call(t.querySelectorAll('.row')).some(function(r){return r.style.display!=='none';});
+      t.style.display=any?'':'none';});
+    cnt.textContent=v?(shown+' resultado'+(shown===1?'':'s')):'';
+  }
+  q.addEventListener('input',apply);
+  clr.addEventListener('click',function(){q.value='';apply();q.focus();});
+})();
+</script>"""
 
 
 def load():
@@ -88,9 +123,10 @@ def box(have):
 
 def page(title, sub, body, cols_class):
     return f"""<!DOCTYPE html><html lang="es"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(title)}</title><style>{CSS}</style></head><body>
-<h1>{esc(title)}</h1><div class="sub">{esc(sub)}</div>{PRINT_HINT}{LEGEND}
-<div class="{cols_class}">{body}</div></body></html>"""
+<h1>{esc(title)}</h1><div class="sub">{esc(sub)}</div>{PRINT_HINT}{SEARCH_BAR}{LEGEND}
+<div class="{cols_class}">{body}</div>{SEARCH_JS}</body></html>"""
 
 
 def code_abbr(codigo):
@@ -216,6 +252,67 @@ def lista_intercambio(rows):
         "".join(lines), "cols3 dim")
 
 
+# Codigos YA comprometidos a canje (no van en el mazo de canje libre).
+# Punto-en-el-tiempo: vaciar/editar cuando se cierren los canjes.
+#   13 para Andres Acosta + AUT15 (dado a Jorge Vasquez).
+RESERVADAS = {
+    "CZE18", "HAI5", "HAI9", "HAI14", "GER1", "TUN6", "BEL8", "JOR6", "JOR17",
+    "COD1", "COL1", "CRO1", "GHA18", "AUT15",
+}
+
+
+def _oa(r):
+    try:
+        return int(r.get("orden_album") or 999)
+    except ValueError:
+        return 999
+
+
+def repetidas_por_pais(rows):
+    """Repetidas (repetidas>0) agrupadas POR PAIS en orden del album, para ordenar
+    el mazo de canje en el mismo orden en que se abren las paginas. Excluye RESERVADAS."""
+    rep = [r for r in rows
+           if r.get("repetidas", "0") not in ("0", "") and r["codigo"] not in RESERVADAS]
+    rep.sort(key=lambda r: (_oa(r), int(r["slot"]) if r["slot"].isdigit() else 0))
+    # agrupar por equipo preservando el orden ya aplicado
+    blocks, cur, cur_team = [], [], None
+    for r in rep:
+        if r["equipo"] != cur_team:
+            if cur:
+                blocks.append((cur_team, cur))
+            cur, cur_team = [], r["equipo"]
+        cur.append(r)
+    if cur:
+        blocks.append((cur_team, cur))
+
+    n_codes = len(rep)
+    n_cards = sum(int(r["repetidas"]) for r in rep)
+    html = []
+    for team, rs in blocks:
+        cards = sum(int(r["repetidas"]) for r in rs)
+        pag = (rs[0].get("pagina") or "").strip()
+        pag_html = f'<span class="pag">pag {esc(pag)}</span>' if pag else ""
+        lines = [f'<div class="team"><h2>{esc(team)}{pag_html}'
+                 f'<span class="cnt">{len(rs)} cod / {cards} cartas</span></h2>']
+        for r in rs:
+            n = int(r["repetidas"])
+            extra = f' <span class="team2">x{n}</span>' if n > 1 else ""
+            star = ' <span class="star">&#11088;</span>' if r["tier"] == "T3" else ""
+            lines.append(
+                f'<div class="row">'
+                f'<span class="code">{esc(r["codigo"])}</span>'
+                f'<span class="nm">{esc(r["jugador_tipo"]) or "&mdash;"}{star}{extra}</span></div>'
+            )
+        lines.append("</div>")
+        html.append("".join(lines))
+    return page(
+        "Album Mundial 2026 — Repetidas por pais (mazo de canje)",
+        f"{n_codes} codigos / {n_cards} cartas, en orden del album. "
+        f"Excluye {len(RESERVADAS)} reservadas a canje (Andres + Jorge). "
+        "xN = copias de ese codigo. Usa el buscador para hallar un codigo al toque.",
+        "".join(html), "cols4")
+
+
 def write(fname, html):
     with open(fname, "w", encoding="utf-8") as f:
         f.write(html)
@@ -227,6 +324,7 @@ def main():
     write("checklist_por_equipo.html", checklist_por_equipo(rows))
     write("lista_intercambio.html", lista_intercambio(rows))
     write("indice_alfabetico.html", indice_alfabetico(rows))
+    write("repetidas_por_pais.html", repetidas_por_pais(rows))
     if "--todo" in sys.argv:
         # faltantes = lo que falta + lo perdido (ambos hay que conseguirlos para cerrar)
         falt = [r for r in rows if r["estado"] in ("falta",) or r["estado"] in LOST]

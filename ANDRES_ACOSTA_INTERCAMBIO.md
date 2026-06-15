@@ -79,7 +79,30 @@
 - A Andrés le faltan **74** láminas en total (su wantlist).
 - Boris le puede cubrir **13**.
 - Andrés le puede cubrir **45** a Boris.
-- **Cuello de botella: las 13 de Boris.** En canje 1:1, Boris da 13 y elige sus 13 mejores de las 45.
-- Propuesta sugerida de 13 a pedir: GER15 (Musiala), FRA14 (Olise), FRA9 (Tchouaméni), FRA5 (Koundé), URU15 (de la Cruz), SEN16 (Sarr), POR14 (João Neves), POR18 (Gonçalo Ramos), POR13 (recupera perdida), PAN6 (recupera perdida), NED19 (Weghorst), CIV10 (Kessié), KSA16 (Aldawsari).
+- A Andrés le faltan **74** láminas en total (su wantlist).
+- Boris le puede dar **13** (las de arriba).
+- **Andrés ofrece 15 láminas a cambio** (no 1:1: Boris da 13, recibe 15).
 
-*Pendiente: ejecutar el canje. Al cerrar, las que Boris dé bajan de repetidas; las que reciba pasan a pegada. No registrado aún.*
+## 🎯 LISTA FINAL A PEDIR — 15 (acordada 2026-06-14)
+
+**Corridos:** GER15, FRA5, FRA9, FRA14, URU15, SEN16, NED19, CIV10, KSA16, POR14, POR18, POR13, PAN6, UZB20, ALG3
+
+| # | Código | Jugador | Nota |
+|:-:|--------|---------|------|
+| 1 | GER15 | Jamal Musiala | ⭐ estrella |
+| 2 | FRA5 | Jules Koundé | Francia |
+| 3 | FRA9 | Aurélien Tchouaméni | Francia |
+| 4 | FRA14 | Michael Olise | Francia |
+| 5 | URU15 | Nicolás de la Cruz | Uruguay |
+| 6 | SEN16 | Ismaïla Sarr | Senegal |
+| 7 | NED19 | Wout Weghorst | Países Bajos |
+| 8 | CIV10 | Franck Kessié | Costa de Marfil |
+| 9 | KSA16 | Salem Aldawsari | Arabia Saudita |
+| 10 | POR14 | João Neves | 🇵🇹 Portugal |
+| 11 | POR18 | Gonçalo Ramos | 🇵🇹 Portugal |
+| 12 | POR13 | (por confirmar) | 🇵🇹 recupera perdida |
+| 13 | PAN6 | Michael Amir Murillo | recupera perdida |
+| 14 | UZB20 | Abbosbek Fayzullaev | ⭐ estrella Uzbekistán |
+| 15 | ALG3 | Ramy Bensebaini | Argelia (defensa Dortmund) |
+
+> **⏳ PENDIENTE — NO EJECUTADO.** Al cerrar el canje: las 13 que Boris dé bajan de repetidas; las 15 que reciba pasan a `pegada` (POR13 y PAN6 son `perdida→pegada`). No registrado aún.
