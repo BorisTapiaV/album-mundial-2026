@@ -1,8 +1,10 @@
 # Orden y Paginas del Album - Panini World Cup 2026
 
 > VERIFICADO. Orden por grupo del Mundial (no alfabetico). 2 paginas por equipo.
-> Mexico arranca en pag 8. Inserto de especiales en pags 56-57 (entre Tunez #24 y Belgica #25).
-> Especiales FWC NO van todas juntas: bloque inicio (1-3) + inserto (56-57) + cierre (106-109). Mapeo FWC al final de este doc (dato fisico Boris 2026-06-07).
+> Mexico arranca en pag 8. Entre Tunez #24 y Belgica #25 hay un inserto SIN numerar y SIN laminas
+> (no es hoja de stickers; la siguiente hoja numerada es 58-59).
+> Especiales FWC NO van todas juntas: bloque inicio (portada s/n = `00`, pags 1-3 = FWC1-8) + cierre (106-109 = FWC9-19).
+> El inserto del medio NO lleva especiales (memoria previa "56-57 especiales" = error, corregido 2026-06-14). Mapeo FWC al final de este doc.
 
 | # | Pag | Cod | Seleccion | Tengo |
 |--:|----:|-----|-----------|------:|
@@ -30,7 +32,7 @@
 | 22 | 50-51 | JPN | Japon | 0/20 |
 | 23 | 52-53 | SWE | Suecia | 0/20 |
 | 24 | 54-55 | TUN | Tunez | 0/20 |
-| - | 56-57 | FWC | *(inserto especiales)* | - |
+| - | (s/n) | - | *(inserto del medio, SIN laminas; sigue 58-59)* | - |
 | 25 | 58-59 | BEL | Belgica | 9/20 |
 | 26 | 60-61 | EGY | Egipto | 8/20 |
 | 27 | 62-63 | IRN | Iran | 14/20 |
@@ -62,16 +64,18 @@
 
 | Pagina | Codigos FWC |
 |-------:|-------------|
+| 0 (portada s/n) | `00` (logo Panini) |
 | 1 | FWC1, FWC2, FWC3, FWC4 |
 | 2 | FWC5, FWC6 |
 | 3 | FWC7, FWC8 |
 | 106 | FWC9, FWC10 |
 | 107 | FWC11, FWC12, FWC13 |
 | 108 | FWC14, FWC15 |
-| 109 | FWC16, FWC17, FWC18 |
+| 109 | FWC16, FWC17, FWC18, FWC19 |
 
-**Pendiente de mapear:** `00` (logo Panini) · `FWC19` (la 19a FIFA Museum; probablemente pag 109-111) ·
-inserto especiales pags 56-57 (¿que FWC caen ahi?).
+**✅ Mapeo COMPLETO (2026-06-14).** `00` va en la pagina sin numero antes de la 1 (interior de portada);
+`FWC19` (FIFA Museum) va en la 109 junto a FWC16-18. El inserto del medio NO lleva especiales.
+Total 20 especiales: `00` + FWC1-8 (inicio) + FWC9-19 (cierre).
 
 **Extras fuera de las 980 (no cuentan):** seccion *"ROAD TO WORLD CUP 2026"* (48 equipos clasificados +
 su ultimo partido clasificatorio) ~pags 110-111, y **laminas Coca-Cola en pags 112-113** (sin numerar,

@@ -1,5 +1,5 @@
 codigo,equipo,slot,jugador_tipo,tier,estado,repetidas,notas,posicion,club,nacimiento,altura,peso,conf_bio,orden_album,pagina,fecha_estado
-00,Panini,0,Logo Panini (foil),T2,pegada,1,foil,,,,,,,0,,2026-06-12
+00,Panini,0,Logo Panini (foil),T2,pegada,1,foil | pagina sin numero antes de la 1 (interior portada),,,,,,,0,0,2026-06-12
 FWC1,FWC Especiales,1,Emblema oficial 1/2 (foil),T2,falta,0,foil,,,,,,,0,1,
 FWC2,FWC Especiales,2,Emblema oficial 2/2 (foil),T2,falta,0,foil,,,,,,,0,1,
 FWC3,FWC Especiales,3,Mascotas oficiales (foil),T2,falta,0,foil,,,,,,,0,1,
@@ -18,7 +18,7 @@ FWC15,FWC Especiales,15,Brasil 1994 - FIFA Museum (foil),T2,pegada,1,foil,,,,,,,
 FWC16,FWC Especiales,16,Brasil 2002 - FIFA Museum (foil),T2,pegada,0,foil,,,,,,,0,109,2026-06-09
 FWC17,FWC Especiales,17,Italia 2006 - FIFA Museum (foil),T2,pegada,0,foil,,,,,,,0,109,
 FWC18,FWC Especiales,18,Alemania 2014 - FIFA Museum (foil),T2,pegada,1,foil,,,,,,,0,109,
-FWC19,FWC Especiales,19,Argentina 2022 - FIFA Museum (foil),T2,pegada,1,foil,,,,,,,0,,2026-06-13
+FWC19,FWC Especiales,19,Argentina 2022 - FIFA Museum (foil),T2,pegada,1,foil,,,,,,,0,109,2026-06-13
 ALG1,Argelia,1,Escudo (foil),T2,pegada,2,escudo foil,,,,,,,38,84-85,2026-06-13
 ALG2,Argelia,2,Alexis Guendouz,base,perdida,0,,POR,MC Alger (ALG),26-01-1996,1.91,,high,38,84-85,2026-06-06
 ALG3,Argelia,3,Ramy Bensebaini,base,falta,0,,DEF,Borussia Dortmund (GER),16-04-1995,1.87,,high,38,84-85,
