@@ -26,7 +26,7 @@ ALG4,Argelia,4,Youcef Atal,base,falta,0,,DEF,Al-Sadd SC (QAT),17-05-1996,1.76,,h
 ALG5,Argelia,5,Rayan Aït-Nouri,base,pegada,0,,DEF,Manchester City FC (ENG),06-06-2001,1.80,,high,38,84-85,2026-06-13
 ALG6,Argelia,6,Mohamed Amine Tougai,base,falta,0,,DEF,Esperance de Tunis (TUN),22-01-2000,1.91,,high,38,84-85,
 ALG7,Argelia,7,Aïssa Mandi,base,falta,0,,DEF,LOSC Lille (FRA),22-10-1991,1.86,,high,38,84-85,
-ALG8,Argelia,8,Ismaël Bennacer,base,pegada,1,,MED,Dinamo Zagreb (CRO),01-12-1997,1.75,,high,38,84-85,2026-06-14
+ALG8,Argelia,8,Ismaël Bennacer,base,pegada,,,MED,Dinamo Zagreb (CRO),01-12-1997,1.75,,high,38,84-85,2026-06-14
 ALG9,Argelia,9,Houssem Aouar,base,pegada,0,,MED,Al-Ittihad (KSA),30-06-1998,1.75,,high,38,84-85,2026-06-13
 ALG10,Argelia,10,Hicham Boudaoui,base,falta,0,,MED,OGC Nice (FRA),23-09-1999,1.75,,high,38,84-85,
 ALG11,Argelia,11,Ramiz Zerrouki,base,pegada,0,,MED,FC Twente (NED),26-05-1998,1.83,,high,38,84-85,2026-06-12
@@ -108,7 +108,7 @@ BEL6,Belgica,6,Brandon Mechele,base,pegada,0,,DEF,Club Brugge KV (BEL),28-01-199
 BEL7,Belgica,7,Maxim De Cuyper,base,pegada,0,,DEF,Brighton Hove Albion FC (ENG),22-12-2000,1.83,,high,25,58-59,
 BEL8,Belgica,8,Thomas Meunier,base,pegada,1,,DEF,LOSC Lille (FRA),12-09-1991,1.91,,high,25,58-59,
 BEL9,Belgica,9,Youri Tielemans,base,pegada,1,,MED,Aston Villa FC (ENG),07-05-1997,1.76,,high,25,58-59,
-BEL10,Belgica,10,Amadou Onana,base,pegada,2,,MED,Aston Villa FC (ENG),16-08-2001,1.95,,high,25,58-59,2026-06-13
+BEL10,Belgica,10,Amadou Onana,base,pegada,1,,MED,Aston Villa FC (ENG),16-08-2001,1.95,,high,25,58-59,2026-06-13
 BEL11,Belgica,11,Nicolas Raskin,base,pegada,0,,MED,Rangers FC (SCO),23-02-2001,1.79,,high,25,58-59,2026-06-09
 BEL12,Belgica,12,Alexis Saelemaekers,base,falta,0,,MED,AC Milan (ITA),27-06-1999,1.80,,high,25,58-59,
 BEL13,Belgica,13,Foto equipo,base,pegada,0,,,,,,,,25,58-59,2026-06-07
@@ -265,7 +265,7 @@ CUW3,Curazao,3,Armando Obispo,base,falta,0,,DEF,PSV Eindhoven (NED),05-03-1999,1
 CUW4,Curazao,4,Sherel Floranus,base,perdida,0,,DEF,PEC Zwolle (NED),23-08-1998,1.81,,high,18,42-43,2026-06-06
 CUW5,Curazao,5,Jurien Gaari,base,pegada,1,,DEF,Abha Club (KSA),23-12-1993,1.81,,med,18,42-43,2026-06-12
 CUW6,Curazao,6,Joshua Brenet,base,pegada,1,,DEF,Kayserispor (TUR),20-03-1994,1.81,,high,18,42-43,
-CUW7,Curazao,7,Roshon van Eijma,base,falta,0,,DEF,RKC Waalwijk (NED),09-06-1998,1.86,,med,18,42-43,
+CUW7,Curazao,7,Roshon van Eijma,base,tengo,0,,DEF,RKC Waalwijk (NED),09-06-1998,1.86,,med,18,42-43,2026-06-14
 CUW8,Curazao,8,Shurandy Sambo,base,falta,0,,DEF,Sparta Rotterdam (NED),19-08-2001,1.74,,high,18,42-43,
 CUW9,Curazao,9,Livano Comenencia,base,pegada,1,,MED,FC Zurich (SUI),03-02-2004,1.91,,high,18,42-43,2026-06-12
 CUW10,Curazao,10,Godfried Roemeratoe,base,pegada,1,,MED,RKC Waalwijk (NED),19-08-1999,1.78,,med,18,42-43,
@@ -328,7 +328,7 @@ EGY6,Egipto,6,Khaled Sobhi,base,pegada,0,,DEF,Al Masry (EGY),03-05-1995,1.88,,me
 EGY7,Egipto,7,Ramy Rabia,base,pegada,0,,DEF,Al-Ain (UAE),20-05-1993,1.83,,med,26,60-61,
 EGY8,Egipto,8,Hossam Abdelmaguid,base,pegada,0,,DEF,Zamalek (EGY),30-04-2001,1.94,,med,26,60-61,2026-06-10
 EGY9,Egipto,9,Ahmed Fatouh,base,pegada,1,,DEF,Zamalek (EGY),22-03-1998,1.78,,med,26,60-61,
-EGY10,Egipto,10,Marwan Attia,base,pegada,1,,MED,Al Ahly (EGY),01-08-1998,1.72,,med,26,60-61,2026-06-10
+EGY10,Egipto,10,Marwan Attia,base,pegada,,,MED,Al Ahly (EGY),01-08-1998,1.72,,med,26,60-61,2026-06-10
 EGY11,Egipto,11,Zizo,base,pegada,1,,DEL,Al Ahly (EGY),10-01-1996,1.80,,high,26,60-61,2026-06-13
 EGY12,Egipto,12,Hamdy Fathy,base,pegada,0,,MED,Al-Wakrah (QAT),29-09-1994,1.80,,med,26,60-61,2026-06-09
 EGY13,Egipto,13,Foto equipo,base,falta,0,,,,,,,,26,60-61,
@@ -338,7 +338,7 @@ EGY16,Egipto,16,Osama Faisal,base,pegada,0,,DEL,National Bank of Egypt (EGY),01-
 EGY17,Egipto,17,Mohamed Salah,T3,pegada,0,,DEL,Liverpool (ENG),15-06-1992,1.75,71,high,26,60-61,
 EGY18,Egipto,18,Mostafa Mohamed,base,pegada,1,,DEL,Nantes (FRA),28-11-1997,1.85,,high,26,60-61,
 EGY19,Egipto,19,Trezeguet,base,falta,0,,DEL,Al Ahly (EGY),01-10-1994,1.79,,high,26,60-61,
-EGY20,Egipto,20,Omar Marmoush,base,pegada,1,,DEL,Manchester City (ENG),07-02-1999,1.83,,high,26,60-61,2026-06-13
+EGY20,Egipto,20,Omar Marmoush,base,pegada,2,,DEL,Manchester City (ENG),07-02-1999,1.83,,high,26,60-61,2026-06-13
 ENG1,Inglaterra,1,Escudo (foil),T2,falta,0,escudo foil,,,,,,,45,98-99,
 ENG2,Inglaterra,2,Jordan Pickford,base,pegada,1,,POR,Everton (ENG),07-03-1994,1.85,77,high,45,98-99,
 ENG3,Inglaterra,3,John Stones,base,pegada,0,,DEF,Manchester City (ENG),28-05-1994,1.88,70,high,45,98-99,
@@ -434,7 +434,7 @@ HAI12,Haiti,12,Jean-Ricner Bellegarde,base,falta,0,,MED,Wolverhampton (ENG),27-0
 HAI13,Haiti,13,Foto equipo,base,falta,0,,,,,,,,11,28-29,
 HAI14,Haiti,14,Christopher Attys,base,pegada,1,,MED,Calcio Lecco (ITA),,1.86,,med,11,28-29,
 HAI15,Haiti,15,Derrick Etienne Jr,base,falta,0,,DEL,Toronto FC (CAN),01-04-1996,1.78,72,med,11,28-29,
-HAI16,Haiti,16,Josué Casimir,base,pegada,1,,DEL,AJ Auxerre (FRA),,,,med,11,28-29,2026-06-12
+HAI16,Haiti,16,Josué Casimir,base,pegada,2,,DEL,AJ Auxerre (FRA),,,,med,11,28-29,2026-06-12
 HAI17,Haiti,17,Ruben Providence,base,falta,0,,DEL,Almere City (NED),07-01-2001,1.76,,med,11,28-29,
 HAI18,Haiti,18,Duckens Nazon,base,pegada,2,,DEL,Esteghlal (IRN),07-04-1994,1.85,78,high,11,28-29,2026-06-12
 HAI19,Haiti,19,Louicius Deedson,base,pegada,0,,DEL,FC Dallas (USA),11-02-2001,1.78,70,med,11,28-29,2026-06-12
@@ -444,8 +444,8 @@ IRN2,Iran,2,Alireza Beiranvand,base,pegada,0,,POR,Tractor (IRN),21-09-1992,1.94,
 IRN3,Iran,3,Morteza Pouraliganji,base,pegada,1,,DEF,Persepolis (IRN),19-04-1992,1.84,76,high,27,62-63,
 IRN4,Iran,4,Ehsan Hajsafi,base,pegada,0,,DEF,Sepahan (IRN),25-02-1990,1.78,73,high,27,62-63,
 IRN5,Iran,5,Milad Mohammadi,base,pegada,0,,DEF,Persepolis (IRN),29-09-1993,1.81,76,high,27,62-63,
-IRN6,Iran,6,Shojae Khalilzadeh,base,pegada,1,,DEF,Tractor (IRN),14-05-1989,1.87,80,high,27,62-63,2026-06-07
-IRN7,Iran,7,Ramin Rezaeian,base,pegada,2,,DEF,Sepahan (IRN),21-03-1990,1.83,74,high,27,62-63,2026-06-12
+IRN6,Iran,6,Shojae Khalilzadeh,base,pegada,,,DEF,Tractor (IRN),14-05-1989,1.87,80,high,27,62-63,2026-06-07
+IRN7,Iran,7,Ramin Rezaeian,base,pegada,1,,DEF,Sepahan (IRN),21-03-1990,1.83,74,high,27,62-63,2026-06-12
 IRN8,Iran,8,Hossein Kanaani,base,falta,0,,DEF,Persepolis (IRN),23-03-1994,1.86,80,med,27,62-63,
 IRN9,Iran,9,Sadegh Moharrami,base,pegada,0,,DEF,Dinamo Zagreb (CRO),01-03-1996,1.78,72,med,27,62-63,2026-06-12
 IRN10,Iran,10,Saleh Hardani,base,pegada,0,,DEF,Esteghlal (IRN),24-04-1998,1.80,,med,27,62-63,
@@ -458,7 +458,7 @@ IRN16,Iran,16,Mohammad Mohebi,base,pegada,1,,DEL,Rostov (RUS),20-12-1998,1.86,76
 IRN17,Iran,17,Sardar Azmoun,base,pegada,0,,DEL,Shabab Al-Ahli (UAE),01-01-1995,1.86,78,high,27,62-63,
 IRN18,Iran,18,Mehdi Taremi,base,pegada,1,,DEL,Olympiacos (GRE),18-07-1992,1.87,75,high,27,62-63,
 IRN19,Iran,19,Alireza Jahanbakhsh,base,pegada,2,,DEL,Dender (BEL),11-08-1993,1.81,73,high,27,62-63,2026-06-13
-IRN20,Iran,20,Ali Gholizadeh,base,pegada,2,,DEL,Lech Poznan (POL),10-03-1996,1.76,70,high,27,62-63,2026-06-12
+IRN20,Iran,20,Ali Gholizadeh,base,pegada,1,,DEL,Lech Poznan (POL),10-03-1996,1.76,70,high,27,62-63,2026-06-12
 IRQ1,Irak,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,35,78-79,2026-06-13
 IRQ2,Irak,2,Jalal Hassan,base,falta,0,,POR,Al-Zawraa (IRQ),18-05-1991,1.85,,high,35,78-79,
 IRQ3,Irak,3,Rebin Sulaka,base,pegada,0,,DEF,Port FC (THA),24-04-1992,1.92,,med,35,78-79,
@@ -530,7 +530,7 @@ JOR8,Jordania,8,Mohammad Abualnadi,base,pegada,0,,DEF,Selangor FC (MAS),08-02-20
 JOR9,Jordania,9,Ibrahim Saadeh,base,pegada,1,,MED,Al-Karma (IRQ),27-04-2000,1.81,,med,40,88-89,2026-06-13
 JOR10,Jordania,10,Nizar Al-Rashdan,base,falta,0,,MED,Qatar SC (QAT),23-03-1999,1.85,,med,40,88-89,
 JOR11,Jordania,11,Noor Al-Rawabdeh,base,pegada,1,,MED,Selangor FC (MAS),24-02-1997,1.78,,med,40,88-89,2026-06-12
-JOR12,Jordania,12,Mohannad Abu Taha,base,pegada,1,,MED,Al-Quwa Al-Jawiya (IRQ),02-02-2003,1.77,,med,40,88-89,2026-06-13
+JOR12,Jordania,12,Mohannad Abu Taha,base,pegada,,,MED,Al-Quwa Al-Jawiya (IRQ),02-02-2003,1.77,,med,40,88-89,2026-06-13
 JOR13,Jordania,13,Foto equipo,base,falta,0,,,,,,,,40,88-89,
 JOR14,Jordania,14,Amer Jamous,base,pegada,1,,MED,Al-Zawraa (IRQ),03-07-2002,1.74,,med,40,88-89,2026-06-13
 JOR15,Jordania,15,Musa Al-Taamari,base,falta,0,,DEL,Stade Rennais (FRA),10-06-1997,1.78,,high,40,88-89,
@@ -704,7 +704,7 @@ QAT2,Catar,2,Meshaal Barsham,base,pegada,0,,POR,Al-Sadd SC (QAT),14-02-1998,1.80
 QAT3,Catar,3,Sultan Albrake,base,falta,0,,DEF,Al-Duhail SC (QAT),07-04-1996,1.80,,high,7,20-21,
 QAT4,Catar,4,Lucas Mendes,base,falta,0,,DEF,Al-Wakrah SC (QAT),03-07-1990,1.84,,high,7,20-21,
 QAT5,Catar,5,Homam Ahmed,base,falta,0,,DEF,Al-Duhail SC (QAT),25-08-1999,1.88,,high,7,20-21,
-QAT6,Catar,6,Boualem Khoukhi,base,pegada,0,,DEF,Al-Sadd SC (QAT),09-07-1990,1.83,,high,7,20-21,2026-06-10
+QAT6,Catar,6,Boualem Khoukhi,base,pegada,1,,DEF,Al-Sadd SC (QAT),09-07-1990,1.83,,high,7,20-21,2026-06-10
 QAT7,Catar,7,Pedro Miguel,base,pegada,0,,DEF,Al-Sadd SC (QAT),06-08-1990,1.88,,high,7,20-21,2026-06-12
 QAT8,Catar,8,Tarek Salman,base,pegada,1,,DEF,Al-Sadd SC (QAT),05-12-1997,1.80,,high,7,20-21,2026-06-13
 QAT9,Catar,9,Mohamed Al-Mannai,base,falta,0,,MED,Al-Shamal SC (QAT),30-10-2003,1.83,,med,7,20-21,
@@ -955,7 +955,7 @@ USA13,Estados Unidos,13,Foto equipo,base,falta,0,,,,,,,,13,32-33,
 USA14,Estados Unidos,14,Diego Luna,base,falta,0,,MED,Real Salt Lake (USA),07-09-2003,1.73,68,med,13,32-33,
 USA15,Estados Unidos,15,Malik Tillman,base,falta,0,,MED,Bayer Leverkusen (GER),28-05-2002,1.85,75,high,13,32-33,
 USA16,Estados Unidos,16,Christian Pulisic,base,pegada,1,,DEL,AC Milan (ITA),18-09-1998,1.77,72,high,13,32-33,2026-06-12
-USA17,Estados Unidos,17,Brenden Aaronson,base,pegada,3,,MED,Leeds United (ENG),22-10-2000,1.78,68,high,13,32-33,2026-06-14
+USA17,Estados Unidos,17,Brenden Aaronson,base,pegada,1,,MED,Leeds United (ENG),22-10-2000,1.78,68,high,13,32-33,2026-06-14
 USA18,Estados Unidos,18,Ricardo Pepi,base,pegada,1,,DEL,PSV Eindhoven (NED),09-01-2003,1.85,77,high,13,32-33,2026-06-12
 USA19,Estados Unidos,19,Haji Wright,base,falta,0,,DEL,Coventry City (ENG),27-03-1998,1.93,79,high,13,32-33,
 USA20,Estados Unidos,20,Folarin Balogun,base,pegada,0,,DEL,AS Monaco (FRA),03-07-2001,1.79,73,high,13,32-33,2026-06-12

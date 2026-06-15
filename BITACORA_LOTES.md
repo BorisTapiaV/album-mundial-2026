@@ -543,3 +543,20 @@ AUS≠AUT, NED2≠NOR2, UZB2≠UZB8. (2) Siguen pendientes de pegar las **11 sue
 
 *Cross-ref: `registro_maestro.csv` (estado autoritativo) · `DASHBOARD.md` (KPIs) ·
 `INVESTIGACION_Y_SISTEMA.md` (arquitectura).*
+
+---
+
+## 🔧 Mantenimiento — 2026-06-14 (dom) · CROSS-CHECK FÍSICO de repetidas
+
+**Disparador:** al canjear con un amigo (**Jorge Vásquez**), Boris detectó que varias láminas registradas como repetidas **no estaban** en la pila física. Se hizo verificación cruzada completa: Boris dictó la pila entera en **5 paquetes (223 cartas / 189 códigos)**, reconciliada contra `registro_maestro.csv`.
+
+**Resultado:**
+- 🟠 **Registro inflaba 9 cartas en 8 códigos** (error honesto de conteo en dictados previos): USA17 (3→1), ALG8 (1→0), EGY10 (1→0), IRN6 (1→0), JOR12 (1→0), BEL10 (2→1), IRN7 (2→1), IRN20 (2→1). **Las 8 con slot `pegada` → NO se perdió ningún slot del álbum.** El error era solo en la moneda de canje.
+- 🟡 **3 cartas extra en mano** no registradas: EGY20 (1→2), HAI16 (1→2), QAT6 (0→1).
+- 🔴 **CUW7 rescatada:** estaba en la pila de canje pero su slot estaba **`falta`** (única copia mal puesta en el mazo de repetidas). → `falta→tengo`, apartada para pegar. **HAVE 553→554.**
+
+**Pool repetidas:** 228→**222 cartas / 188 códigos** (= pila física real verificada).
+
+**Origen confirmado (wantlist Jorge):** Jorge pidió FWC7/IRN6/ESP12,15/KSA6,12,17/SEN6/IRQ12,17/NOR2/AUT10,15,20/JOR12,13/UZB8/COL2,6. Boris le entregó **JOR12 + AUT15**; **IRN6 nunca estuvo** (registro inflado). Wantlist guardada en `JORGE_VASQUEZ_WANTLIST.md` (sin JOR12/AUT15). Ningún código pendiente de Jorge está hoy en la pila de repetidas.
+
+**Lección:** el conteo de repetidas se infla con dictados acumulados sin verificación física. Hacer cross-check periódico de la pila completa contra el registro (este es el 2º; ver reconciliaciones 06-06/06-07).
