@@ -25,9 +25,12 @@
 | Repetidas (n°) | **223 cartas / 189 códigos** | registro 2026-06-14 (canje Jorge) |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
-| Costo cerrar — vía sobres (bruto) | **~$440.000** | DR (≈400 sobres) |
+| **Costo real sobre (Boris)** | **$1.700 online c/despacho** (evita fila) vs $1.100 mostrador | Boris 14-jun |
+| **Costo/lámina NUEVA hoy (sobres $1.700 @57,6%)** | **~$573** = 1700÷(7×0,424) | modelo |
+| Costo cerrar TODO solo con sobres $1.700 | **~$1,57M** (≈925 sobres, coupon-collector) | modelo |
 | Costo cerrar — mixto (canje+faltantes) | **$158.000–$330.000** | DR |
-| **Punto de cruce (sobres→faltantes)** | **~80-85%** | modelo |
+| **Punto de cruce (sobres→faltantes)** | **~31-39% completado** (recalc con sobre $1.700 vs faltante $350-400) — **YA cruzado, voy 57,6%** | modelo 14-jun |
+| Precio faltante estimado (servicio aún no abre) | **~$350–420 CLP/lámina** (tiendapanini.cl FIFA 365 $350 · MX 8 MXN≈$420); tope 30/pedido; abre ~fin jun | web 14-jun ⏳ |
 | Valor reventa estrellas | ver abajo | DR ✅ |
 
 ---
@@ -41,11 +44,11 @@
 | Estructura por equipo | 48 selecciones × 20 (18 jugadores + foto + escudo) | ✅ |
 | Especiales | 68 especiales + 12 exclusivas Coca-Cola + **14 fuera de sobres** | ✅ |
 | Láminas por sobre | **7** (subió de 5) | ✅ |
-| Precio sobre suelto | **$1.100** | ✅ |
+| Precio sobre suelto | **$1.100** mostrador · **$1.700 online (Boris paga este, evita fila)** | ✅ |
 | Caja 50 sobres | **$55.000** (~$1.100 c/u) | ✅ |
 | Álbum tapa blanda | **$3.900** (o pack + 50 sobres $58.900) | ✅ |
 | Servicio faltantes oficial | tiendapanini.cl — hasta **30 láminas exactas/pedido** | ✅ |
-| Precio por lámina faltante (unitario) | `—` NO publicado | ⏳ confirmar en tiendapanini.cl |
+| Precio por lámina faltante (unitario) | **~$350–420 CLP est.** (CL FIFA 365 $350 · MX 8 MXN≈$420) | ⏳ servicio WC2026 abre ~fin jun; reconfirmar |
 | Reventa Cristiano (normal) | ~$40 USD tope / especiales >$700 USD | ✅ |
 
 ---
