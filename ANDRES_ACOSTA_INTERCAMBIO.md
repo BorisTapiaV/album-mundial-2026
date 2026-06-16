@@ -105,4 +105,4 @@
 | 14 | UZB20 | Abbosbek Fayzullaev | ⭐ estrella Uzbekistán |
 | 15 | ALG3 | Ramy Bensebaini | Argelia (defensa Dortmund) |
 
-> **⏳ PENDIENTE — NO EJECUTADO.** Al cerrar el canje: las 13 que Boris dé bajan de repetidas; las 15 que reciba pasan a `pegada` (POR13 y PAN6 son `perdida→pegada`). No registrado aún.
+> **✅ EJECUTADO 2026-06-16.** Boris recibió las 15 SUELTAS → `falta/perdida → tengo` (POR13 + PAN6 eran `perdida` → recuperadas, perdidas 25→23). Las 13 dadas bajaron 1 de repetidas (COL1 quedó en 1, resto en 0; slots siguen `pegada`). **HAVE 580→595 (60,7%).** Pool repetidas 209→196 cartas / 164 códigos. ⏳ Las 15 quedan pendientes de pegar (junto a las 16 de Carlos). POR13 confirmado = Foto equipo Portugal. `RESERVADAS` en gen_print.py vaciado.

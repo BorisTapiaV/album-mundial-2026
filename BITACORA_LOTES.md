@@ -592,3 +592,20 @@ Cierre del canje con Carlos (analizado/ofertado 15-jun). **Lado Boris** ya ejecu
 **HAVE 564→580 (59,2%).** Faltan 391→375. Perdidas 25. Pool repetidas (post lado-Boris) **209 cartas / 176 códigos**. Brillantes 39→**40/68** (FWC14 foil). 🇵🇹 Portugal +1 (POR6) — **POR15 Cristiano sigue faltando**.
 
 **⚠️ Pendiente:** las 16 quedaron SUELTAS → pegar cuanto antes (lección 06-06: las sueltas se pierden). Al pegar pasan `tengo→pegada` (HAVE no cambia). Detalle del canje en `CARLOS_SALGADO_INTERCAMBIO.md`.
+
+---
+
+## 🔄 Canje — 2026-06-16 (mar) · Canje **Andrés Acosta** CERRADO · **SUELTAS**
+
+Cierre del canje con Andrés (analizado 14-jun). **No 1:1: Boris da 13, recibe 15.** Ejecutado hoy ambos lados.
+
+**Recibidas (15, SUELTAS → `tengo`, `fecha_estado=2026-06-16`, ⏳ pendiente pegar):**
+GER15 ⭐(Jamal Musiala) · FRA5 (Koundé) · FRA9 (Tchouaméni) · FRA14 (Olise) · URU15 (De la Cruz) · SEN16 (Sarr) · NED19 (Weghorst) · CIV10 (Kessié) · KSA16 (Al-Dawsari) · POR14 🇵🇹(João Neves) · POR18 🇵🇹(Gonçalo Ramos) · **POR13 🇵🇹(Foto equipo) — perdida→recup** · **PAN6 (Murillo) — perdida→recup** · UZB20 ⭐(Fayzullaev) · ALG3 (Bensebaini).
+
+**Dadas (13, repe −1; slots siguen `pegada`):** CZE18, HAI5, HAI9, HAI14, GER1(foil), TUN6, BEL8, JOR6, JOR17, COD1(foil), COL1(foil 2→1), CRO1(foil), GHA18.
+
+**HAVE 580→595 (60,7%) 🎉.** Faltan 375→362. Perdidas 25→**23** (POR13+PAN6 recuperadas). Pool repetidas 209→**196 cartas / 164 códigos**. Brillantes 40/68 (los 4 foils dados eran repetidas, el slot pegado se mantiene). 🇵🇹 Portugal +3 (POR13/14/18) — **POR15 Cristiano sigue faltando**.
+
+**`RESERVADAS` en gen_print.py VACIADO** — canjes Andrés (13) + Jorge (AUT15) cerrados, sin reservas activas.
+
+**⚠️ Pendiente:** 31 sueltas en total (16 Carlos + 15 Andrés) → pegar cuanto antes (lección 06-06). Detalle en `ANDRES_ACOSTA_INTERCAMBIO.md`.

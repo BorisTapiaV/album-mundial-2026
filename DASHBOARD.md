@@ -5,7 +5,7 @@
      de forma óptima en costo, usando el modelo del coleccionista de cupones. -->
 
 **Colección:** Panini — FIFA World Cup 2026 (edición Chile)
-**Última actualización:** 2026-06-16 (mar) — **580/980 (59,2%)** — **canje Carlos Salgado CERRADO:** Boris entregó 14 (15-jun) + recibió las 14 de Carlos + lote extra (POR6 Diogo Dalot 🇵🇹 + URU3) = **16 recibidas SUELTAS** (`falta→tengo`, ⏳ pendiente pegar). Brillantes 39→**40/68** (FWC14 Argentina 1986 foil). 🇵🇹 Portugal +1 (POR6) — POR15 Cristiano sigue faltando. · *Anterior: 14-jun (dom, 21:10) — **564/980 (57,6%)** — **canje recibido de Jorge Vásquez:** +10 nuevas PEGADAS (CUW20, USA14/15/19, ECU8/17, TUR12, ⭐TUR20 Kenan Yıldız, ⭐SCO11 McTominay, HAI15) + 2º CUW7 (pega 1 → repe=1). Pool 222→**223 cartas / 189 códigos**. · *Antes mismo día — **554/980 (56,5%)** — **CROSS-CHECK FÍSICO COMPLETO de la pila de repetidas** (5 paquetes, 223 cartas dictadas) tras detectar repetidas mal registradas al canjear con Jorge Vásquez. **Corrección:** registro inflaba 9 cartas en 8 códigos (USA17, ALG8, EGY10, IRN6, JOR12, BEL10, IRN7, IRN20 — todas con slot **pegado**, no se perdió ningún slot del álbum) + 3 cartas extra en mano (EGY20, HAI16, QAT6) + **CUW7** rescatada (estaba `falta` pero la tenías en la pila → `tengo`, apartada para pegar). Pool **222 cartas / 188 códigos** (= pila física real). Wantlist de Jorge guardada en `JORGE_VASQUEZ_WANTLIST.md` (17 códigos; JOR12+AUT15 ya entregadas). Perdidas 25. Brillantes 39/68. 🇵🇹 Portugal (POR15 Cristiano aún falta). · *Anterior: 14-jun 14:40 lote sobres 553 (+9 pegadas) · 13-jun lote F 544 · 12-jun 392→474.*
+**Última actualización:** 2026-06-16 (mar) — **595/980 (60,7%)** 🎉 cruza el 60% — **2 canjes CERRADOS:** **Carlos** (recibió 16: 14 canje + POR6/URU3 extra) + **Andrés Acosta** (das 13 / recibes 15: GER15⭐, FRA5/9/14, URU15, SEN16, NED19, CIV10, KSA16, POR14/18/13 🇵🇹, PAN6, UZB20⭐, ALG3). **31 recibidas SUELTAS** (`falta→tengo`, ⏳ pendiente pegar). POR13+PAN6 eran perdidas → recuperadas (perdidas 25→23). Pool repetidas 209→**196/164** (Andrés -13). 🇵🇹 Portugal +4 hoy (POR6/13/14/18) — **POR15 Cristiano sigue faltando**. Brillantes 40/68. · *Anterior: 14-jun (dom, 21:10) — **564/980 (57,6%)** — **canje recibido de Jorge Vásquez:** +10 nuevas PEGADAS (CUW20, USA14/15/19, ECU8/17, TUR12, ⭐TUR20 Kenan Yıldız, ⭐SCO11 McTominay, HAI15) + 2º CUW7 (pega 1 → repe=1). Pool 222→**223 cartas / 189 códigos**. · *Antes mismo día — **554/980 (56,5%)** — **CROSS-CHECK FÍSICO COMPLETO de la pila de repetidas** (5 paquetes, 223 cartas dictadas) tras detectar repetidas mal registradas al canjear con Jorge Vásquez. **Corrección:** registro inflaba 9 cartas en 8 códigos (USA17, ALG8, EGY10, IRN6, JOR12, BEL10, IRN7, IRN20 — todas con slot **pegado**, no se perdió ningún slot del álbum) + 3 cartas extra en mano (EGY20, HAI16, QAT6) + **CUW7** rescatada (estaba `falta` pero la tenías en la pila → `tengo`, apartada para pegar). Pool **222 cartas / 188 códigos** (= pila física real). Wantlist de Jorge guardada en `JORGE_VASQUEZ_WANTLIST.md` (17 códigos; JOR12+AUT15 ya entregadas). Perdidas 25. Brillantes 39/68. 🇵🇹 Portugal (POR15 Cristiano aún falta). · *Anterior: 14-jun 14:40 lote sobres 553 (+9 pegadas) · 13-jun lote F 544 · 12-jun 392→474.*
 
 **Artefactos clave:** `BITACORA_LOTES.md` (protocolo de ingreso + log temporal de lotes) · `dashboard_share.png` + `gen_dashboard.py` (tarjeta para compartir estilo Figuritas) · `perdidas.html` · `ALBUM_ORDEN.md` (orden + páginas FWC).
 **Pendientes abiertos:** resolver "scomar" cuando aparezca · precio unitario faltantes tiendapanini.cl · v2 dashboard radar de habilidades. *(Mapeo de especiales `00`/FWC19/inserto ✅ cerrado 14-jun — ver ALBUM_ORDEN.md.)* *(Las 11 sueltas del lote F figuran ya como `pegada` en el registro.)*
@@ -19,19 +19,19 @@
 | Métrica | Valor | Fuente |
 |---------|------:|--------|
 | Total de láminas del álbum (N) | **980** | DR ✅ |
-| Tengo/pegadas (HAVE) | **580** (564 pegadas + 16 sueltas ⏳ pegar) | registro 2026-06-16 (canje Carlos) |
-| **% completado** (HAVE/N) | **59,2%** | calculado |
-| Perdidas (extraviadas en casa) | **25** | COD12 recuperada 06-14 |
-| Faltan (`falta`) | **375** | calculado |
-| **Por conseguir** (falta + perdida) | **400** | falta 375 + perdida 25 |
-| Repetidas (n°) | **209 cartas / 176 códigos** | registro 2026-06-16 (post-canje Carlos: dio 14) |
+| Tengo/pegadas (HAVE) | **595** (564 pegadas + 31 sueltas ⏳ pegar) | registro 2026-06-16 (canjes Carlos + Andrés) |
+| **% completado** (HAVE/N) | **60,7%** | calculado |
+| Perdidas (extraviadas en casa) | **23** | POR13 + PAN6 recuperadas (canje Andrés) |
+| Faltan (`falta`) | **362** | calculado |
+| **Por conseguir** (falta + perdida) | **385** | falta 362 + perdida 23 |
+| Repetidas (n°) | **196 cartas / 164 códigos** | registro 2026-06-16 (post-canjes Carlos +Andrés: dio 14+13) |
 | Tasa de novedad (nuevas÷compradas) | `—` | registro compras |
 | Costo hundido (gastado) | `$— CLP` | registro compras |
 | **Costo real sobre (Boris)** | **$1.700 online c/despacho** (evita fila) vs $1.100 mostrador | Boris 14-jun |
-| **Costo/lámina NUEVA hoy (sobres $1.700 @59,2%)** | **~$595** = 1700÷(7×0,408) | modelo |
+| **Costo/lámina NUEVA hoy (sobres $1.700 @60,7%)** | **~$618** = 1700÷(7×0,393) | modelo |
 | Costo cerrar TODO solo con sobres $1.700 | **~$1,57M** (≈925 sobres, coupon-collector) | modelo |
 | Costo cerrar — mixto (canje+faltantes) | **$158.000–$330.000** | DR |
-| **Punto de cruce (sobres→faltantes)** | **~31-39% completado** (recalc con sobre $1.700 vs faltante $350-400) — **YA cruzado, voy 59,2%** | modelo 14-jun |
+| **Punto de cruce (sobres→faltantes)** | **~31-39% completado** (recalc con sobre $1.700 vs faltante $350-400) — **YA cruzado, voy 60,7%** | modelo 14-jun |
 | Precio faltante estimado (servicio aún no abre) | **~$350–420 CLP/lámina** (tiendapanini.cl FIFA 365 $350 · MX 8 MXN≈$420); tope 30/pedido; abre ~fin jun | web 14-jun ⏳ |
 | Valor reventa estrellas | ver abajo | DR ✅ |
 

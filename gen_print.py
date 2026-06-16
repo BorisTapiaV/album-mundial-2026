@@ -254,11 +254,8 @@ def lista_intercambio(rows):
 
 # Codigos YA comprometidos a canje (no van en el mazo de canje libre).
 # Punto-en-el-tiempo: vaciar/editar cuando se cierren los canjes.
-#   13 para Andres Acosta + AUT15 (dado a Jorge Vasquez).
-RESERVADAS = {
-    "CZE18", "HAI5", "HAI9", "HAI14", "GER1", "TUN6", "BEL8", "JOR6", "JOR17",
-    "COD1", "COL1", "CRO1", "GHA18", "AUT15",
-}
+#   2026-06-16: canjes Andres (13) + Jorge (AUT15) CERRADOS -> sin reservas activas.
+RESERVADAS = set()
 
 
 def _oa(r):

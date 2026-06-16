@@ -1,6 +1,6 @@
 FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)
 Generado: 2026-06-16 · Boris Tapia
-Total faltan: 400/980  (falta=375 · perdida=25)
+Total faltan: 385/980  (falta=362 · perdida=23)
 ============================================================
 
 ## Especiales  (pág especiales) — faltan 8
@@ -173,10 +173,9 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   TUR10   İsmail Yüksek
   TUR13   Foto equipo
 
-## Alemania  (pág ) — faltan 4
+## Alemania  (pág ) — faltan 3
   GER6    Antonio Rüdiger
   GER10   Joshua Kimmich
-  GER15   Jamal Musiala
   GER18   Leroy Sané
 
 ## Curazao  (pág ) — faltan 7
@@ -188,11 +187,10 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   CUW13   Foto equipo
   CUW17   Jurgen Locadia
 
-## Costa de Marfil  (pág ) — faltan 9
+## Costa de Marfil  (pág ) — faltan 8
   CIV4    Wilfried Singo  [PERDIDA]
   CIV5    Odilon Kossounou
   CIV9    Ousmane Diomandé
-  CIV10   Franck Kessié
   CIV13   Foto equipo
   CIV14   Jean-Philippe Gbamin
   CIV15   Amad Diallo
@@ -208,10 +206,9 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   ECU14   John Yeboah
   ECU20   Enner Valencia
 
-## Países Bajos  (pág ) — faltan 4
+## Países Bajos  (pág ) — faltan 3
   NED1    Escudo (foil)
   NED13   Foto equipo
-  NED19   Wout Weghorst
   NED20   Cody Gakpo
 
 ## Japón  (pág ) — faltan 13
@@ -297,50 +294,44 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   CPV14   Deroy Duarte
   CPV18   Dailon Livramento
 
-## Arabia Saudita  (pág ) — faltan 8
+## Arabia Saudita  (pág ) — faltan 7
   KSA2    Nawaf Alaqidi
   KSA3    Abdulrahman Al-Sanbi
   KSA6    Jihad Thakri  [PERDIDA]
   KSA7    Moteb Al-Harbi
   KSA10   Ziyad Aljohani  [PERDIDA]
   KSA11   Abdullah Alkhaibari
-  KSA16   Salem Aldawsari
   KSA20   Abdullah Al-Hamdan
 
-## Uruguay  (pág ) — faltan 7
+## Uruguay  (pág ) — faltan 6
   URU2    Sergio Rochet
   URU7    Mathías Olivera
   URU10   Federico Valverde
   URU11   Giorgian De Arrascaeta
   URU13   Foto equipo
-  URU15   Nicolás de la Cruz
   URU19   Rodrigo Aguirre
 
-## Francia  (pág ) — faltan 15
+## Francia  (pág ) — faltan 12
   FRA1    Escudo (foil)
   FRA2    Mike Maignan
   FRA3    Theo Hernández
   FRA4    William Saliba
-  FRA5    Jules Koundé
   FRA6    Ibrahima Konaté
   FRA8    Lucas Digne
-  FRA9    Aurélien Tchouaméni
   FRA10   Eduardo Camavinga
   FRA11   Manu Koné
   FRA12   Adrien Rabiot
   FRA13   Foto equipo
-  FRA14   Michael Olise
   FRA16   Bradley Barcola
   FRA17   Désiré Doué
 
-## Senegal  (pág ) — faltan 9
+## Senegal  (pág ) — faltan 8
   SEN1    Escudo (foil)
   SEN3    Yehvann Diouf
   SEN7    El Hadji Malick Diouf
   SEN10   Pape Matar Sarr
   SEN13   Foto equipo
   SEN15   Sadio Mané
-  SEN16   Ismaïla Sarr
   SEN17   Boulaye Dia
   SEN19   Nicolas Jackson
 
@@ -381,9 +372,8 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   ARG18   Lautaro Martínez
   ARG19   Julián Álvarez
 
-## Argelia  (pág ) — faltan 9
+## Argelia  (pág ) — faltan 8
   ALG2    Alexis Guendouz  [PERDIDA]
-  ALG3    Ramy Bensebaini
   ALG4    Youcef Atal
   ALG6    Mohamed Amine Tougai
   ALG7    Aïssa Mandi
@@ -410,7 +400,7 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   JOR15   Musa Al-Taamari
   JOR19   Mohammad Abu Zrayq
 
-## Portugal  (pág ) — faltan 15
+## Portugal  (pág ) — faltan 12
   POR1    Escudo (foil)
   POR2    Diogo Costa
   POR3    José Sá
@@ -419,11 +409,8 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   POR8    Gonçalo Inácio
   POR10   Bruno Fernandes
   POR11   Rúben Neves
-  POR13   Foto equipo  [PERDIDA]
-  POR14   João Neves
   POR15   Cristiano Ronaldo
   POR16   Francisco Trincão
-  POR18   Gonçalo Ramos
   POR19   Pedro Neto  [PERDIDA]
   POR20   Rafael Leão
 
@@ -438,7 +425,7 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   COD18   Fiston Mayele
   COD19   Cédric Bakambu
 
-## Uzbekistan  (pág ) — faltan 8
+## Uzbekistan  (pág ) — faltan 7
   UZB4    Sherzod Nasrullaev
   UZB5    Umar Eshmurodov
   UZB8    Khojiakbar Alijonov
@@ -446,7 +433,6 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   UZB12   Jamshid Iskanderov
   UZB14   Azizbek Turgunboev
   UZB17   Oston Urunov  [PERDIDA]
-  UZB20   Abbosbek Fayzullaev
 
 ## Colombia  (pág ) — faltan 10
   COL2    Camilo Vargas  [PERDIDA]
@@ -484,11 +470,10 @@ Total faltan: 400/980  (falta=375 · perdida=25)
   GHA12   Kamaldeen Sulemana
   GHA17   André Ayew
 
-## Panamá  (pág ) — faltan 15
+## Panamá  (pág ) — faltan 14
   PAN3    Luis Mejía
   PAN4    Fidel Escobar
   PAN5    Andrés Andrade
-  PAN6    Michael Amir Murillo  [PERDIDA]
   PAN7    Eric Davis
   PAN8    José Córdoba
   PAN9    César Blackman
