@@ -2,8 +2,32 @@
 
 <!-- Documento maestro. Consolida: motivación, DR (Leonor→Claude), y el reverse-engineering empírico del formato del QR. Creado 2026-06-15. -->
 
-**Estado:** 🟢 Formato del QR **crackeado y reproducible**. Falta solo el mapeo bit↔código (esperando 3 códigos de Boris) para escribir el generador `CSV → QR`.
-**Veredicto:** **SÍ — es factible cargar mi inventario (CSV) a la app vía el QR de importación.**
+**Estado:** ✅ **RESUELTO Y FUNCIONANDO (2026-06-16).** Mapeo bit↔código descifrado, generador `CSV → QR` escrito (`gen_qr_figuritas.py`) e **import real confirmado en la app** (cargó las 595 tengo exactas). v1 = tengo/falta. v2 (repetidas) pendiente de confirmar bloque 2.
+**Veredicto:** **SÍ — confirmado en producción.** El inventario del CSV se carga a la app vía QR sin tipear nada.
+
+---
+
+## ✅ Resolución del mapeo (2026-06-16)
+
+**El truco era el orden de bits: LSB-first dentro de cada byte** (no MSB-first). Con eso México (equipo 1) = bits 20-39 contiguos, y todo el esquema queda lineal:
+
+| Tramo de bits | Contenido |
+|---|---|
+| 0-19 | 20 especiales: `00` → bit 0 · FWC1-19 → bits 1-19 (`bit = slot`) |
+| 20-39 | México (equipo 1) |
+| `20·T` … `20·T+19` | equipo T (T = `orden_album`, 1-48) |
+| 960-979 | Panamá (equipo 48) |
+| 980-983 | padding |
+
+**Fórmula:** lámina de equipo → `bit = 20·orden_album + (slot−1)` · especial → `bit = slot`.
+**Polaridad:** bit `0` = tengo · `1` = falta (bloque 0). Bloque 1 = repetidas (mismo esquema de bits). Bloque 2 = cantidades (semántica aún por confirmar → v2).
+
+**Validación:**
+1. Generé "México todo tengo" desde el CSV → **idéntico byte a byte** al export real de la app.
+2. Con inventario real, las diferencias fueron *exactamente* las láminas que faltaban → cero error.
+3. **Import real en la app:** test México calzó + QR full marcó **595** exactas.
+
+**Generador:** `gen_qr_figuritas.py` → produce `QR_FIGURITAS_test_mexico.png` (prueba) + `QR_FIGURITAS_full.png` (inventario completo). Regenerar tras cada cambio de inventario.
 
 ---
 
@@ -155,6 +179,8 @@ blocks = [gzip.decompress(base64.b64decode(p+'='*(-len(p)%4)))
 ---
 
 ## 7. Lo que falta para cerrar el generador
+
+> ✅ **Puntos 1 y 4 RESUELTOS 2026-06-16** (ver sección "Resolución del mapeo" arriba): mapeo descifrado vía export de México completo (no hicieron falta los 3 códigos) + import real verificado (595). **Pendiente solo:** punto 2 (semántica bloque 2 = repetidas, para v2) y punto 3 (confirmar especiales 1-a-1, opcional — el conteo ya calza).
 
 1. **Mapeo bit ↔ código (bloqueante).** Necesito los **3 códigos** que Boris marcó:
    - `QR_1_una` → ¿qué lámina? · `QR_2_dos` → ¿cuál fue la 2ª? · `QR_3_repe` → ¿cuál marcó como repe?
