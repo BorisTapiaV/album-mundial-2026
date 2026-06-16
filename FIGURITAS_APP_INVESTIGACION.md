@@ -2,7 +2,7 @@
 
 <!-- Documento maestro. Consolida: motivación, DR (Leonor→Claude), y el reverse-engineering empírico del formato del QR. Creado 2026-06-15. -->
 
-**Estado:** ✅ **RESUELTO Y FUNCIONANDO (2026-06-16).** Mapeo bit↔código descifrado, generador `CSV → QR` escrito (`gen_qr_figuritas.py`) e **import real confirmado en la app** (cargó las 595 tengo exactas). v1 = tengo/falta. v2 (repetidas) pendiente de confirmar bloque 2.
+**Estado:** ✅ **RESUELTO, COMPLETO Y FUNCIONANDO (2026-06-16).** Mapeo bit↔código descifrado, generador `CSV → QR` escrito (`gen_qr_figuritas.py`) e **import real confirmado en la app**: tengo + faltantes + **repetidas con contadores**. Cargó las **595 tengo + 196 repetidas** exactas. v1 (tengo/falta) y **v2 (repetidas)** ambas cerradas.
 **Veredicto:** **SÍ — confirmado en producción.** El inventario del CSV se carga a la app vía QR sin tipear nada.
 
 ---
@@ -20,7 +20,7 @@
 | 980-983 | padding |
 
 **Fórmula:** lámina de equipo → `bit = 20·orden_album + (slot−1)` · especial → `bit = slot`.
-**Polaridad:** bit `0` = tengo · `1` = falta (bloque 0). Bloque 1 = repetidas (mismo esquema de bits). Bloque 2 = cantidades (semántica aún por confirmar → v2).
+**Polaridad:** bit `0` = tengo · `1` = falta (bloque 0). Bloque 1 = repetidas (bitmap, mismo esquema de bits). **Bloque 2 = cantidades** (un byte por bit prendido en bloque 1, en orden ascendente de bit) → **byte = copias totales = `repetidas` + 1**. Confirmado con test controlado (contadores 1/2/3 → bytes 2/3/4).
 
 **Validación:**
 1. Generé "México todo tengo" desde el CSV → **idéntico byte a byte** al export real de la app.

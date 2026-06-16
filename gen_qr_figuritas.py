@@ -53,7 +53,7 @@ def set_bit(buf, b):            # poner 1
 def build_payload(rows, only_orden_album=None, with_repes=False):
     b0 = bytearray(b"\xff" * NBYTES)   # todo falta
     b1 = bytearray(b"\x00" * NBYTES)   # ninguna repe
-    counts = []
+    repe = []                          # (bit, total_copias) — total = extras + 1
     for r in rows:
         if only_orden_album is not None and r["orden_album"].strip() != str(only_orden_album):
             continue
@@ -66,10 +66,12 @@ def build_payload(rows, only_orden_album=None, with_repes=False):
             n = int(r["repetidas"] or 0)
             if n >= 1:
                 set_bit(b1, b)
-                counts.append(n)
+                repe.append((b, n + 1))   # byte = copias totales = extras + 1
     for b in PADDING_BITS:
         clear_bit(b0, b)
-    blocks = [bytes(b0), bytes(b1), bytes(bytearray(counts)) if with_repes else b""]
+    repe.sort()                        # bloque2 en orden ascendente de bit
+    counts = bytes(c for _, c in repe)
+    blocks = [bytes(b0), bytes(b1), counts]
     segs = [base64.b64encode(gzip.compress(blk, mtime=0)).decode() for blk in blocks]
     return PREFIX + ";".join(segs)
 
@@ -93,10 +95,13 @@ def main():
     render(p_test, "QR_FIGURITAS_test_mexico.png")
     print(f"OK -> QR_FIGURITAS_test_mexico.png (solo Mexico, {len(p_test)} chars)")
 
-    # QR real completo: todas las tengo
-    p_full = build_payload(rows)
+    # QR real completo: todas las tengo + repetidas (v2)
+    n_repe_cod = sum(1 for r in rows if int(r["repetidas"] or 0) >= 1)
+    n_repe_cartas = sum(int(r["repetidas"] or 0) for r in rows)
+    p_full = build_payload(rows, with_repes=True)
     render(p_full, "QR_FIGURITAS_full.png")
-    print(f"OK -> QR_FIGURITAS_full.png ({tengo} tengo, {len(p_full)} chars)")
+    print(f"OK -> QR_FIGURITAS_full.png ({tengo} tengo + {n_repe_cod} codigos con repe "
+          f"/ {n_repe_cartas} cartas, {len(p_full)} chars)")
 
 
 if __name__ == "__main__":
