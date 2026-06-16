@@ -12,7 +12,7 @@ Me faltan = estado 'falta' o 'perdida'. Orden detalle = orden del album.
 import csv
 
 REG = "registro_maestro.csv"
-FECHA = "2026-06-14"
+FECHA = "2026-06-16"
 
 FLAGS = {
  "FWC Especiales":"\U0001F30E","Mexico":"\U0001F1F2\U0001F1FD","Sudafrica":"\U0001F1FF\U0001F1E6",

@@ -1,0 +1,117 @@
+{
+ "original_16.15.18": {
+  "file": "WhatsApp Image 2026-06-15 at 16.15.18.jpeg",
+  "payload_full": "⋋^H4sIAAAAAAAAA/v/HwH+/kcF7/5TC/wDI1TADwBSVJ/iewAAAA==;H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA;H4sIAAAAAAAAAwMAAAAAAAAAAAA=",
+  "prefix_codepoints": [
+   "0x22cb",
+   "0x5e"
+  ],
+  "b64_segments": [
+   "H4sIAAAAAAAAA/v/HwH+/kcF7/5TC/wDI1TADwBSVJ/iewAAAA==",
+   "H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA",
+   "H4sIAAAAAAAAAwMAAAAAAAAAAAA="
+  ],
+  "blocks_hex": [
+   "fffffffffffffffffffffffffdffffffffffffffffffffffffffffffeefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffeffffffffffffffffffffffffffffffff0f",
+   "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   ""
+  ],
+  "blocks_len": [
+   123,
+   123,
+   0
+  ]
+ },
+ "vacio_17.55.10": {
+  "file": "WhatsApp Image 2026-06-15 at 17.55.10.jpeg",
+  "payload_full": "⋋^H4sIAAAAAAAAA/v///3/gQH8AJE8S8Z7AAAA;H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA;H4sIAAAAAAAAAwMAAAAAAAAAAAA=",
+  "prefix_codepoints": [
+   "0x22cb",
+   "0x5e"
+  ],
+  "b64_segments": [
+   "H4sIAAAAAAAAA/v///3/gQH8AJE8S8Z7AAAA",
+   "H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA",
+   "H4sIAAAAAAAAAwMAAAAAAAAAAAA="
+  ],
+  "blocks_hex": [
+   "ffffefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0f",
+   "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   ""
+  ],
+  "blocks_len": [
+   123,
+   123,
+   0
+  ]
+ },
+ "una_17.55.38": {
+  "file": "WhatsApp Image 2026-06-15 at 17.55.38.jpeg",
+  "payload_full": "⋋^H4sIAAAAAAAAA/v///3/gQD//vMDAKZWicd7AAAA;H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA;H4sIAAAAAAAAAwMAAAAAAAAAAAA=",
+  "prefix_codepoints": [
+   "0x22cb",
+   "0x5e"
+  ],
+  "b64_segments": [
+   "H4sIAAAAAAAAA/v///3/gQD//vMDAKZWicd7AAAA",
+   "H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA",
+   "H4sIAAAAAAAAAwMAAAAAAAAAAAA="
+  ],
+  "blocks_hex": [
+   "ffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff0f",
+   "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   ""
+  ],
+  "blocks_len": [
+   123,
+   123,
+   0
+  ]
+ },
+ "dos_17.56.10": {
+  "file": "WhatsApp Image 2026-06-15 at 17.56.10.jpeg",
+  "payload_full": "⋋^H4sIAAAAAAAAA/v///3/AQDf//3nBwBJfj0CewAAAA==;H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA;H4sIAAAAAAAAAwMAAAAAAAAAAAA=",
+  "prefix_codepoints": [
+   "0x22cb",
+   "0x5e"
+  ],
+  "b64_segments": [
+   "H4sIAAAAAAAAA/v///3/AQDf//3nBwBJfj0CewAAAA==",
+   "H4sIAAAAAAAAA2NgGDAAAHs1SQJ7AAAA",
+   "H4sIAAAAAAAAAwMAAAAAAAAAAAA="
+  ],
+  "blocks_hex": [
+   "ffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7feff0f",
+   "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+   ""
+  ],
+  "blocks_len": [
+   123,
+   123,
+   0
+  ]
+ },
+ "repe_17.57.03": {
+  "file": "WhatsApp Image 2026-06-15 at 17.57.03.jpeg",
+  "payload_full": "⋋^H4sIAAAAAAAAA/v///1/eoP6//+///vPDwC7lCuKewAAAA==;H4sIAAAAAAAAA2NgoD9ogFAAid9finsAAAA=;H4sIAAAAAAAAA2MGADe+C0sBAAAA",
+  "prefix_codepoints": [
+   "0x22cb",
+   "0x5e"
+  ],
+  "b64_segments": [
+   "H4sIAAAAAAAAA/v///1/eoP6//+///vPDwC7lCuKewAAAA==",
+   "H4sIAAAAAAAAA2NgoD9ogFAAid9finsAAAA=",
+   "H4sIAAAAAAAAA2MGADe+C0sBAAAA"
+  ],
+  "blocks_hex": [
+   "ffffefffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7ffffff7feff0f",
+   "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080000000000000",
+   "03"
+  ],
+  "blocks_len": [
+   123,
+   123,
+   1
+  ]
+ }
+}

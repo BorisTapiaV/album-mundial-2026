@@ -1,9 +1,9 @@
 FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)
-Generado: 2026-06-14 · Boris Tapia
-Total faltan: 416/980  (falta=391 · perdida=25)
+Generado: 2026-06-16 · Boris Tapia
+Total faltan: 400/980  (falta=375 · perdida=25)
 ============================================================
 
-## Especiales  (pág especiales) — faltan 9
+## Especiales  (pág especiales) — faltan 8
   FWC1    Emblema oficial 1/2 (foil)
   FWC2    Emblema oficial 2/2 (foil)
   FWC3    Mascotas oficiales (foil)
@@ -12,7 +12,6 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   FWC6    Canada - anfitrion (foil)
   FWC7    Mexico - anfitrion (foil)
   FWC8    USA - anfitrion (foil)
-  FWC14   Argentina 1986 - FIFA Museum (foil)
 
 ## México  (pág ) — faltan 9
   MEX1    Escudo (foil)
@@ -30,30 +29,27 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   RSA9    Khuliso Mudau
   RSA18   Iqraam Rayners
 
-## Corea del Sur  (pág ) — faltan 8
+## Corea del Sur  (pág ) — faltan 7
   KOR2    Jo Hyeon-woo
   KOR3    Kim Seung-gyu
   KOR6    Seol Young-woo
   KOR9    Lee Myung-jae
-  KOR10   Lee Jae-sung
   KOR13   Foto equipo
   KOR14   Paik Seung-ho
   KOR18   Son Heung-min
 
-## Chequia  (pág ) — faltan 8
+## Chequia  (pág ) — faltan 7
   CZE3    Jindrich Stanek
   CZE4    Ladislav Krejci
-  CZE6    Jaroslav Zeleny
   CZE8    David Zima
   CZE13   Foto equipo
   CZE16   Vasil Kusej
   CZE17   Tomas Chory
   CZE20   Patrik Schick
 
-## Canadá  (pág ) — faltan 11
+## Canadá  (pág ) — faltan 10
   CAN1    Escudo (foil)
   CAN3    Alphonso Davies
-  CAN4    Alistair Johnston
   CAN7    Derek Cornelius
   CAN11   Ismaël Koné
   CAN13   Foto equipo
@@ -88,15 +84,14 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   QAT19   Ahmed Al Ganehi
   QAT20   Almoez Ali
 
-## Suiza  (pág ) — faltan 6
+## Suiza  (pág ) — faltan 5
   SUI1    Escudo (foil)
   SUI2    Gregor Kobel
   SUI4    Manuel Akanji
   SUI6    Nico Elvedi
-  SUI19   Dan Ndoye
   SUI20   Zeki Amdouni
 
-## Brasil  (pág ) — faltan 11
+## Brasil  (pág ) — faltan 10
   BRA1    Escudo (foil)
   BRA2    Alisson
   BRA3    Bento
@@ -107,11 +102,9 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   BRA12   Luiz Henrique  [PERDIDA]
   BRA13   Foto equipo
   BRA17   Matheus Cunha  [PERDIDA]
-  BRA18   Gabriel Martinelli
 
-## Marruecos  (pág ) — faltan 11
+## Marruecos  (pág ) — faltan 10
   MAR5    Noussair Mazraoui
-  MAR6    Nayef Aguerd
   MAR9    Adam Masina
   MAR12   Eliesse Ben Seghir
   MAR13   Foto equipo
@@ -122,10 +115,9 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   MAR19   Brahim Díaz
   MAR20   Ayoub El Kaabi
 
-## Haití  (pág ) — faltan 7
+## Haití  (pág ) — faltan 6
   HAI1    Escudo (foil)
   HAI4    Martin Experience
-  HAI8    Garven Metusala
   HAI10   Leverton Pierre
   HAI12   Jean-Ricner Bellegarde
   HAI13   Foto equipo
@@ -244,14 +236,12 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   SWE18   Anthony Elanga
   SWE19   Alexander Isak
 
-## Túnez  (pág ) — faltan 10
+## Túnez  (pág ) — faltan 8
   TUN3    Aymen Dahmen
   TUN4    Yan Valery  [PERDIDA]
   TUN5    Montassar Talbi
   TUN7    Ali Abdi
-  TUN8    Dylan Bronn
   TUN9    Ellyes Skhiri
-  TUN11   Ferjani Sassi
   TUN12   Mohamed Ali Ben Romdhane
   TUN16   Elias Saad
   TUN17   Hazem Mastouri
@@ -317,9 +307,8 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   KSA16   Salem Aldawsari
   KSA20   Abdullah Al-Hamdan
 
-## Uruguay  (pág ) — faltan 8
+## Uruguay  (pág ) — faltan 7
   URU2    Sergio Rochet
-  URU3    Santiago Mele
   URU7    Mathías Olivera
   URU10   Federico Valverde
   URU11   Giorgian De Arrascaeta
@@ -365,7 +354,7 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   IRQ16   Marko Farji
   IRQ17   Osama Rashid
 
-## Noruega  (pág ) — faltan 13
+## Noruega  (pág ) — faltan 12
   NOR1    Escudo (foil)
   NOR4    Leo Østigård
   NOR5    Kristoffer Vassbakk Ajer
@@ -378,7 +367,6 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   NOR15   Erling Haaland
   NOR17   Aron Dønnum
   NOR18   Jørgen Strand Larsen
-  NOR20   Oscar Bobb
 
 ## Argentina  (pág ) — faltan 11
   ARG3    Nahuel Molina
@@ -404,13 +392,12 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   ALG19   Baghdad Bounedjah  [PERDIDA]
   ALG20   Mohammed Amoura
 
-## Austria  (pág ) — faltan 9
+## Austria  (pág ) — faltan 8
   AUT3    Patrick Pentz
   AUT5    Kevin Danso  [PERDIDA]
   AUT7    Stefan Posch
   AUT8    Phillipp Mwene
   AUT9    Alexander Prass
-  AUT13   Foto equipo
   AUT14   Florian Grillitsch
   AUT19   Michael Gregoritsch
   AUT20   Marko Arnautović
@@ -423,13 +410,12 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   JOR15   Musa Al-Taamari
   JOR19   Mohammad Abu Zrayq
 
-## Portugal  (pág ) — faltan 16
+## Portugal  (pág ) — faltan 15
   POR1    Escudo (foil)
   POR2    Diogo Costa
   POR3    José Sá
   POR4    Rúben Dias
   POR5    João Cancelo
-  POR6    Diogo Dalot
   POR8    Gonçalo Inácio
   POR10   Bruno Fernandes
   POR11   Rúben Neves
@@ -481,10 +467,8 @@ Total faltan: 416/980  (falta=391 · perdida=25)
   ENG17   Bukayo Saka
   ENG19   Marcus Rashford
 
-## Croacia  (pág ) — faltan 8
-  CRO4    Joško Gvardiol
+## Croacia  (pág ) — faltan 6
   CRO5    Josip Stanišić
-  CRO8    Kristijan Jakić
   CRO9    Luka Modrić
   CRO13   Foto equipo
   CRO14   Mario Pašalić

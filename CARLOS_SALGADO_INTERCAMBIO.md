@@ -1,5 +1,7 @@
 # Canje — Carlos Salgado
 
+**Estado 2026-06-16:** ✅ **CANJE CERRADO.** Boris entregó sus 14 (ejecutado en registro 15-jun). Carlos entregó sus 14 + el lote extra → **POR6 + URU3 también recibidas**. Las **16 recibidas SUELTAS** (pendiente pegar) → `falta→tengo` en registro 16-jun. **HAVE 564→580 (59,2%).**
+
 **Recibido 2026-06-15.** Carlos pasó su wantlist (lo que le falta). Cruce contra repetidas de Boris (estado 564/980), **excluyendo lo ya reservado a Andrés Acosta y Jorge Vásquez**.
 
 - Carlos busca **293 códigos** (+ 13 del set Coca-Cola).
@@ -103,9 +105,53 @@ Boris ofrece sus **41** dables y Carlos **elige 14**. A cambio, Carlos entrega l
 > Oferta (41): `ALG17, AUS6, AUS12, BEL16, BEL19, CIV6, COD3, COD13, CUW7, CUW9, CUW10, CUW16, CUW18, ECU3, EGY11, ENG20, ESP8, FRA19, GER20, GHA14, IRN3, IRN16, IRQ4, IRQ15, KOR20, KSA5, KSA9, NED2, NED6, NED10, NED11, NED15, NZL12, SEN18, SUI3, SUI7, SUI17, TUR1, TUR5, TUR14, UZB1`
 > A cambio le pido (14): `AUT13, BRA18, CAN4, CRO4, CRO8, CZE6, FWC14, HAI8, KOR10, MAR6, NOR20, SUI19, TUN8, TUN11`
 
+## ✅ Carlos eligió — 14 (2026-06-15)
+
+Carlos eligió las 14 de las 41. Boris ya las **apartó** (fuera del pool de canje). **Swap físico aún NO hecho** — Carlos todavía no entrega sus 14.
+
+**Las 14 que Boris DA (apartadas, reservadas a Carlos):**
+`CUW7, CUW9, CUW10, CUW16, CUW18, NED2, NED6, NED10, NED11, NED15, TUR1, TUR5, TUR14, ECU3`
+
+| Código | Jugador | Copias | Al entregar queda |
+|---|---|:-:|:-:|
+| CUW7 | Roshon van Eijma | x1 | 0 repe |
+| CUW9 | Livano Comenencia | x1 | 0 repe |
+| CUW10 | Godfried Roemeratoe | x1 | 0 repe |
+| CUW16 | Jearl Margaritha | x1 | 0 repe |
+| CUW18 | Jeremy Antonisse | x1 | 0 repe |
+| NED2 | Bart Verbruggen | x1 | 0 repe |
+| NED6 | Denzel Dumfries ⭐ | x1 | 0 repe |
+| NED10 | Tijjani Reijnders ⭐ | x1 | 0 repe |
+| NED11 | Ryan Gravenberch ⭐ | x1 | 0 repe |
+| NED15 | Xavi Simons ⭐ | **x2** | **1 repe** (queda copia) |
+| TUR1 | Escudo (foil) | x1 | 0 repe |
+| TUR5 | Abdülkerim Bardakcı | x1 | 0 repe |
+| TUR14 | Arda Güler ⭐ | x1 | 0 repe |
+| ECU3 | Gonzalo Valle | x1 | 0 repe |
+
+> Carlos cargó a las estrellas: 5 ⭐ (NED6/10/11/15 + TUR14) + escudo foil TUR1. NED15 era x2 → Boris da 1 y conserva copia.
+
+**Las 14 que Boris RECIBE** (todas en `falta` → al pegar: 564→578, 59,0%):
+`AUT13, BRA18⭐, CAN4, CRO4⭐, CRO8, CZE6, FWC14⭐, HAI8, KOR10, MAR6, NOR20⭐, SUI19⭐, TUN8, TUN11`
+
 ## Estado
-- [ ] **⏳ ESPERANDO — Carlos debe elegir cuáles 14 de las 41.** (Boris avisa cuando responda.)
-- [ ] **NO EJECUTADO en registro.** Al cerrar: las 14 que Boris dé bajan de repetidas; las 14 que reciba pasan a `pegada`.
-- ⚠️ Recordatorio: de las 41, solo **NED15** y **UZB1** son x2; el resto son copia única repetida.
+- [x] **Carlos eligió las 14** (2026-06-15) — Boris las apartó.
+- [x] **✅ Boris ENTREGÓ sus 14** (2026-06-15) — ejecutado en registro: 13 a `0` repe, NED15 a `1`. Slots siguen `pegada`.
+- [x] **✅ Carlos ENTREGÓ sus 14 + lote extra** (2026-06-16) — 16 recibidas SUELTAS → `falta→tengo`, `fecha_estado=2026-06-16`. **HAVE 564→580 (59,2%).** ⏳ Pendiente pegar (lección 06-06: las sueltas se pierden).
+
+## 🆕 Lote extra de Carlos → Boris — 7 (2026-06-15)
+Carlos **dio** a Boris un lote adicional de SUS repetidas. Cruce vs faltantes de Boris → **2 sirven** (POR6, URU3). A cambio de este extra, **Carlos puede pedir 2 más** de la oferta de 41 (de las 27 que no eligió). Cruce vs faltantes de Boris:
+
+| Código | Jugador | Estado Boris | ¿Sirve? |
+|---|---|---|---|
+| **POR6** | Diogo Dalot | **falta** | ✅ la necesita (Portugal) |
+| **URU3** | Santiago Mele | **falta** | ✅ la necesita |
+| SWE4 | Gabriel Gudmundsson | pegada (1 repe) | ❌ ya la tiene |
+| SUI13 | Foto equipo | pegada (1 repe) | ❌ ya la tiene |
+| CZE7 | Tomas Holes | pegada (1 repe) | ❌ ya la tiene |
+| BIH12 | Ivan Bašić | pegada (1 repe) | ❌ ya la tiene |
+| GHA13 | Foto equipo | pegada (1 repe) | ❌ ya la tiene |
+
+- [x] **✅ RESUELTO (16-jun):** el lote extra vino. **POR6 + URU3 recibidas** (sueltas → `tengo`). Las otras 5 (SWE4/SUI13/CZE7/BIH12/GHA13) ya las tenía → no se ingresan.
 
 *Cross-ref: `ANDRES_ACOSTA_INTERCAMBIO.md` · `JORGE_VASQUEZ_WANTLIST.md` · `REPETIDAS_POR_PAIS.md` · `registro_maestro.csv`.*

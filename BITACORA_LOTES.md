@@ -576,3 +576,19 @@ ECU8 (Joel Ordóñez) · ECU17 (Nilson Angulo) · TUR12 (Orkun Kökçü) · ⭐ 
 Pool repetidas 222→**223 cartas / 189 códigos**. Brillantes 39/68 (ninguna foil en el lote). 🇵🇹 Portugal sigue (POR15 Cristiano aún falta). Perdidas 25.
 
 **Nota:** este canje fue el "lado B" de la sesión Jorge — él recibió JOR12+AUT15 de Boris (ver mantenimiento cross-check arriba) y a cambio entregó estas 11.
+
+---
+
+## 🔄 Canje — 2026-06-16 (mar) · Canje **Carlos Salgado** CERRADO · **SUELTAS**
+
+Cierre del canje con Carlos (analizado/ofertado 15-jun). **Lado Boris** ya ejecutado el 15-jun (entregó 14 de sus repetidas: 13 a `0` repe + NED15 `2→1`). **Hoy 16-jun** Carlos entregó su lado.
+
+**Recibidas (16, todas SUELTAS → `falta→tengo`, `fecha_estado=2026-06-16`, ⏳ pendiente pegar):**
+
+*Canje principal (14):* FWC14 ⭐(Argentina 1986 foil) · AUT13 (foto equipo) · BRA18 ⭐(Gabriel Martinelli) · CAN4 (Alistair Johnston) · CRO4 ⭐(Joško Gvardiol) · CRO8 (Kristijan Jakić) · CZE6 (Jaroslav Zelený) · HAI8 (Garven Metusala) · KOR10 (Lee Jae-sung) · MAR6 (Nayef Aguerd) · NOR20 ⭐(Oscar Bobb) · SUI19 ⭐(Dan Ndoye) · TUN8 (Dylan Bronn) · TUN11 (Ferjani Sassi).
+
+*Lote extra (2 que servían de 7 ofrecidas):* POR6 (Diogo Dalot 🇵🇹) · URU3 (Santiago Mele). Las otras 5 (SWE4/SUI13/CZE7/BIH12/GHA13) ya las tenía → no ingresan.
+
+**HAVE 564→580 (59,2%).** Faltan 391→375. Perdidas 25. Pool repetidas (post lado-Boris) **209 cartas / 176 códigos**. Brillantes 39→**40/68** (FWC14 foil). 🇵🇹 Portugal +1 (POR6) — **POR15 Cristiano sigue faltando**.
+
+**⚠️ Pendiente:** las 16 quedaron SUELTAS → pegar cuanto antes (lección 06-06: las sueltas se pierden). Al pegar pasan `tengo→pegada` (HAVE no cambia). Detalle del canje en `CARLOS_SALGADO_INTERCAMBIO.md`.
