@@ -585,13 +585,15 @@ Cierre del canje con Carlos (analizado/ofertado 15-jun). **Lado Boris** ya ejecu
 
 **Recibidas (16, todas SUELTAS → `falta→tengo`, `fecha_estado=2026-06-16`, ⏳ pendiente pegar):**
 
-*Canje principal (14):* FWC14 ⭐(Argentina 1986 foil) · AUT13 (foto equipo) · BRA18 ⭐(Gabriel Martinelli) · CAN4 (Alistair Johnston) · CRO4 ⭐(Joško Gvardiol) · CRO8 (Kristijan Jakić) · CZE6 (Jaroslav Zelený) · HAI8 (Garven Metusala) · KOR10 (Lee Jae-sung) · MAR6 (Nayef Aguerd) · NOR20 ⭐(Oscar Bobb) · SUI19 ⭐(Dan Ndoye) · TUN8 (Dylan Bronn) · TUN11 (Ferjani Sassi).
+*Canje principal (14):* FWC14 ⭐(Argentina 1986 foil) · AUT13 (foto equipo) · BRA18 ⭐(Gabriel Martinelli) · CAN4 (Alistair Johnston) · CRO4 ⭐(Joško Gvardiol) · CRO8 (Kristijan Jakić) · CZE6 (Jaroslav Zelený) · HAI8 (Garven Metusala) · KOR10 (Lee Jae-sung) · ~~MAR6 (Nayef Aguerd)~~ **⚠️ repe — ya pegada de antes (ver corrección)** · NOR20 ⭐(Oscar Bobb) · SUI19 ⭐(Dan Ndoye) · TUN8 (Dylan Bronn) · TUN11 (Ferjani Sassi).
 
 *Lote extra (2 que servían de 7 ofrecidas):* POR6 (Diogo Dalot 🇵🇹) · URU3 (Santiago Mele). Las otras 5 (SWE4/SUI13/CZE7/BIH12/GHA13) ya las tenía → no ingresan.
 
-**HAVE 564→580 (59,2%).** Faltan 391→375. Perdidas 25. Pool repetidas (post lado-Boris) **209 cartas / 176 códigos**. Brillantes 39→**40/68** (FWC14 foil). 🇵🇹 Portugal +1 (POR6) — **POR15 Cristiano sigue faltando**.
+**HAVE 564→580 (59,2%).** Faltan 391→375. Perdidas 25. Pool repetidas (post lado-Boris) **210 cartas / 177 códigos** (incl. spare MAR6, ver corrección). Brillantes 39→**40/68** (FWC14 foil). 🇵🇹 Portugal +1 (POR6) — **POR15 Cristiano sigue faltando**.
 
-**⚠️ Pendiente:** las 16 quedaron SUELTAS → pegar cuanto antes (lección 06-06: las sueltas se pierden). Al pegar pasan `tengo→pegada` (HAVE no cambia). Detalle del canje en `CARLOS_SALGADO_INTERCAMBIO.md`.
+**⚠️ Corrección (16-jun):** **MAR6 (Nayef Aguerd) ya estaba pegada de antes** (no registrada en su momento) → la lámina que pasó Carlos es **repetida**, no nueva. Ajuste en `registro_maestro.csv`: MAR6 `tengo→pegada`, repe `0→1`. El pre-conteo (564) estaba subcontado en 1 (la MAR6 ya pegada no figuraba), de modo que Carlos aportó **15 nuevas + 1 repe** (no 16 nuevas) y los endpoints **HAVE 580 / Faltan 375 se mantienen**; lo que sube es el **pool de repetidas (+1 carta / +1 código → 210 / 177)** por la spare MAR6. **Recibida de Carlos Salgado.**
+
+**⚠️ Pendiente:** las 16 quedaron SUELTAS → pegar cuanto antes (lección 06-06: las sueltas se pierden). Al pegar pasan `tengo→pegada` (HAVE no cambia). La spare MAR6 NO se pega → va al pool de repes para canje. Detalle del canje en `CARLOS_SALGADO_INTERCAMBIO.md`.
 
 ---
 
@@ -604,8 +606,36 @@ GER15 ⭐(Jamal Musiala) · FRA5 (Koundé) · FRA9 (Tchouaméni) · FRA14 (Olise
 
 **Dadas (13, repe −1; slots siguen `pegada`):** CZE18, HAI5, HAI9, HAI14, GER1(foil), TUN6, BEL8, JOR6, JOR17, COD1(foil), COL1(foil 2→1), CRO1(foil), GHA18.
 
-**HAVE 580→595 (60,7%) 🎉.** Faltan 375→362. Perdidas 25→**23** (POR13+PAN6 recuperadas). Pool repetidas 209→**196 cartas / 164 códigos**. Brillantes 40/68 (los 4 foils dados eran repetidas, el slot pegado se mantiene). 🇵🇹 Portugal +3 (POR13/14/18) — **POR15 Cristiano sigue faltando**.
+**HAVE 580→595 (60,7%) 🎉.** Faltan 375→362. Perdidas 25→**23** (POR13+PAN6 recuperadas). Pool repetidas 210→**197 cartas / 165 códigos** (incl. spare MAR6, ver corrección lote Carlos). Brillantes 40/68 (los 4 foils dados eran repetidas, el slot pegado se mantiene). 🇵🇹 Portugal +3 (POR13/14/18) — **POR15 Cristiano sigue faltando**.
 
 **`RESERVADAS` en gen_print.py VACIADO** — canjes Andrés (13) + Jorge (AUT15) cerrados, sin reservas activas.
 
-**⚠️ Pendiente:** 31 sueltas en total (16 Carlos + 15 Andrés) → pegar cuanto antes (lección 06-06). Detalle en `ANDRES_ACOSTA_INTERCAMBIO.md`.
+**✅ Resuelto (16-jun 22:00):** las sueltas (30 nuevas: 15 Carlos + 15 Andrés) **ya pegadas** — ver entrada siguiente. La spare MAR6 NO se pega (repe para canje). Detalle en `ANDRES_ACOSTA_INTERCAMBIO.md`.
+
+---
+
+## 📌 Pegado masivo — 2026-06-16 (mar) · 22:00 · **TODAS las sueltas pegadas**
+
+Cierre del día: las **30 láminas nuevas** que quedaron sueltas de los canjes Carlos (15) + Andrés (15) se **pegaron todas** en una sola tanda. `tengo→pegada` para los 30 códigos (todos `repe=0`, sin tocar HAVE ni el pool de repetidas).
+
+**Pegadas (30):** FWC14 ⭐ · ALG3 · AUT13 · BRA18 ⭐ · CAN4 · CRO4 ⭐ · CRO8 · CZE6 · FRA5 · FRA9 · FRA14 · GER15 ⭐ · HAI8 · CIV10 · NED19 · NOR20 ⭐ · PAN6 · POR6 🇵🇹 · POR13 🇵🇹 · POR14 🇵🇹 · POR18 🇵🇹 · KSA16 · SEN16 · KOR10 · SUI19 ⭐ · TUN8 · TUN11 · URU3 · URU15 · UZB20 ⭐.
+
+**Estado tras pegar:** **HAVE 595/980 (61%)** · Faltan 385 (incl. 23 perdidas) · Perdidas 23 · **Pool repetidas 197 cartas / 165 códigos** (incl. spare MAR6) · Brillantes 40/68. **Sueltas pendientes de pegar: 0** ✅ (lección 06-06 cerrada). 🇵🇹 **POR15 Cristiano sigue faltando.**
+
+Derivados regenerados: `dashboard_share.html` + `gen_print.py --todo` (checklist/intercambio/índice/repetidas/faltantes/perdidas).
+
+---
+
+## 📦 Lote sobres — 2026-06-15 (dom) · 22:28 · **back-log (registrado 16-jun)** · SUELTAS
+
+Lote de **84 láminas** (sobres) abierto el 15-jun 22:28, registrado a posteriori (después de los canjes Carlos/Andrés del 16-jun). **Nota temporal:** por orden de registro, los totales corren 595→631 sobre el estado post-canjes; varias "repes" de este lote chocan contra pegadas que en realidad este lote pudo haber llenado primero (CZE6, KOR10, FWC14, NED…). Los **totales finales son correctos**; no se reescribe la narrativa de qué copia llenó cada slot.
+
+**Desglose (84):** **35 nuevas** (`falta→tengo`) + **1 recuperada** (`perdida→tengo`: **QAT14**) + **48 repes** al pool.
+
+**Nuevas sueltas (36, `fecha_estado=2026-06-15`, ⏳ pendiente pegar):** ALG4 · AUS7 · AUT9 · AUT14 · CIV18 · COL3 · COL7 · COL11 · COL19 · COL20 · CPV4 · CPV5 · CPV8 · EGY19 · ENG19 · ESP10 · IRN8 · IRN12 · IRQ7 · JOR2 · JOR10 · JOR15 · JOR19 · JPN4 · MEX6 · NZL2 · NZL15 · NZL19 · POR1 · QAT14(recup) · QAT18 · SCO1 · SEN1 · TUN12 · TUN17 · URU10.
+
+**Repes internas del lote:** BEL3 ×2 · BEL7 ×2 · SCO2 ×2 · COL3 ×2 (COL3 era `falta` → 1 pega-slot + 1 repe).
+
+**Estado tras el lote:** **HAVE 595→631 (64%)** · Faltan 349 (incl. 22 perdidas) · Perdidas 23→**22** (QAT14) · **Pool repetidas 197→245 cartas / 165→197 códigos** · Brillantes 40→**43/68** (+3 escudos foil nuevos: POR1, SCO1, SEN1; los FWC del lote eran repes). **Sueltas pendientes de pegar: 36.** 🇵🇹 POR1 (escudo Portugal) entra — **POR15 Cristiano sigue faltando.**
+
+Derivados regenerados: `dashboard_share.html` + `gen_print.py --todo`.
