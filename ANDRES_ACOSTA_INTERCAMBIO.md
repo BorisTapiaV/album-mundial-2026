@@ -1,5 +1,79 @@
 # Canje — Andrés Acosta
 
+> **Canje 1: ✅ CERRADO 2026-06-16** (das 13 / recibes 15). Detalle abajo.
+> **Canje 2: 🔄 PROPUESTA 2026-06-17.** Andrés mandó wantlist + repetidas actualizadas.
+
+---
+
+## Canje 2 — propuesta 2026-06-17
+
+**Recibido 2026-06-17.** Andrés volvió a pasar su wantlist + sus repetidas (tuvo un tema con las que pidió en el canje 1). Cruce contra registro de Boris (estado **631/980, 64,4%**).
+
+### ⬅️ Lo que Boris le puede DAR (Andrés busca + Boris tiene repetida) — **solo 2**
+
+| Código | Jugador | Copias Boris |
+|---|---|:-:|
+| ENG4 | Marc Guéhi | x1 |
+| ENG8 | Dan Burn | x1 |
+
+> De los **56** códigos que Andrés busca, Boris solo tiene repetida de esos 2. El resto de su wantlist no lo tiene repetido (o no lo tiene). **No da para un 1:1 desde el lado de Boris.**
+
+### ➡️ Lo que Andrés ofrece y a Boris le FALTA — **37**
+
+Todas `falta` (ninguna perdida, ninguna estrella — base + 2 escudos foil + 5 fotos de equipo):
+
+| Código | Jugador | Nota |
+|---|---|---|
+| MEX8 | Diego Lainez | |
+| CZE20 | Patrik Schick | |
+| BIH16 | Amar Memić | |
+| QAT5 | Homam Ahmed | |
+| TUR10 | İsmail Yüksek | |
+| CUW1 | Escudo (foil) | ✨ brillante |
+| CIV5 | Odilon Kossounou | |
+| CIV13 | Foto equipo | 📷 |
+| JPN5 | Junnosuke Suzuki | |
+| JPN8 | Kaishu Sano | |
+| TUN3 | Aymen Dahmen | |
+| TUN7 | Ali Abdi | |
+| BEL14 | Hans Vanaken | |
+| IRN13 | Foto equipo | 📷 |
+| NZL13 | Foto equipo | 📷 |
+| NZL18 | Elijah Just | |
+| KSA3 | Abdulrahman Al-Sanbi | |
+| KSA11 | Abdullah Alkhaibari | |
+| KSA20 | Abdullah Al-Hamdan | |
+| URU19 | Rodrigo Aguirre | |
+| FRA11 | Manu Koné | |
+| SEN13 | Foto equipo | 📷 |
+| SEN17 | Boulaye Dia | |
+| IRQ5 | Akam Hashem | |
+| NOR5 | Kristoffer Vassbakk Ajer | |
+| NOR12 | Andreas Schjelderup | |
+| NOR14 | Patrick Berg | |
+| COD4 | Axel Tuanzebe | |
+| COD18 | Fiston Mayele | |
+| UZB5 | Umar Eshmurodov | |
+| ENG1 | Escudo (foil) | ✨ brillante |
+| CRO13 | Foto equipo | 📷 |
+| PAN4 | Fidel Escobar | |
+| PAN8 | José Córdoba | |
+| PAN11 | Aníbal Godoy | |
+| PAN16 | Ismael Díaz | |
+| PAN20 | Alberto Quintero | |
+
+### Resumen canje 2
+
+- Andrés ofrece **161** repetidas; a Boris le sirven **37**.
+- Andrés busca **56**; Boris solo le cubre **2** (ENG4, ENG8).
+- **Muy desbalanceado a favor de Boris** (recibe 37, da 2). Depende de que Andrés acepte un canje generoso.
+- 🇵🇹 **POR15 Cristiano:** Andrés también lo busca y Boris no lo tiene → sin conflicto, ninguno lo ofrece.
+- ⏳ **PENDIENTE — no ejecutado.** Al cerrar: aplicar cambios en registro + regenerar QR Figuritas.
+
+---
+
+## Canje 1 — ✅ CERRADO 2026-06-16
+
 **Recibido 2026-06-14.** Andrés pasó su wantlist + sus repetidas. Cruce contra registro de Boris (estado 564/980).
 
 ## ✅ Lo que Boris le puede DAR (Andrés busca + Boris tiene repetida) — 13
