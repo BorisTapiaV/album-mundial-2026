@@ -1,7 +1,7 @@
 # Canje — Andrés Acosta
 
 > **Canje 1: ✅ CERRADO 2026-06-16** (das 13 / recibes 15). Detalle abajo.
-> **Canje 2: 🔄 PROPUESTA 2026-06-17.** Andrés mandó wantlist + repetidas actualizadas.
+> **Canje 2: ✅ CERRADO 2026-06-17** (das 2 + pagas $6.000 CLP / recibes 37). Andrés aceptó. Detalle abajo.
 
 ---
 
@@ -66,9 +66,9 @@ Todas `falta` (ninguna perdida, ninguna estrella — base + 2 escudos foil + 5 f
 
 - Andrés ofrece **161** repetidas; a Boris le sirven **37**.
 - Andrés busca **56**; Boris solo le cubre **2** (ENG4, ENG8).
-- **Muy desbalanceado a favor de Boris** (recibe 37, da 2). Depende de que Andrés acepte un canje generoso.
+- **Muy desbalanceado a favor de Boris** (recibe 37, da 2) → se cerró con **pago de $6.000 CLP** por las 37 (Andrés aceptó dar las 2 que Boris le cubre + vender las 37).
 - 🇵🇹 **POR15 Cristiano:** Andrés también lo busca y Boris no lo tiene → sin conflicto, ninguno lo ofrece.
-- ⏳ **PENDIENTE — no ejecutado.** Al cerrar: aplicar cambios en registro + regenerar QR Figuritas.
+- ✅ **EJECUTADO 2026-06-17.** Las 37 `falta → tengo` (sueltas, pendientes de pegar); ENG4 + ENG8 bajaron 1 de repetidas (1→0, slot sigue `pegada`). **HAVE 631 → 668 (68,2%).** Pool repetidas 245 → 243. Regenerados: HTMLs (gen_print --todo), QR Figuritas (668 tengo / 243 cartas), faltantes txt+share (312), dashboard.
 
 ---
 

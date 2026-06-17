@@ -17,7 +17,7 @@ REG = "registro_maestro.csv"
 OUT = "dashboard_share.html"
 HAVE = {"tengo", "pegada", "repetida"}
 COLECCION = "USA MÉX CAN 26"
-FECHA = "2026-06-07"
+FECHA = "2026-06-17"
 
 
 def is_brillante(r):

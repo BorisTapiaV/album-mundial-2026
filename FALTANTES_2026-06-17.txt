@@ -1,6 +1,6 @@
 FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)
-Generado: 2026-06-16 · Boris Tapia
-Total faltan: 385/980  (falta=362 · perdida=23)
+Generado: 2026-06-17 · Boris Tapia
+Total faltan: 312/980  (falta=290 · perdida=22)
 ============================================================
 
 ## Especiales  (pág especiales) — faltan 8
@@ -13,13 +13,11 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   FWC7    Mexico - anfitrion (foil)
   FWC8    USA - anfitrion (foil)
 
-## México  (pág ) — faltan 9
+## México  (pág ) — faltan 7
   MEX1    Escudo (foil)
   MEX2    Luis Malagón
   MEX4    Jorge Sánchez
   MEX5    César Montes
-  MEX6    Jesús Gallardo
-  MEX8    Diego Lainez
   MEX9    Carlos Rodríguez
   MEX12   Marcel Ruiz
   MEX16   Santiago Giménez
@@ -38,14 +36,13 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   KOR14   Paik Seung-ho
   KOR18   Son Heung-min
 
-## Chequia  (pág ) — faltan 7
+## Chequia  (pág ) — faltan 6
   CZE3    Jindrich Stanek
   CZE4    Ladislav Krejci
   CZE8    David Zima
   CZE13   Foto equipo
   CZE16   Vasil Kusej
   CZE17   Tomas Chory
-  CZE20   Patrik Schick
 
 ## Canadá  (pág ) — faltan 10
   CAN1    Escudo (foil)
@@ -59,28 +56,24 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   CAN19   Cyle Larin
   CAN20   Jonathan David
 
-## Bosnia  (pág ) — faltan 8
+## Bosnia  (pág ) — faltan 7
   BIH1    Escudo (foil)
   BIH7    Nikola Katić
   BIH11   Ivan Šunjić
   BIH13   Foto equipo
-  BIH16   Amar Memić
   BIH17   Ermedin Demirović
   BIH19   Samed Baždar
   BIH20   Haris Tabaković
 
-## Catar  (pág ) — faltan 13
+## Catar  (pág ) — faltan 10
   QAT1    Escudo (foil)
   QAT3    Sultan Albrake
   QAT4    Lucas Mendes
-  QAT5    Homam Ahmed
   QAT9    Mohamed Al-Mannai
   QAT10   Karim Boudiaf
   QAT11   Assim Madibo
-  QAT14   Mohammed Waad  [PERDIDA]
   QAT15   Abdulaziz Hatem
   QAT16   Hassan Al-Haydos
-  QAT18   Akram Hassan Afif
   QAT19   Ahmed Al Ganehi
   QAT20   Almoez Ali
 
@@ -123,8 +116,7 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   HAI13   Foto equipo
   HAI17   Ruben Providence
 
-## Escocia  (pág ) — faltan 7
-  SCO1    Escudo (foil)
+## Escocia  (pág ) — faltan 6
   SCO4    Kieran Tierney
   SCO6    Andrew Robertson
   SCO7    Scott McKenna
@@ -159,18 +151,16 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   PAR19   Ángel Romero
   PAR20   Antonio Sanabria
 
-## Australia  (pág ) — faltan 4
-  AUS7    Aziz Behich
+## Australia  (pág ) — faltan 3
   AUS8    Cameron Burgess
   AUS17   Craig Goodwin
   AUS18   Kusini Yengi
 
-## Turquía  (pág ) — faltan 6
+## Turquía  (pág ) — faltan 5
   TUR3    Mert Müldür
   TUR4    Zeki Çelik
   TUR7    Merih Demiral
   TUR8    Ferdi Kadıoğlu
-  TUR10   İsmail Yüksek
   TUR13   Foto equipo
 
 ## Alemania  (pág ) — faltan 3
@@ -178,8 +168,7 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   GER10   Joshua Kimmich
   GER18   Leroy Sané
 
-## Curazao  (pág ) — faltan 7
-  CUW1    Escudo (foil)
+## Curazao  (pág ) — faltan 6
   CUW2    Eloy Room
   CUW3    Armando Obispo
   CUW4    Sherel Floranus  [PERDIDA]
@@ -187,14 +176,11 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   CUW13   Foto equipo
   CUW17   Jurgen Locadia
 
-## Costa de Marfil  (pág ) — faltan 8
+## Costa de Marfil  (pág ) — faltan 5
   CIV4    Wilfried Singo  [PERDIDA]
-  CIV5    Odilon Kossounou
   CIV9    Ousmane Diomandé
-  CIV13   Foto equipo
   CIV14   Jean-Philippe Gbamin
   CIV15   Amad Diallo
-  CIV18   Yan Diomandé
   CIV19   Evann Guessand
 
 ## Ecuador  (pág ) — faltan 7
@@ -211,11 +197,8 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   NED13   Foto equipo
   NED20   Cody Gakpo
 
-## Japón  (pág ) — faltan 13
-  JPN4    Ayumu Seko
-  JPN5    Junnosuke Suzuki
+## Japón  (pág ) — faltan 10
   JPN6    Shogo Taniguchi
-  JPN8    Kaishu Sano
   JPN9    Yuki Soma
   JPN10   Ao Tanaka
   JPN12   Takefusa Kubo
@@ -233,85 +216,60 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   SWE18   Anthony Elanga
   SWE19   Alexander Isak
 
-## Túnez  (pág ) — faltan 8
-  TUN3    Aymen Dahmen
+## Túnez  (pág ) — faltan 4
   TUN4    Yan Valery  [PERDIDA]
   TUN5    Montassar Talbi
-  TUN7    Ali Abdi
   TUN9    Ellyes Skhiri
-  TUN12   Mohamed Ali Ben Romdhane
   TUN16   Elias Saad
-  TUN17   Hazem Mastouri
 
-## Bélgica  (pág ) — faltan 4
+## Bélgica  (pág ) — faltan 3
   BEL12   Alexis Saelemaekers
-  BEL14   Hans Vanaken
   BEL17   Charles De Ketelaere
   BEL18   Leandro Trossard
 
-## Egipto  (pág ) — faltan 5
+## Egipto  (pág ) — faltan 4
   EGY1    Escudo (foil)
   EGY2    Mohamed El Shenawy
   EGY13   Foto equipo
   EGY14   Mohamed Lasheen
-  EGY19   Trezeguet
 
-## Irán  (pág ) — faltan 3
-  IRN8    Hossein Kanaani
-  IRN12   Saman Ghoddos
-  IRN13   Foto equipo
-
-## Nueva Zelanda  (pág ) — faltan 10
+## Nueva Zelanda  (pág ) — faltan 5
   NZL1    Escudo (foil)
-  NZL2    Max Crocombe
   NZL3    Alex Paulsen
   NZL11   Sarpreet Singh
-  NZL13   Foto equipo
-  NZL15   Marko Stamenić
   NZL16   Ben Old
-  NZL18   Elijah Just
-  NZL19   Callum McCowatt
   NZL20   Kosta Barbarouses
 
-## España  (pág ) — faltan 10
+## España  (pág ) — faltan 9
   ESP1    Escudo (foil)
   ESP2    Unai Simón
   ESP6    Pedro Porro
   ESP7    Dani Carvajal
-  ESP10   Rodri
   ESP12   Fabián Ruiz
   ESP14   Mikel Merino
   ESP15   Lamine Yamal
   ESP17   Nico Williams
   ESP19   Álvaro Morata
 
-## Cabo Verde  (pág ) — faltan 7
+## Cabo Verde  (pág ) — faltan 4
   CPV1    Escudo (foil)
-  CPV4    Pico
-  CPV5    Diney
-  CPV8    João Paulo
   CPV9    Yannick Semedo
   CPV14   Deroy Duarte
   CPV18   Dailon Livramento
 
-## Arabia Saudita  (pág ) — faltan 7
+## Arabia Saudita  (pág ) — faltan 4
   KSA2    Nawaf Alaqidi
-  KSA3    Abdulrahman Al-Sanbi
   KSA6    Jihad Thakri  [PERDIDA]
   KSA7    Moteb Al-Harbi
   KSA10   Ziyad Aljohani  [PERDIDA]
-  KSA11   Abdullah Alkhaibari
-  KSA20   Abdullah Al-Hamdan
 
-## Uruguay  (pág ) — faltan 6
+## Uruguay  (pág ) — faltan 4
   URU2    Sergio Rochet
   URU7    Mathías Olivera
-  URU10   Federico Valverde
   URU11   Giorgian De Arrascaeta
   URU13   Foto equipo
-  URU19   Rodrigo Aguirre
 
-## Francia  (pág ) — faltan 12
+## Francia  (pág ) — faltan 11
   FRA1    Escudo (foil)
   FRA2    Mike Maignan
   FRA3    Theo Hernández
@@ -319,42 +277,33 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   FRA6    Ibrahima Konaté
   FRA8    Lucas Digne
   FRA10   Eduardo Camavinga
-  FRA11   Manu Koné
   FRA12   Adrien Rabiot
   FRA13   Foto equipo
   FRA16   Bradley Barcola
   FRA17   Désiré Doué
 
-## Senegal  (pág ) — faltan 8
-  SEN1    Escudo (foil)
+## Senegal  (pág ) — faltan 5
   SEN3    Yehvann Diouf
   SEN7    El Hadji Malick Diouf
   SEN10   Pape Matar Sarr
-  SEN13   Foto equipo
   SEN15   Sadio Mané
-  SEN17   Boulaye Dia
   SEN19   Nicolas Jackson
 
-## Irak  (pág ) — faltan 8
+## Irak  (pág ) — faltan 6
   IRQ2    Jalal Hassan
-  IRQ5    Akam Hashem
-  IRQ7    Zaid Tahseen
   IRQ11   Ibrahim Bayesh
   IRQ12   Ali Jasim
   IRQ13   Foto equipo
   IRQ16   Marko Farji
   IRQ17   Osama Rashid
 
-## Noruega  (pág ) — faltan 12
+## Noruega  (pág ) — faltan 9
   NOR1    Escudo (foil)
   NOR4    Leo Østigård
-  NOR5    Kristoffer Vassbakk Ajer
   NOR6    Marcus Holmgren Pedersen
   NOR8    Torbjørn Heggem
   NOR9    Morten Thorsby
   NOR10   Martin Ødegaard
-  NOR12   Andreas Schjelderup
-  NOR14   Patrick Berg
   NOR15   Erling Haaland
   NOR17   Aron Dønnum
   NOR18   Jørgen Strand Larsen
@@ -372,9 +321,8 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   ARG18   Lautaro Martínez
   ARG19   Julián Álvarez
 
-## Argelia  (pág ) — faltan 8
+## Argelia  (pág ) — faltan 7
   ALG2    Alexis Guendouz  [PERDIDA]
-  ALG4    Youcef Atal
   ALG6    Mohamed Amine Tougai
   ALG7    Aïssa Mandi
   ALG10   Hicham Boudaoui
@@ -382,26 +330,19 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   ALG19   Baghdad Bounedjah  [PERDIDA]
   ALG20   Mohammed Amoura
 
-## Austria  (pág ) — faltan 8
+## Austria  (pág ) — faltan 6
   AUT3    Patrick Pentz
   AUT5    Kevin Danso  [PERDIDA]
   AUT7    Stefan Posch
   AUT8    Phillipp Mwene
-  AUT9    Alexander Prass
-  AUT14   Florian Grillitsch
   AUT19   Michael Gregoritsch
   AUT20   Marko Arnautović
 
-## Jordania  (pág ) — faltan 6
-  JOR2    Yazeed Abulaila
+## Jordania  (pág ) — faltan 2
   JOR4    Mohammad Abu Hashish
-  JOR10   Nizar Al-Rashdan
   JOR13   Foto equipo
-  JOR15   Musa Al-Taamari
-  JOR19   Mohammad Abu Zrayq
 
-## Portugal  (pág ) — faltan 12
-  POR1    Escudo (foil)
+## Portugal  (pág ) — faltan 11
   POR2    Diogo Costa
   POR3    José Sá
   POR4    Rúben Dias
@@ -414,49 +355,38 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   POR19   Pedro Neto  [PERDIDA]
   POR20   Rafael Leão
 
-## RD Congo  (pág ) — faltan 9
+## RD Congo  (pág ) — faltan 7
   COD2    Lionel Mpasi
-  COD4    Axel Tuanzebe
   COD5    Arthur Masuaku
   COD9    Ngal'ayel Mukau
   COD10   Edo Kayembe  [PERDIDA]
   COD11   Samuel Moutoussamy  [PERDIDA]
   COD15   Meschak Elia  [PERDIDA]
-  COD18   Fiston Mayele
   COD19   Cédric Bakambu
 
-## Uzbekistan  (pág ) — faltan 7
+## Uzbekistan  (pág ) — faltan 6
   UZB4    Sherzod Nasrullaev
-  UZB5    Umar Eshmurodov
   UZB8    Khojiakbar Alijonov
   UZB9    Abdukodir Khusanov
   UZB12   Jamshid Iskanderov
   UZB14   Azizbek Turgunboev
   UZB17   Oston Urunov  [PERDIDA]
 
-## Colombia  (pág ) — faltan 10
+## Colombia  (pág ) — faltan 5
   COL2    Camilo Vargas  [PERDIDA]
-  COL3    David Ospina
   COL4    Dávinson Sánchez
-  COL7    Johan Mojica
   COL8    Jhon Lucumí
-  COL11   Kevin Castaño
   COL13   Foto equipo
   COL16   Jorge Carrascal
-  COL19   Luis Suárez
-  COL20   Luis Díaz
 
-## Inglaterra  (pág ) — faltan 5
-  ENG1    Escudo (foil)
+## Inglaterra  (pág ) — faltan 3
   ENG12   Cole Palmer
   ENG13   Foto equipo
   ENG17   Bukayo Saka
-  ENG19   Marcus Rashford
 
-## Croacia  (pág ) — faltan 6
+## Croacia  (pág ) — faltan 5
   CRO5    Josip Stanišić
   CRO9    Luka Modrić
-  CRO13   Foto equipo
   CRO14   Mario Pašalić
   CRO17   Marco Pašalić
   CRO18   Ante Budimir
@@ -470,19 +400,14 @@ Total faltan: 385/980  (falta=362 · perdida=23)
   GHA12   Kamaldeen Sulemana
   GHA17   André Ayew
 
-## Panamá  (pág ) — faltan 14
+## Panamá  (pág ) — faltan 9
   PAN3    Luis Mejía
-  PAN4    Fidel Escobar
   PAN5    Andrés Andrade
   PAN7    Eric Davis
-  PAN8    José Córdoba
   PAN9    César Blackman
   PAN10   Cristian Martínez  [PERDIDA]
-  PAN11   Aníbal Godoy
   PAN14   Édgar Bárcenas
   PAN15   Carlos Harvey
-  PAN16   Ismael Díaz
   PAN18   Cecilio Waterman
   PAN19   José Luis Rodríguez
-  PAN20   Alberto Quintero
 
