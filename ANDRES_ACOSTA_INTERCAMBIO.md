@@ -1,7 +1,9 @@
 # Canje — Andrés Acosta
 
 > **Canje 1: ✅ CERRADO 2026-06-16** (das 13 / recibes 15). Detalle abajo.
-> **Canje 2: ✅ CERRADO 2026-06-17** (das 2 + pagas $6.000 CLP / recibes 36). Andrés aceptó. Detalle abajo. *(2026-06-18: CRO13 sacada del canje — Boris la cambió aparte → 37→36.)*
+> **Canje 2: ✅ CERRADO 2026-06-17, recalculado 2026-06-18** (das 2 + pagas **$9.000 CLP** / recibes **54** = 34 de la lista de 37 + **20 extra**). Andrés aceptó. Detalle abajo.
+>
+> ⚠️ **PENDIENTE (2026-06-18):** de las **37** propuestas, Andrés **no tenía 3** → entregó **34**. Boris revisa la lista de 37 (sección abajo) para identificar las 3 y revertirlas a `falta`. **CRO13 ya está fuera** (revertida antes) — probablemente es una de las 3, faltarían 2 por marcar. Las **20 extra** (KOR2/9/14, CZE16, BIH7/11/20, MAR9, PAR16, ESP6/7/14/19, URU13, ARG3, AUT7/20, POR4, COD5/9) son **aparte**, NO son las 3 faltantes — ya registradas `falta→tengo` (HAVE → 687, 70,1%).
 
 ---
 

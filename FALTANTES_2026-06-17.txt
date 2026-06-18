@@ -1,6 +1,6 @@
 FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)
 Generado: 2026-06-17 · Boris Tapia
-Total faltan: 313/980  (falta=291 · perdida=22)
+Total faltan: 293/980  (falta=271 · perdida=22)
 ============================================================
 
 ## Especiales  (pág especiales) — faltan 8
@@ -27,21 +27,17 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   RSA9    Khuliso Mudau
   RSA18   Iqraam Rayners
 
-## Corea del Sur  (pág ) — faltan 7
-  KOR2    Jo Hyeon-woo
+## Corea del Sur  (pág ) — faltan 4
   KOR3    Kim Seung-gyu
   KOR6    Seol Young-woo
-  KOR9    Lee Myung-jae
   KOR13   Foto equipo
-  KOR14   Paik Seung-ho
   KOR18   Son Heung-min
 
-## Chequia  (pág ) — faltan 6
+## Chequia  (pág ) — faltan 5
   CZE3    Jindrich Stanek
   CZE4    Ladislav Krejci
   CZE8    David Zima
   CZE13   Foto equipo
-  CZE16   Vasil Kusej
   CZE17   Tomas Chory
 
 ## Canadá  (pág ) — faltan 10
@@ -56,14 +52,11 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   CAN19   Cyle Larin
   CAN20   Jonathan David
 
-## Bosnia  (pág ) — faltan 7
+## Bosnia  (pág ) — faltan 4
   BIH1    Escudo (foil)
-  BIH7    Nikola Katić
-  BIH11   Ivan Šunjić
   BIH13   Foto equipo
   BIH17   Ermedin Demirović
   BIH19   Samed Baždar
-  BIH20   Haris Tabaković
 
 ## Catar  (pág ) — faltan 10
   QAT1    Escudo (foil)
@@ -96,9 +89,8 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   BRA13   Foto equipo
   BRA17   Matheus Cunha  [PERDIDA]
 
-## Marruecos  (pág ) — faltan 10
+## Marruecos  (pág ) — faltan 9
   MAR5    Noussair Mazraoui
-  MAR9    Adam Masina
   MAR12   Eliesse Ben Seghir
   MAR13   Foto equipo
   MAR14   Bilal El Khannouss
@@ -136,7 +128,7 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   USA12   Timothy Weah
   USA13   Foto equipo
 
-## Paraguay  (pág ) — faltan 13
+## Paraguay  (pág ) — faltan 12
   PAR4    Gustavo Gómez
   PAR5    Fabián Balbuena
   PAR7    Omar Alderete
@@ -145,7 +137,6 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   PAR11   Damián Bobadilla
   PAR12   Andrés Cubas
   PAR14   Matías Galarza Fonda
-  PAR16   Alejandro Romero Gamarra
   PAR17   Miguel Almirón
   PAR18   Ramón Sosa
   PAR19   Ángel Romero
@@ -240,16 +231,12 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   NZL16   Ben Old
   NZL20   Kosta Barbarouses
 
-## España  (pág ) — faltan 9
+## España  (pág ) — faltan 5
   ESP1    Escudo (foil)
   ESP2    Unai Simón
-  ESP6    Pedro Porro
-  ESP7    Dani Carvajal
   ESP12   Fabián Ruiz
-  ESP14   Mikel Merino
   ESP15   Lamine Yamal
   ESP17   Nico Williams
-  ESP19   Álvaro Morata
 
 ## Cabo Verde  (pág ) — faltan 4
   CPV1    Escudo (foil)
@@ -263,11 +250,10 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   KSA7    Moteb Al-Harbi
   KSA10   Ziyad Aljohani  [PERDIDA]
 
-## Uruguay  (pág ) — faltan 4
+## Uruguay  (pág ) — faltan 3
   URU2    Sergio Rochet
   URU7    Mathías Olivera
   URU11   Giorgian De Arrascaeta
-  URU13   Foto equipo
 
 ## Francia  (pág ) — faltan 11
   FRA1    Escudo (foil)
@@ -308,8 +294,7 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   NOR17   Aron Dønnum
   NOR18   Jørgen Strand Larsen
 
-## Argentina  (pág ) — faltan 11
-  ARG3    Nahuel Molina
+## Argentina  (pág ) — faltan 10
   ARG4    Cristian Romero
   ARG5    Nicolás Otamendi
   ARG8    Enzo Fernández  [PERDIDA]
@@ -330,22 +315,19 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   ALG19   Baghdad Bounedjah  [PERDIDA]
   ALG20   Mohammed Amoura
 
-## Austria  (pág ) — faltan 6
+## Austria  (pág ) — faltan 4
   AUT3    Patrick Pentz
   AUT5    Kevin Danso  [PERDIDA]
-  AUT7    Stefan Posch
   AUT8    Phillipp Mwene
   AUT19   Michael Gregoritsch
-  AUT20   Marko Arnautović
 
 ## Jordania  (pág ) — faltan 2
   JOR4    Mohammad Abu Hashish
   JOR13   Foto equipo
 
-## Portugal  (pág ) — faltan 11
+## Portugal  (pág ) — faltan 10
   POR2    Diogo Costa
   POR3    José Sá
-  POR4    Rúben Dias
   POR5    João Cancelo
   POR8    Gonçalo Inácio
   POR10   Bruno Fernandes
@@ -355,10 +337,8 @@ Total faltan: 313/980  (falta=291 · perdida=22)
   POR19   Pedro Neto  [PERDIDA]
   POR20   Rafael Leão
 
-## RD Congo  (pág ) — faltan 7
+## RD Congo  (pág ) — faltan 5
   COD2    Lionel Mpasi
-  COD5    Arthur Masuaku
-  COD9    Ngal'ayel Mukau
   COD10   Edo Kayembe  [PERDIDA]
   COD11   Samuel Moutoussamy  [PERDIDA]
   COD15   Meschak Elia  [PERDIDA]
