@@ -1,9 +1,9 @@
 # Canje — Andrés Acosta
 
 > **Canje 1: ✅ CERRADO 2026-06-16** (das 13 / recibes 15). Detalle abajo.
-> **Canje 2: ✅ CERRADO 2026-06-17, recalculado 2026-06-18** (das 2 + pagas **$9.000 CLP** / recibes **54** = 34 de la lista de 37 + **20 extra**). Andrés aceptó. Detalle abajo.
+> **Canje 2: ✅ CERRADO Y CUADRADO 2026-06-18** (das 2 + pagas **$9.000 CLP** / recibes **56** = 36 de la lista de 37 (sin CRO13) + **20 extra**). Andrés aceptó. Detalle abajo.
 >
-> ⚠️ **PENDIENTE (2026-06-18):** de las **37** propuestas, Andrés **no tenía 3** → entregó **34**. Boris revisa la lista de 37 (sección abajo) para identificar las 3 y revertirlas a `falta`. **CRO13 ya está fuera** (revertida antes) — probablemente es una de las 3, faltarían 2 por marcar. Las **20 extra** (KOR2/9/14, CZE16, BIH7/11/20, MAR9, PAR16, ESP6/7/14/19, URU13, ARG3, AUT7/20, POR4, COD5/9) son **aparte**, NO son las 3 faltantes — ya registradas `falta→tengo` (HAVE → 687, 70,1%).
+> ✅ **Conteo cuadrado (2026-06-18):** Boris recontó la pila física y están las **56 completas**. El "faltaban 3 / faltaba 1" fue **error de conteo**, no había faltantes — Andrés sí trajo todo. No se revierte nada; registro exacto en 687 (70,1%). **CRO13 queda aparte** (cambiada por Boris) en `falta`, fuera de estas 56. Las **20 extra** (KOR2/9/14, CZE16, BIH7/11/20, MAR9, PAR16, ESP6/7/14/19, URU13, ARG3, AUT7/20, POR4, COD5/9) registradas `falta→tengo`.
 
 ---
 
