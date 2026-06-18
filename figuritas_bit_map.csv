@@ -1,0 +1,981 @@
+bit,codigo,equipo,orden_album,slot,jugador_tipo,tier,pagina
+0,00,Panini,0,0,Logo Panini (foil),T2,0
+1,FWC1,FWC Especiales,0,1,Emblema oficial 1/2 (foil),T2,1
+2,FWC2,FWC Especiales,0,2,Emblema oficial 2/2 (foil),T2,1
+3,FWC3,FWC Especiales,0,3,Mascotas oficiales (foil),T2,1
+4,FWC4,FWC Especiales,0,4,Eslogan oficial (foil),T2,1
+5,FWC5,FWC Especiales,0,5,Balon oficial (foil),T2,2
+6,FWC6,FWC Especiales,0,6,Canada - anfitrion (foil),T2,2
+7,FWC7,FWC Especiales,0,7,Mexico - anfitrion (foil),T2,3
+8,FWC8,FWC Especiales,0,8,USA - anfitrion (foil),T2,3
+9,FWC9,FWC Especiales,0,9,Italia 1934 - FIFA Museum (foil),T2,106
+10,FWC10,FWC Especiales,0,10,Uruguay 1950 - FIFA Museum (foil),T2,106
+11,FWC11,FWC Especiales,0,11,Alemania Occ. 1954 - FIFA Museum (foil),T2,107
+12,FWC12,FWC Especiales,0,12,Brasil 1962 - FIFA Museum (foil),T2,107
+13,FWC13,FWC Especiales,0,13,Alemania Occ. 1974 - FIFA Museum (foil),T2,107
+14,FWC14,FWC Especiales,0,14,Argentina 1986 - FIFA Museum (foil),T2,108
+15,FWC15,FWC Especiales,0,15,Brasil 1994 - FIFA Museum (foil),T2,108
+16,FWC16,FWC Especiales,0,16,Brasil 2002 - FIFA Museum (foil),T2,109
+17,FWC17,FWC Especiales,0,17,Italia 2006 - FIFA Museum (foil),T2,109
+18,FWC18,FWC Especiales,0,18,Alemania 2014 - FIFA Museum (foil),T2,109
+19,FWC19,FWC Especiales,0,19,Argentina 2022 - FIFA Museum (foil),T2,109
+20,MEX1,Mexico,1,1,Escudo (foil),T2,8-9
+21,MEX2,Mexico,1,2,Luis Malagón,base,8-9
+22,MEX3,Mexico,1,3,Johan Vásquez,base,8-9
+23,MEX4,Mexico,1,4,Jorge Sánchez,base,8-9
+24,MEX5,Mexico,1,5,César Montes,base,8-9
+25,MEX6,Mexico,1,6,Jesús Gallardo,base,8-9
+26,MEX7,Mexico,1,7,Israel Reyes,base,8-9
+27,MEX8,Mexico,1,8,Diego Lainez,base,8-9
+28,MEX9,Mexico,1,9,Carlos Rodríguez,base,8-9
+29,MEX10,Mexico,1,10,Edson Álvarez,base,8-9
+30,MEX11,Mexico,1,11,Orbelín Pineda,base,8-9
+31,MEX12,Mexico,1,12,Marcel Ruiz,base,8-9
+32,MEX13,Mexico,1,13,Foto equipo,base,8-9
+33,MEX14,Mexico,1,14,Érick Sánchez,base,8-9
+34,MEX15,Mexico,1,15,Hirving Lozano,base,8-9
+35,MEX16,Mexico,1,16,Santiago Giménez,base,8-9
+36,MEX17,Mexico,1,17,Raúl Jiménez,base,8-9
+37,MEX18,Mexico,1,18,Alexis Vega,base,8-9
+38,MEX19,Mexico,1,19,Roberto Alvarado,base,8-9
+39,MEX20,Mexico,1,20,César Huerta,base,8-9
+40,RSA1,Sudafrica,2,1,Escudo (foil),T2,10-11
+41,RSA2,Sudafrica,2,2,Ronwen Williams,base,10-11
+42,RSA3,Sudafrica,2,3,Sipho Chaine,base,10-11
+43,RSA4,Sudafrica,2,4,Aubrey Modiba,base,10-11
+44,RSA5,Sudafrica,2,5,Samukele Kabini,base,10-11
+45,RSA6,Sudafrica,2,6,Mbekezeli Mbokazi,base,10-11
+46,RSA7,Sudafrica,2,7,Khulumani Ndamane,base,10-11
+47,RSA8,Sudafrica,2,8,Siyabonga Ngezana,base,10-11
+48,RSA9,Sudafrica,2,9,Khuliso Mudau,base,10-11
+49,RSA10,Sudafrica,2,10,Nkosinathi Sibisi,base,10-11
+50,RSA11,Sudafrica,2,11,Teboho Mokoena,base,10-11
+51,RSA12,Sudafrica,2,12,Thalente Mbatha,base,10-11
+52,RSA13,Sudafrica,2,13,Foto equipo,base,10-11
+53,RSA14,Sudafrica,2,14,Bathusi Aubaas,base,10-11
+54,RSA15,Sudafrica,2,15,Yaya Sithole,base,10-11
+55,RSA16,Sudafrica,2,16,Sipho Mbule,base,10-11
+56,RSA17,Sudafrica,2,17,Lyle Foster,base,10-11
+57,RSA18,Sudafrica,2,18,Iqraam Rayners,base,10-11
+58,RSA19,Sudafrica,2,19,Mohau Nkota,base,10-11
+59,RSA20,Sudafrica,2,20,Oswin Appollis,base,10-11
+60,KOR1,Corea del Sur,3,1,Escudo (foil),T2,12-13
+61,KOR2,Corea del Sur,3,2,Jo Hyeon-woo,base,12-13
+62,KOR3,Corea del Sur,3,3,Kim Seung-gyu,base,12-13
+63,KOR4,Corea del Sur,3,4,Kim Min-jae,base,12-13
+64,KOR5,Corea del Sur,3,5,Cho Yu-min,base,12-13
+65,KOR6,Corea del Sur,3,6,Seol Young-woo,base,12-13
+66,KOR7,Corea del Sur,3,7,Lee Han-beom,base,12-13
+67,KOR8,Corea del Sur,3,8,Lee Tae-seok,base,12-13
+68,KOR9,Corea del Sur,3,9,Lee Myung-jae,base,12-13
+69,KOR10,Corea del Sur,3,10,Lee Jae-sung,base,12-13
+70,KOR11,Corea del Sur,3,11,Hwang In-beom,base,12-13
+71,KOR12,Corea del Sur,3,12,Lee Kang-in,base,12-13
+72,KOR13,Corea del Sur,3,13,Foto equipo,base,12-13
+73,KOR14,Corea del Sur,3,14,Paik Seung-ho,base,12-13
+74,KOR15,Corea del Sur,3,15,Jens Castrop,base,12-13
+75,KOR16,Corea del Sur,3,16,Lee Dong-gyeong,base,12-13
+76,KOR17,Corea del Sur,3,17,Cho Gue-sung,base,12-13
+77,KOR18,Corea del Sur,3,18,Son Heung-min,T3,12-13
+78,KOR19,Corea del Sur,3,19,Hwang Hee-chan,base,12-13
+79,KOR20,Corea del Sur,3,20,Oh Hyeon-gyu,base,12-13
+80,CZE1,Chequia,4,1,Escudo (foil),T2,14-15
+81,CZE2,Chequia,4,2,Matej Kovar,base,14-15
+82,CZE3,Chequia,4,3,Jindrich Stanek,base,14-15
+83,CZE4,Chequia,4,4,Ladislav Krejci,base,14-15
+84,CZE5,Chequia,4,5,Vladimir Coufal,base,14-15
+85,CZE6,Chequia,4,6,Jaroslav Zeleny,base,14-15
+86,CZE7,Chequia,4,7,Tomas Holes,base,14-15
+87,CZE8,Chequia,4,8,David Zima,base,14-15
+88,CZE9,Chequia,4,9,Michal Sadilek,base,14-15
+89,CZE10,Chequia,4,10,Lukas Provod,base,14-15
+90,CZE11,Chequia,4,11,Lukas Cerv,base,14-15
+91,CZE12,Chequia,4,12,Tomas Soucek,base,14-15
+92,CZE13,Chequia,4,13,Foto equipo,base,14-15
+93,CZE14,Chequia,4,14,Pavel Sulc,base,14-15
+94,CZE15,Chequia,4,15,Matej Vydra,base,14-15
+95,CZE16,Chequia,4,16,Vasil Kusej,base,14-15
+96,CZE17,Chequia,4,17,Tomas Chory,base,14-15
+97,CZE18,Chequia,4,18,Vaclav Cerny,base,14-15
+98,CZE19,Chequia,4,19,Adam Hlozek,base,14-15
+99,CZE20,Chequia,4,20,Patrik Schick,base,14-15
+100,CAN1,Canada,5,1,Escudo (foil),T2,16-17
+101,CAN2,Canada,5,2,Dayne St. Clair,base,16-17
+102,CAN3,Canada,5,3,Alphonso Davies,base,16-17
+103,CAN4,Canada,5,4,Alistair Johnston,base,16-17
+104,CAN5,Canada,5,5,Samuel Adekugbe,base,16-17
+105,CAN6,Canada,5,6,Richie Laryea,base,16-17
+106,CAN7,Canada,5,7,Derek Cornelius,base,16-17
+107,CAN8,Canada,5,8,Moïse Bombito,base,16-17
+108,CAN9,Canada,5,9,Kamal Miller,base,16-17
+109,CAN10,Canada,5,10,Stephen Eustáquio,base,16-17
+110,CAN11,Canada,5,11,Ismaël Koné,base,16-17
+111,CAN12,Canada,5,12,Jonathan Osorio,base,16-17
+112,CAN13,Canada,5,13,Foto equipo,base,16-17
+113,CAN14,Canada,5,14,Jacob Shaffelburg,base,16-17
+114,CAN15,Canada,5,15,Mathieu Choinière,base,16-17
+115,CAN16,Canada,5,16,Niko Sigur,base,16-17
+116,CAN17,Canada,5,17,Tajon Buchanan,base,16-17
+117,CAN18,Canada,5,18,Liam Millar,base,16-17
+118,CAN19,Canada,5,19,Cyle Larin,base,16-17
+119,CAN20,Canada,5,20,Jonathan David,base,16-17
+120,BIH1,Bosnia y Herzegovina,6,1,Escudo (foil),T2,18-19
+121,BIH2,Bosnia y Herzegovina,6,2,Nikola Vasilj,base,18-19
+122,BIH3,Bosnia y Herzegovina,6,3,Amer Dedić,base,18-19
+123,BIH4,Bosnia y Herzegovina,6,4,Sead Kolašinac,base,18-19
+124,BIH5,Bosnia y Herzegovina,6,5,Tarik Muharemović,base,18-19
+125,BIH6,Bosnia y Herzegovina,6,6,Nihad Mujakić,base,18-19
+126,BIH7,Bosnia y Herzegovina,6,7,Nikola Katić,base,18-19
+127,BIH8,Bosnia y Herzegovina,6,8,Amir Hadžiahmetović,base,18-19
+128,BIH9,Bosnia y Herzegovina,6,9,Benjamin Tahirović,base,18-19
+129,BIH10,Bosnia y Herzegovina,6,10,Armin Gigović,base,18-19
+130,BIH11,Bosnia y Herzegovina,6,11,Ivan Šunjić,base,18-19
+131,BIH12,Bosnia y Herzegovina,6,12,Ivan Bašić,base,18-19
+132,BIH13,Bosnia y Herzegovina,6,13,Foto equipo,base,18-19
+133,BIH14,Bosnia y Herzegovina,6,14,Dženis Burnić,base,18-19
+134,BIH15,Bosnia y Herzegovina,6,15,Esmir Bajraktarević,base,18-19
+135,BIH16,Bosnia y Herzegovina,6,16,Amar Memić,base,18-19
+136,BIH17,Bosnia y Herzegovina,6,17,Ermedin Demirović,base,18-19
+137,BIH18,Bosnia y Herzegovina,6,18,Edin Džeko,base,18-19
+138,BIH19,Bosnia y Herzegovina,6,19,Samed Baždar,base,18-19
+139,BIH20,Bosnia y Herzegovina,6,20,Haris Tabaković,base,18-19
+140,QAT1,Catar,7,1,Escudo (foil),T2,20-21
+141,QAT2,Catar,7,2,Meshaal Barsham,base,20-21
+142,QAT3,Catar,7,3,Sultan Albrake,base,20-21
+143,QAT4,Catar,7,4,Lucas Mendes,base,20-21
+144,QAT5,Catar,7,5,Homam Ahmed,base,20-21
+145,QAT6,Catar,7,6,Boualem Khoukhi,base,20-21
+146,QAT7,Catar,7,7,Pedro Miguel,base,20-21
+147,QAT8,Catar,7,8,Tarek Salman,base,20-21
+148,QAT9,Catar,7,9,Mohamed Al-Mannai,base,20-21
+149,QAT10,Catar,7,10,Karim Boudiaf,base,20-21
+150,QAT11,Catar,7,11,Assim Madibo,base,20-21
+151,QAT12,Catar,7,12,Ahmed Fatehi,base,20-21
+152,QAT13,Catar,7,13,Foto equipo,base,20-21
+153,QAT14,Catar,7,14,Mohammed Waad,base,20-21
+154,QAT15,Catar,7,15,Abdulaziz Hatem,base,20-21
+155,QAT16,Catar,7,16,Hassan Al-Haydos,base,20-21
+156,QAT17,Catar,7,17,Edmilson Junior,base,20-21
+157,QAT18,Catar,7,18,Akram Hassan Afif,base,20-21
+158,QAT19,Catar,7,19,Ahmed Al Ganehi,base,20-21
+159,QAT20,Catar,7,20,Almoez Ali,base,20-21
+160,SUI1,Suiza,8,1,Escudo (foil),T2,22-23
+161,SUI2,Suiza,8,2,Gregor Kobel,base,22-23
+162,SUI3,Suiza,8,3,Yvon Mvogo,base,22-23
+163,SUI4,Suiza,8,4,Manuel Akanji,base,22-23
+164,SUI5,Suiza,8,5,Ricardo Rodríguez,base,22-23
+165,SUI6,Suiza,8,6,Nico Elvedi,base,22-23
+166,SUI7,Suiza,8,7,Aurèle Amenda,base,22-23
+167,SUI8,Suiza,8,8,Silvan Widmer,base,22-23
+168,SUI9,Suiza,8,9,Granit Xhaka,base,22-23
+169,SUI10,Suiza,8,10,Denis Zakaria,base,22-23
+170,SUI11,Suiza,8,11,Remo Freuler,base,22-23
+171,SUI12,Suiza,8,12,Fabian Rieder,base,22-23
+172,SUI13,Suiza,8,13,Foto equipo,base,22-23
+173,SUI14,Suiza,8,14,Ardon Jashari,base,22-23
+174,SUI15,Suiza,8,15,Johan Manzambi,base,22-23
+175,SUI16,Suiza,8,16,Michel Aebischer,base,22-23
+176,SUI17,Suiza,8,17,Breel Embolo,base,22-23
+177,SUI18,Suiza,8,18,Rubén Vargas,base,22-23
+178,SUI19,Suiza,8,19,Dan Ndoye,base,22-23
+179,SUI20,Suiza,8,20,Zeki Amdouni,base,22-23
+180,BRA1,Brasil,9,1,Escudo (foil),T2,24-25
+181,BRA2,Brasil,9,2,Alisson,base,24-25
+182,BRA3,Brasil,9,3,Bento,base,24-25
+183,BRA4,Brasil,9,4,Marquinhos,base,24-25
+184,BRA5,Brasil,9,5,Éder Militão,base,24-25
+185,BRA6,Brasil,9,6,Gabriel Magalhães,base,24-25
+186,BRA7,Brasil,9,7,Danilo,base,24-25
+187,BRA8,Brasil,9,8,Wesley,base,24-25
+188,BRA9,Brasil,9,9,Lucas Paquetá,base,24-25
+189,BRA10,Brasil,9,10,Casemiro,base,24-25
+190,BRA11,Brasil,9,11,Bruno Guimarães,base,24-25
+191,BRA12,Brasil,9,12,Luiz Henrique,base,24-25
+192,BRA13,Brasil,9,13,Foto equipo,base,24-25
+193,BRA14,Brasil,9,14,Vinicius Júnior,T3,24-25
+194,BRA15,Brasil,9,15,Rodrygo,base,24-25
+195,BRA16,Brasil,9,16,João Pedro,base,24-25
+196,BRA17,Brasil,9,17,Matheus Cunha,base,24-25
+197,BRA18,Brasil,9,18,Gabriel Martinelli,base,24-25
+198,BRA19,Brasil,9,19,Raphinha,base,24-25
+199,BRA20,Brasil,9,20,Estêvão,base,24-25
+200,MAR1,Marruecos,10,1,Escudo (foil),T2,26-27
+201,MAR2,Marruecos,10,2,Yassine Bounou,base,26-27
+202,MAR3,Marruecos,10,3,Munir El Kajoui,base,26-27
+203,MAR4,Marruecos,10,4,Achraf Hakimi,base,26-27
+204,MAR5,Marruecos,10,5,Noussair Mazraoui,base,26-27
+205,MAR6,Marruecos,10,6,Nayef Aguerd,base,26-27
+206,MAR7,Marruecos,10,7,Romain Saïss,base,26-27
+207,MAR8,Marruecos,10,8,Jawad El Yamiq,base,26-27
+208,MAR9,Marruecos,10,9,Adam Masina,base,26-27
+209,MAR10,Marruecos,10,10,Sofyan Amrabat,base,26-27
+210,MAR11,Marruecos,10,11,Azzedine Ounahi,base,26-27
+211,MAR12,Marruecos,10,12,Eliesse Ben Seghir,base,26-27
+212,MAR13,Marruecos,10,13,Foto equipo,base,26-27
+213,MAR14,Marruecos,10,14,Bilal El Khannouss,base,26-27
+214,MAR15,Marruecos,10,15,Ismael Saibari,base,26-27
+215,MAR16,Marruecos,10,16,Youssef En-Nesyri,base,26-27
+216,MAR17,Marruecos,10,17,Abde Ezzalzouli,base,26-27
+217,MAR18,Marruecos,10,18,Soufiane Rahimi,base,26-27
+218,MAR19,Marruecos,10,19,Brahim Díaz,base,26-27
+219,MAR20,Marruecos,10,20,Ayoub El Kaabi,base,26-27
+220,HAI1,Haiti,11,1,Escudo (foil),T2,28-29
+221,HAI2,Haiti,11,2,Johny Placide,base,28-29
+222,HAI3,Haiti,11,3,Carlens Arcus,base,28-29
+223,HAI4,Haiti,11,4,Martin Experience,base,28-29
+224,HAI5,Haiti,11,5,Jean-Kévin Duverne,base,28-29
+225,HAI6,Haiti,11,6,Ricardo Adé,base,28-29
+226,HAI7,Haiti,11,7,Duke Lacroix,base,28-29
+227,HAI8,Haiti,11,8,Garven Metusala,base,28-29
+228,HAI9,Haiti,11,9,Hannes Delcroix,base,28-29
+229,HAI10,Haiti,11,10,Leverton Pierre,base,28-29
+230,HAI11,Haiti,11,11,Danley Jean Jacques,base,28-29
+231,HAI12,Haiti,11,12,Jean-Ricner Bellegarde,base,28-29
+232,HAI13,Haiti,11,13,Foto equipo,base,28-29
+233,HAI14,Haiti,11,14,Christopher Attys,base,28-29
+234,HAI15,Haiti,11,15,Derrick Etienne Jr,base,28-29
+235,HAI16,Haiti,11,16,Josué Casimir,base,28-29
+236,HAI17,Haiti,11,17,Ruben Providence,base,28-29
+237,HAI18,Haiti,11,18,Duckens Nazon,base,28-29
+238,HAI19,Haiti,11,19,Louicius Deedson,base,28-29
+239,HAI20,Haiti,11,20,Frantzdy Pierrot,base,28-29
+240,SCO1,Escocia,12,1,Escudo (foil),T2,30-31
+241,SCO2,Escocia,12,2,Angus Gunn,base,30-31
+242,SCO3,Escocia,12,3,Jack Hendry,base,30-31
+243,SCO4,Escocia,12,4,Kieran Tierney,base,30-31
+244,SCO5,Escocia,12,5,Aaron Hickey,base,30-31
+245,SCO6,Escocia,12,6,Andrew Robertson,base,30-31
+246,SCO7,Escocia,12,7,Scott McKenna,base,30-31
+247,SCO8,Escocia,12,8,John Souttar,base,30-31
+248,SCO9,Escocia,12,9,Anthony Ralston,base,30-31
+249,SCO10,Escocia,12,10,Grant Hanley,base,30-31
+250,SCO11,Escocia,12,11,Scott McTominay,base,30-31
+251,SCO12,Escocia,12,12,Billy Gilmour,base,30-31
+252,SCO13,Escocia,12,13,Foto equipo,base,30-31
+253,SCO14,Escocia,12,14,Lewis Ferguson,base,30-31
+254,SCO15,Escocia,12,15,Ryan Christie,base,30-31
+255,SCO16,Escocia,12,16,Kenny McLean,base,30-31
+256,SCO17,Escocia,12,17,John McGinn,base,30-31
+257,SCO18,Escocia,12,18,Lyndon Dykes,base,30-31
+258,SCO19,Escocia,12,19,Che Adams,base,30-31
+259,SCO20,Escocia,12,20,Ben Gannon-Doak,base,30-31
+260,USA1,Estados Unidos,13,1,Escudo (foil),T2,32-33
+261,USA2,Estados Unidos,13,2,Matt Freese,base,32-33
+262,USA3,Estados Unidos,13,3,Chris Richards,base,32-33
+263,USA4,Estados Unidos,13,4,Tim Ream,base,32-33
+264,USA5,Estados Unidos,13,5,Mark McKenzie,base,32-33
+265,USA6,Estados Unidos,13,6,Alex Freeman,base,32-33
+266,USA7,Estados Unidos,13,7,Antonee Robinson,base,32-33
+267,USA8,Estados Unidos,13,8,Tyler Adams,base,32-33
+268,USA9,Estados Unidos,13,9,Tanner Tessmann,base,32-33
+269,USA10,Estados Unidos,13,10,Weston McKennie,base,32-33
+270,USA11,Estados Unidos,13,11,Christian Roldan,base,32-33
+271,USA12,Estados Unidos,13,12,Timothy Weah,base,32-33
+272,USA13,Estados Unidos,13,13,Foto equipo,base,32-33
+273,USA14,Estados Unidos,13,14,Diego Luna,base,32-33
+274,USA15,Estados Unidos,13,15,Malik Tillman,base,32-33
+275,USA16,Estados Unidos,13,16,Christian Pulisic,base,32-33
+276,USA17,Estados Unidos,13,17,Brenden Aaronson,base,32-33
+277,USA18,Estados Unidos,13,18,Ricardo Pepi,base,32-33
+278,USA19,Estados Unidos,13,19,Haji Wright,base,32-33
+279,USA20,Estados Unidos,13,20,Folarin Balogun,base,32-33
+280,PAR1,Paraguay,14,1,Escudo (foil),T2,34-35
+281,PAR2,Paraguay,14,2,Roberto Fernández,base,34-35
+282,PAR3,Paraguay,14,3,Orlando Gill,base,34-35
+283,PAR4,Paraguay,14,4,Gustavo Gómez,base,34-35
+284,PAR5,Paraguay,14,5,Fabián Balbuena,base,34-35
+285,PAR6,Paraguay,14,6,Juan José Cáceres,base,34-35
+286,PAR7,Paraguay,14,7,Omar Alderete,base,34-35
+287,PAR8,Paraguay,14,8,Junior Alonso,base,34-35
+288,PAR9,Paraguay,14,9,Mathías Villasanti,base,34-35
+289,PAR10,Paraguay,14,10,Diego Gómez,base,34-35
+290,PAR11,Paraguay,14,11,Damián Bobadilla,base,34-35
+291,PAR12,Paraguay,14,12,Andrés Cubas,base,34-35
+292,PAR13,Paraguay,14,13,Foto equipo,base,34-35
+293,PAR14,Paraguay,14,14,Matías Galarza Fonda,base,34-35
+294,PAR15,Paraguay,14,15,Julio Enciso,base,34-35
+295,PAR16,Paraguay,14,16,Alejandro Romero Gamarra,base,34-35
+296,PAR17,Paraguay,14,17,Miguel Almirón,base,34-35
+297,PAR18,Paraguay,14,18,Ramón Sosa,base,34-35
+298,PAR19,Paraguay,14,19,Ángel Romero,base,34-35
+299,PAR20,Paraguay,14,20,Antonio Sanabria,base,34-35
+300,AUS1,Australia,15,1,Escudo (foil),T2,36-37
+301,AUS2,Australia,15,2,Mathew Ryan,base,36-37
+302,AUS3,Australia,15,3,Joe Gauci,base,36-37
+303,AUS4,Australia,15,4,Harry Souttar,base,36-37
+304,AUS5,Australia,15,5,Alessandro Circati,base,36-37
+305,AUS6,Australia,15,6,Jordan Bos,base,36-37
+306,AUS7,Australia,15,7,Aziz Behich,base,36-37
+307,AUS8,Australia,15,8,Cameron Burgess,base,36-37
+308,AUS9,Australia,15,9,Lewis Miller,base,36-37
+309,AUS10,Australia,15,10,Milos Degenek,base,36-37
+310,AUS11,Australia,15,11,Jackson Irvine,base,36-37
+311,AUS12,Australia,15,12,Riley McGree,base,36-37
+312,AUS13,Australia,15,13,Foto equipo,base,36-37
+313,AUS14,Australia,15,14,Aiden O'Neill,base,36-37
+314,AUS15,Australia,15,15,Connor Metcalfe,base,36-37
+315,AUS16,Australia,15,16,Patrick Yazbek,base,36-37
+316,AUS17,Australia,15,17,Craig Goodwin,base,36-37
+317,AUS18,Australia,15,18,Kusini Yengi,base,36-37
+318,AUS19,Australia,15,19,Nestory Irankunda,base,36-37
+319,AUS20,Australia,15,20,Mohamed Touré,base,36-37
+320,TUR1,Turquia,16,1,Escudo (foil),T2,38-39
+321,TUR2,Turquia,16,2,Uğurcan Çakır,base,38-39
+322,TUR3,Turquia,16,3,Mert Müldür,base,38-39
+323,TUR4,Turquia,16,4,Zeki Çelik,base,38-39
+324,TUR5,Turquia,16,5,Abdülkerim Bardakcı,base,38-39
+325,TUR6,Turquia,16,6,Çağlar Söyüncü,base,38-39
+326,TUR7,Turquia,16,7,Merih Demiral,base,38-39
+327,TUR8,Turquia,16,8,Ferdi Kadıoğlu,base,38-39
+328,TUR9,Turquia,16,9,Kaan Ayhan,base,38-39
+329,TUR10,Turquia,16,10,İsmail Yüksek,base,38-39
+330,TUR11,Turquia,16,11,Hakan Çalhanoğlu,base,38-39
+331,TUR12,Turquia,16,12,Orkun Kökçü,base,38-39
+332,TUR13,Turquia,16,13,Foto equipo,base,38-39
+333,TUR14,Turquia,16,14,Arda Güler,base,38-39
+334,TUR15,Turquia,16,15,İrfan Can Kahveci,base,38-39
+335,TUR16,Turquia,16,16,Yunus Akgün,base,38-39
+336,TUR17,Turquia,16,17,Can Uzun,base,38-39
+337,TUR18,Turquia,16,18,Barış Alper Yılmaz,base,38-39
+338,TUR19,Turquia,16,19,Kerem Aktürkoğlu,base,38-39
+339,TUR20,Turquia,16,20,Kenan Yıldız,base,38-39
+340,GER1,Alemania,17,1,Escudo (foil),T2,40-41
+341,GER2,Alemania,17,2,Marc-André ter Stegen,base,40-41
+342,GER3,Alemania,17,3,Jonathan Tah,base,40-41
+343,GER4,Alemania,17,4,David Raum,base,40-41
+344,GER5,Alemania,17,5,Nico Schlotterbeck,base,40-41
+345,GER6,Alemania,17,6,Antonio Rüdiger,base,40-41
+346,GER7,Alemania,17,7,Waldemar Anton,base,40-41
+347,GER8,Alemania,17,8,Ridle Baku,base,40-41
+348,GER9,Alemania,17,9,Maximilian Mittelstädt,base,40-41
+349,GER10,Alemania,17,10,Joshua Kimmich,base,40-41
+350,GER11,Alemania,17,11,Florian Wirtz,base,40-41
+351,GER12,Alemania,17,12,Felix Nmecha,base,40-41
+352,GER13,Alemania,17,13,Foto equipo,base,40-41
+353,GER14,Alemania,17,14,Leon Goretzka,base,40-41
+354,GER15,Alemania,17,15,Jamal Musiala,T3,40-41
+355,GER16,Alemania,17,16,Serge Gnabry,base,40-41
+356,GER17,Alemania,17,17,Kai Havertz,base,40-41
+357,GER18,Alemania,17,18,Leroy Sané,base,40-41
+358,GER19,Alemania,17,19,Karim Adeyemi,base,40-41
+359,GER20,Alemania,17,20,Nick Woltemade,base,40-41
+360,CUW1,Curazao,18,1,Escudo (foil),T2,42-43
+361,CUW2,Curazao,18,2,Eloy Room,base,42-43
+362,CUW3,Curazao,18,3,Armando Obispo,base,42-43
+363,CUW4,Curazao,18,4,Sherel Floranus,base,42-43
+364,CUW5,Curazao,18,5,Jurien Gaari,base,42-43
+365,CUW6,Curazao,18,6,Joshua Brenet,base,42-43
+366,CUW7,Curazao,18,7,Roshon van Eijma,base,42-43
+367,CUW8,Curazao,18,8,Shurandy Sambo,base,42-43
+368,CUW9,Curazao,18,9,Livano Comenencia,base,42-43
+369,CUW10,Curazao,18,10,Godfried Roemeratoe,base,42-43
+370,CUW11,Curazao,18,11,Juninho Bacuna,base,42-43
+371,CUW12,Curazao,18,12,Leandro Bacuna,base,42-43
+372,CUW13,Curazao,18,13,Foto equipo,base,42-43
+373,CUW14,Curazao,18,14,Tahith Chong,base,42-43
+374,CUW15,Curazao,18,15,Kenji Gorre,base,42-43
+375,CUW16,Curazao,18,16,Jearl Margaritha,base,42-43
+376,CUW17,Curazao,18,17,Jurgen Locadia,base,42-43
+377,CUW18,Curazao,18,18,Jeremy Antonisse,base,42-43
+378,CUW19,Curazao,18,19,Gervane Kastaneer,base,42-43
+379,CUW20,Curazao,18,20,Sontje Hansen,base,42-43
+380,CIV1,Costa de Marfil,19,1,Escudo (foil),T2,44-45
+381,CIV2,Costa de Marfil,19,2,Yahia Fofana,base,44-45
+382,CIV3,Costa de Marfil,19,3,Ghislain Konan,base,44-45
+383,CIV4,Costa de Marfil,19,4,Wilfried Singo,base,44-45
+384,CIV5,Costa de Marfil,19,5,Odilon Kossounou,base,44-45
+385,CIV6,Costa de Marfil,19,6,Evan Ndicka,base,44-45
+386,CIV7,Costa de Marfil,19,7,Willy Boly,base,44-45
+387,CIV8,Costa de Marfil,19,8,Emmanuel Agbadou,base,44-45
+388,CIV9,Costa de Marfil,19,9,Ousmane Diomandé,base,44-45
+389,CIV10,Costa de Marfil,19,10,Franck Kessié,base,44-45
+390,CIV11,Costa de Marfil,19,11,Seko Fofana,base,44-45
+391,CIV12,Costa de Marfil,19,12,Ibrahim Sangaré,base,44-45
+392,CIV13,Costa de Marfil,19,13,Foto equipo,base,44-45
+393,CIV14,Costa de Marfil,19,14,Jean-Philippe Gbamin,base,44-45
+394,CIV15,Costa de Marfil,19,15,Amad Diallo,base,44-45
+395,CIV16,Costa de Marfil,19,16,Sébastien Haller,base,44-45
+396,CIV17,Costa de Marfil,19,17,Simon Adingra,base,44-45
+397,CIV18,Costa de Marfil,19,18,Yan Diomandé,base,44-45
+398,CIV19,Costa de Marfil,19,19,Evann Guessand,base,44-45
+399,CIV20,Costa de Marfil,19,20,Oumar Diakité,base,44-45
+400,ECU1,Ecuador,20,1,Escudo (foil),T2,46-47
+401,ECU2,Ecuador,20,2,Hernán Galíndez,base,46-47
+402,ECU3,Ecuador,20,3,Gonzalo Valle,base,46-47
+403,ECU4,Ecuador,20,4,Piero Hincapié,base,46-47
+404,ECU5,Ecuador,20,5,Pervis Estupiñán,base,46-47
+405,ECU6,Ecuador,20,6,Willian Pacho,base,46-47
+406,ECU7,Ecuador,20,7,Ángelo Preciado,base,46-47
+407,ECU8,Ecuador,20,8,Joel Ordóñez,base,46-47
+408,ECU9,Ecuador,20,9,Moisés Caicedo,base,46-47
+409,ECU10,Ecuador,20,10,Alan Franco,base,46-47
+410,ECU11,Ecuador,20,11,Kendry Páez,base,46-47
+411,ECU12,Ecuador,20,12,Pedro Vite,base,46-47
+412,ECU13,Ecuador,20,13,Foto equipo,base,46-47
+413,ECU14,Ecuador,20,14,John Yeboah,base,46-47
+414,ECU15,Ecuador,20,15,Leonardo Campana,base,46-47
+415,ECU16,Ecuador,20,16,Gonzalo Plata,base,46-47
+416,ECU17,Ecuador,20,17,Nilson Angulo,base,46-47
+417,ECU18,Ecuador,20,18,Alan Minda,base,46-47
+418,ECU19,Ecuador,20,19,Kevin Rodríguez,base,46-47
+419,ECU20,Ecuador,20,20,Enner Valencia,base,46-47
+420,NED1,Paises Bajos,21,1,Escudo (foil),T2,48-49
+421,NED2,Paises Bajos,21,2,Bart Verbruggen,base,48-49
+422,NED3,Paises Bajos,21,3,Virgil van Dijk,T3,48-49
+423,NED4,Paises Bajos,21,4,Micky van de Ven,base,48-49
+424,NED5,Paises Bajos,21,5,Jurriën Timber,base,48-49
+425,NED6,Paises Bajos,21,6,Denzel Dumfries,base,48-49
+426,NED7,Paises Bajos,21,7,Nathan Aké,base,48-49
+427,NED8,Paises Bajos,21,8,Jeremie Frimpong,base,48-49
+428,NED9,Paises Bajos,21,9,Jan Paul van Hecke,base,48-49
+429,NED10,Paises Bajos,21,10,Tijjani Reijnders,base,48-49
+430,NED11,Paises Bajos,21,11,Ryan Gravenberch,base,48-49
+431,NED12,Paises Bajos,21,12,Teun Koopmeiners,base,48-49
+432,NED13,Paises Bajos,21,13,Foto equipo,base,48-49
+433,NED14,Paises Bajos,21,14,Frenkie de Jong,base,48-49
+434,NED15,Paises Bajos,21,15,Xavi Simons,base,48-49
+435,NED16,Paises Bajos,21,16,Justin Kluivert,base,48-49
+436,NED17,Paises Bajos,21,17,Memphis Depay,base,48-49
+437,NED18,Paises Bajos,21,18,Donyell Malen,base,48-49
+438,NED19,Paises Bajos,21,19,Wout Weghorst,base,48-49
+439,NED20,Paises Bajos,21,20,Cody Gakpo,base,48-49
+440,JPN1,Japon,22,1,Escudo (foil),T2,50-51
+441,JPN2,Japon,22,2,Zion Suzuki,base,50-51
+442,JPN3,Japon,22,3,Henry Heroki Mochizuki,base,50-51
+443,JPN4,Japon,22,4,Ayumu Seko,base,50-51
+444,JPN5,Japon,22,5,Junnosuke Suzuki,base,50-51
+445,JPN6,Japon,22,6,Shogo Taniguchi,base,50-51
+446,JPN7,Japon,22,7,Tsuyoshi Watanabe,base,50-51
+447,JPN8,Japon,22,8,Kaishu Sano,base,50-51
+448,JPN9,Japon,22,9,Yuki Soma,base,50-51
+449,JPN10,Japon,22,10,Ao Tanaka,base,50-51
+450,JPN11,Japon,22,11,Daichi Kamada,base,50-51
+451,JPN12,Japon,22,12,Takefusa Kubo,base,50-51
+452,JPN13,Japon,22,13,Foto equipo,base,50-51
+453,JPN14,Japon,22,14,Ritsu Doan,base,50-51
+454,JPN15,Japon,22,15,Keito Nakamura,base,50-51
+455,JPN16,Japon,22,16,Takumi Minamino,base,50-51
+456,JPN17,Japon,22,17,Shuto Machino,base,50-51
+457,JPN18,Japon,22,18,Junya Ito,base,50-51
+458,JPN19,Japon,22,19,Koki Ogawa,base,50-51
+459,JPN20,Japon,22,20,Ayase Ueda,base,50-51
+460,SWE1,Suecia,23,1,Escudo (foil),T2,52-53
+461,SWE2,Suecia,23,2,Victor Johansson,base,52-53
+462,SWE3,Suecia,23,3,Isak Hien,base,52-53
+463,SWE4,Suecia,23,4,Gabriel Gudmundsson,base,52-53
+464,SWE5,Suecia,23,5,Emil Holm,base,52-53
+465,SWE6,Suecia,23,6,Victor Nilsson Lindelöf,base,52-53
+466,SWE7,Suecia,23,7,Gustaf Lagerbielke,base,52-53
+467,SWE8,Suecia,23,8,Lucas Bergvall,base,52-53
+468,SWE9,Suecia,23,9,Hugo Larsson,base,52-53
+469,SWE10,Suecia,23,10,Jesper Karlström,base,52-53
+470,SWE11,Suecia,23,11,Yasin Ayari,base,52-53
+471,SWE12,Suecia,23,12,Mattias Svanberg,base,52-53
+472,SWE13,Suecia,23,13,Foto equipo,base,52-53
+473,SWE14,Suecia,23,14,Daniel Svensson,base,52-53
+474,SWE15,Suecia,23,15,Ken Sema,base,52-53
+475,SWE16,Suecia,23,16,Roony Bardghji,base,52-53
+476,SWE17,Suecia,23,17,Dejan Kulusevski,base,52-53
+477,SWE18,Suecia,23,18,Anthony Elanga,base,52-53
+478,SWE19,Suecia,23,19,Alexander Isak,base,52-53
+479,SWE20,Suecia,23,20,Viktor Gyökeres,base,52-53
+480,TUN1,Tunez,24,1,Escudo (foil),T2,54-55
+481,TUN2,Tunez,24,2,Bechir Ben Saïd,base,54-55
+482,TUN3,Tunez,24,3,Aymen Dahmen,base,54-55
+483,TUN4,Tunez,24,4,Yan Valery,base,54-55
+484,TUN5,Tunez,24,5,Montassar Talbi,base,54-55
+485,TUN6,Tunez,24,6,Yassine Meriah,base,54-55
+486,TUN7,Tunez,24,7,Ali Abdi,base,54-55
+487,TUN8,Tunez,24,8,Dylan Bronn,base,54-55
+488,TUN9,Tunez,24,9,Ellyes Skhiri,base,54-55
+489,TUN10,Tunez,24,10,Aïssa Laïdouni,base,54-55
+490,TUN11,Tunez,24,11,Ferjani Sassi,base,54-55
+491,TUN12,Tunez,24,12,Mohamed Ali Ben Romdhane,base,54-55
+492,TUN13,Tunez,24,13,Foto equipo,base,54-55
+493,TUN14,Tunez,24,14,Hannibal Mejbri,base,54-55
+494,TUN15,Tunez,24,15,Elias Achouri,base,54-55
+495,TUN16,Tunez,24,16,Elias Saad,base,54-55
+496,TUN17,Tunez,24,17,Hazem Mastouri,base,54-55
+497,TUN18,Tunez,24,18,Ismael Gharbi,base,54-55
+498,TUN19,Tunez,24,19,Sayfallah Ltaief,base,54-55
+499,TUN20,Tunez,24,20,Naïm Sliti,base,54-55
+500,BEL1,Belgica,25,1,Escudo (foil),T2,58-59
+501,BEL2,Belgica,25,2,Thibaut Courtois,base,58-59
+502,BEL3,Belgica,25,3,Arthur Theate,base,58-59
+503,BEL4,Belgica,25,4,Timothy Castagne,base,58-59
+504,BEL5,Belgica,25,5,Zeno Debast,base,58-59
+505,BEL6,Belgica,25,6,Brandon Mechele,base,58-59
+506,BEL7,Belgica,25,7,Maxim De Cuyper,base,58-59
+507,BEL8,Belgica,25,8,Thomas Meunier,base,58-59
+508,BEL9,Belgica,25,9,Youri Tielemans,base,58-59
+509,BEL10,Belgica,25,10,Amadou Onana,base,58-59
+510,BEL11,Belgica,25,11,Nicolas Raskin,base,58-59
+511,BEL12,Belgica,25,12,Alexis Saelemaekers,base,58-59
+512,BEL13,Belgica,25,13,Foto equipo,base,58-59
+513,BEL14,Belgica,25,14,Hans Vanaken,base,58-59
+514,BEL15,Belgica,25,15,Kevin De Bruyne,base,58-59
+515,BEL16,Belgica,25,16,Jérémy Doku,base,58-59
+516,BEL17,Belgica,25,17,Charles De Ketelaere,base,58-59
+517,BEL18,Belgica,25,18,Leandro Trossard,base,58-59
+518,BEL19,Belgica,25,19,Loïs Openda,base,58-59
+519,BEL20,Belgica,25,20,Romelu Lukaku,base,58-59
+520,EGY1,Egipto,26,1,Escudo (foil),T2,60-61
+521,EGY2,Egipto,26,2,Mohamed El Shenawy,base,60-61
+522,EGY3,Egipto,26,3,Mohamed Hany,base,60-61
+523,EGY4,Egipto,26,4,Mohamed Hamdy,base,60-61
+524,EGY5,Egipto,26,5,Yasser Ibrahim,base,60-61
+525,EGY6,Egipto,26,6,Khaled Sobhi,base,60-61
+526,EGY7,Egipto,26,7,Ramy Rabia,base,60-61
+527,EGY8,Egipto,26,8,Hossam Abdelmaguid,base,60-61
+528,EGY9,Egipto,26,9,Ahmed Fatouh,base,60-61
+529,EGY10,Egipto,26,10,Marwan Attia,base,60-61
+530,EGY11,Egipto,26,11,Zizo,base,60-61
+531,EGY12,Egipto,26,12,Hamdy Fathy,base,60-61
+532,EGY13,Egipto,26,13,Foto equipo,base,60-61
+533,EGY14,Egipto,26,14,Mohamed Lasheen,base,60-61
+534,EGY15,Egipto,26,15,Emam Ashour,base,60-61
+535,EGY16,Egipto,26,16,Osama Faisal,base,60-61
+536,EGY17,Egipto,26,17,Mohamed Salah,T3,60-61
+537,EGY18,Egipto,26,18,Mostafa Mohamed,base,60-61
+538,EGY19,Egipto,26,19,Trezeguet,base,60-61
+539,EGY20,Egipto,26,20,Omar Marmoush,base,60-61
+540,IRN1,Iran,27,1,Escudo (foil),T2,62-63
+541,IRN2,Iran,27,2,Alireza Beiranvand,base,62-63
+542,IRN3,Iran,27,3,Morteza Pouraliganji,base,62-63
+543,IRN4,Iran,27,4,Ehsan Hajsafi,base,62-63
+544,IRN5,Iran,27,5,Milad Mohammadi,base,62-63
+545,IRN6,Iran,27,6,Shojae Khalilzadeh,base,62-63
+546,IRN7,Iran,27,7,Ramin Rezaeian,base,62-63
+547,IRN8,Iran,27,8,Hossein Kanaani,base,62-63
+548,IRN9,Iran,27,9,Sadegh Moharrami,base,62-63
+549,IRN10,Iran,27,10,Saleh Hardani,base,62-63
+550,IRN11,Iran,27,11,Saeed Ezatolahi,base,62-63
+551,IRN12,Iran,27,12,Saman Ghoddos,base,62-63
+552,IRN13,Iran,27,13,Foto equipo,base,62-63
+553,IRN14,Iran,27,14,Omid Noorafkan,base,62-63
+554,IRN15,Iran,27,15,Roozbeh Cheshmi,base,62-63
+555,IRN16,Iran,27,16,Mohammad Mohebi,base,62-63
+556,IRN17,Iran,27,17,Sardar Azmoun,base,62-63
+557,IRN18,Iran,27,18,Mehdi Taremi,base,62-63
+558,IRN19,Iran,27,19,Alireza Jahanbakhsh,base,62-63
+559,IRN20,Iran,27,20,Ali Gholizadeh,base,62-63
+560,NZL1,Nueva Zelanda,28,1,Escudo (foil),T2,64-65
+561,NZL2,Nueva Zelanda,28,2,Max Crocombe,base,64-65
+562,NZL3,Nueva Zelanda,28,3,Alex Paulsen,base,64-65
+563,NZL4,Nueva Zelanda,28,4,Michael Boxall,base,64-65
+564,NZL5,Nueva Zelanda,28,5,Liberato Cacace,base,64-65
+565,NZL6,Nueva Zelanda,28,6,Tim Payne,base,64-65
+566,NZL7,Nueva Zelanda,28,7,Tyler Bindon,base,64-65
+567,NZL8,Nueva Zelanda,28,8,Francis de Vries,base,64-65
+568,NZL9,Nueva Zelanda,28,9,Finn Surman,base,64-65
+569,NZL10,Nueva Zelanda,28,10,Joe Bell,base,64-65
+570,NZL11,Nueva Zelanda,28,11,Sarpreet Singh,base,64-65
+571,NZL12,Nueva Zelanda,28,12,Ryan Thomas,base,64-65
+572,NZL13,Nueva Zelanda,28,13,Foto equipo,base,64-65
+573,NZL14,Nueva Zelanda,28,14,Matthew Garbett,base,64-65
+574,NZL15,Nueva Zelanda,28,15,Marko Stamenić,base,64-65
+575,NZL16,Nueva Zelanda,28,16,Ben Old,base,64-65
+576,NZL17,Nueva Zelanda,28,17,Chris Wood,base,64-65
+577,NZL18,Nueva Zelanda,28,18,Elijah Just,base,64-65
+578,NZL19,Nueva Zelanda,28,19,Callum McCowatt,base,64-65
+579,NZL20,Nueva Zelanda,28,20,Kosta Barbarouses,base,64-65
+580,ESP1,Espana,29,1,Escudo (foil),T2,66-67
+581,ESP2,Espana,29,2,Unai Simón,base,66-67
+582,ESP3,Espana,29,3,Robin Le Normand,base,66-67
+583,ESP4,Espana,29,4,Aymeric Laporte,base,66-67
+584,ESP5,Espana,29,5,Dean Huijsen,base,66-67
+585,ESP6,Espana,29,6,Pedro Porro,base,66-67
+586,ESP7,Espana,29,7,Dani Carvajal,base,66-67
+587,ESP8,Espana,29,8,Marc Cucurella,base,66-67
+588,ESP9,Espana,29,9,Martín Zubimendi,base,66-67
+589,ESP10,Espana,29,10,Rodri,base,66-67
+590,ESP11,Espana,29,11,Pedri,base,66-67
+591,ESP12,Espana,29,12,Fabián Ruiz,base,66-67
+592,ESP13,Espana,29,13,Foto equipo,base,66-67
+593,ESP14,Espana,29,14,Mikel Merino,base,66-67
+594,ESP15,Espana,29,15,Lamine Yamal,T3,66-67
+595,ESP16,Espana,29,16,Dani Olmo,base,66-67
+596,ESP17,Espana,29,17,Nico Williams,base,66-67
+597,ESP18,Espana,29,18,Ferran Torres,base,66-67
+598,ESP19,Espana,29,19,Álvaro Morata,base,66-67
+599,ESP20,Espana,29,20,Mikel Oyarzabal,base,66-67
+600,CPV1,Cabo Verde,30,1,Escudo (foil),T2,68-69
+601,CPV2,Cabo Verde,30,2,Vozinha,base,68-69
+602,CPV3,Cabo Verde,30,3,Logan Costa,base,68-69
+603,CPV4,Cabo Verde,30,4,Pico,base,68-69
+604,CPV5,Cabo Verde,30,5,Diney,base,68-69
+605,CPV6,Cabo Verde,30,6,Steven Moreira,base,68-69
+606,CPV7,Cabo Verde,30,7,Wagner Pina,base,68-69
+607,CPV8,Cabo Verde,30,8,João Paulo,base,68-69
+608,CPV9,Cabo Verde,30,9,Yannick Semedo,base,68-69
+609,CPV10,Cabo Verde,30,10,Kevin Pina,base,68-69
+610,CPV11,Cabo Verde,30,11,Patrick Andrade,base,68-69
+611,CPV12,Cabo Verde,30,12,Jamiro Monteiro,base,68-69
+612,CPV13,Cabo Verde,30,13,Foto equipo,base,68-69
+613,CPV14,Cabo Verde,30,14,Deroy Duarte,base,68-69
+614,CPV15,Cabo Verde,30,15,Garry Rodrigues,base,68-69
+615,CPV16,Cabo Verde,30,16,Jovane Cabral,base,68-69
+616,CPV17,Cabo Verde,30,17,Ryan Mendes,base,68-69
+617,CPV18,Cabo Verde,30,18,Dailon Livramento,base,68-69
+618,CPV19,Cabo Verde,30,19,Willy Semedo,base,68-69
+619,CPV20,Cabo Verde,30,20,Bebé,base,68-69
+620,KSA1,Arabia Saudita,31,1,Escudo (foil),T2,70-71
+621,KSA2,Arabia Saudita,31,2,Nawaf Alaqidi,base,70-71
+622,KSA3,Arabia Saudita,31,3,Abdulrahman Al-Sanbi,base,70-71
+623,KSA4,Arabia Saudita,31,4,Saud Abdulhamid,base,70-71
+624,KSA5,Arabia Saudita,31,5,Nawaf Bouwashl,base,70-71
+625,KSA6,Arabia Saudita,31,6,Jihad Thakri,base,70-71
+626,KSA7,Arabia Saudita,31,7,Moteb Al-Harbi,base,70-71
+627,KSA8,Arabia Saudita,31,8,Hassan Altambakti,base,70-71
+628,KSA9,Arabia Saudita,31,9,Musab Aljuwayr,base,70-71
+629,KSA10,Arabia Saudita,31,10,Ziyad Aljohani,base,70-71
+630,KSA11,Arabia Saudita,31,11,Abdullah Alkhaibari,base,70-71
+631,KSA12,Arabia Saudita,31,12,Nasser Aldawsari,base,70-71
+632,KSA13,Arabia Saudita,31,13,Foto equipo,base,70-71
+633,KSA14,Arabia Saudita,31,14,Saleh Abu Alshamat,base,70-71
+634,KSA15,Arabia Saudita,31,15,Marwan Alsahafi,base,70-71
+635,KSA16,Arabia Saudita,31,16,Salem Aldawsari,base,70-71
+636,KSA17,Arabia Saudita,31,17,Abdulrahman Al-Aboud,base,70-71
+637,KSA18,Arabia Saudita,31,18,Feras Akbrikan,base,70-71
+638,KSA19,Arabia Saudita,31,19,Saleh Alshehri,base,70-71
+639,KSA20,Arabia Saudita,31,20,Abdullah Al-Hamdan,base,70-71
+640,URU1,Uruguay,32,1,Escudo (foil),T2,72-73
+641,URU2,Uruguay,32,2,Sergio Rochet,base,72-73
+642,URU3,Uruguay,32,3,Santiago Mele,base,72-73
+643,URU4,Uruguay,32,4,Ronald Araújo,base,72-73
+644,URU5,Uruguay,32,5,José María Giménez,base,72-73
+645,URU6,Uruguay,32,6,Sebastián Cáceres,base,72-73
+646,URU7,Uruguay,32,7,Mathías Olivera,base,72-73
+647,URU8,Uruguay,32,8,Guillermo Varela,base,72-73
+648,URU9,Uruguay,32,9,Nahitan Nández,base,72-73
+649,URU10,Uruguay,32,10,Federico Valverde,base,72-73
+650,URU11,Uruguay,32,11,Giorgian De Arrascaeta,base,72-73
+651,URU12,Uruguay,32,12,Rodrigo Bentancur,base,72-73
+652,URU13,Uruguay,32,13,Foto equipo,base,72-73
+653,URU14,Uruguay,32,14,Manuel Ugarte,base,72-73
+654,URU15,Uruguay,32,15,Nicolás de la Cruz,base,72-73
+655,URU16,Uruguay,32,16,Maxi Araújo,base,72-73
+656,URU17,Uruguay,32,17,Darwin Núñez,base,72-73
+657,URU18,Uruguay,32,18,Federico Viñas,base,72-73
+658,URU19,Uruguay,32,19,Rodrigo Aguirre,base,72-73
+659,URU20,Uruguay,32,20,Facundo Pellistri,base,72-73
+660,FRA1,Francia,33,1,Escudo (foil),T2,74-75
+661,FRA2,Francia,33,2,Mike Maignan,base,74-75
+662,FRA3,Francia,33,3,Theo Hernández,base,74-75
+663,FRA4,Francia,33,4,William Saliba,base,74-75
+664,FRA5,Francia,33,5,Jules Koundé,base,74-75
+665,FRA6,Francia,33,6,Ibrahima Konaté,base,74-75
+666,FRA7,Francia,33,7,Dayot Upamecano,base,74-75
+667,FRA8,Francia,33,8,Lucas Digne,base,74-75
+668,FRA9,Francia,33,9,Aurélien Tchouaméni,base,74-75
+669,FRA10,Francia,33,10,Eduardo Camavinga,base,74-75
+670,FRA11,Francia,33,11,Manu Koné,base,74-75
+671,FRA12,Francia,33,12,Adrien Rabiot,base,74-75
+672,FRA13,Francia,33,13,Foto equipo,base,74-75
+673,FRA14,Francia,33,14,Michael Olise,base,74-75
+674,FRA15,Francia,33,15,Ousmane Dembélé,base,74-75
+675,FRA16,Francia,33,16,Bradley Barcola,base,74-75
+676,FRA17,Francia,33,17,Désiré Doué,base,74-75
+677,FRA18,Francia,33,18,Kingsley Coman,base,74-75
+678,FRA19,Francia,33,19,Hugo Ekitike,base,74-75
+679,FRA20,Francia,33,20,Kylian Mbappé,T3,74-75
+680,SEN1,Senegal,34,1,Escudo (foil),T2,76-77
+681,SEN2,Senegal,34,2,Édouard Mendy,base,76-77
+682,SEN3,Senegal,34,3,Yehvann Diouf,base,76-77
+683,SEN4,Senegal,34,4,Moussa Niakhaté,base,76-77
+684,SEN5,Senegal,34,5,Abdoulaye Seck,base,76-77
+685,SEN6,Senegal,34,6,Ismail Jakobs,base,76-77
+686,SEN7,Senegal,34,7,El Hadji Malick Diouf,base,76-77
+687,SEN8,Senegal,34,8,Kalidou Koulibaly,base,76-77
+688,SEN9,Senegal,34,9,Idrissa Gana Gueye,base,76-77
+689,SEN10,Senegal,34,10,Pape Matar Sarr,base,76-77
+690,SEN11,Senegal,34,11,Pape Gueye,base,76-77
+691,SEN12,Senegal,34,12,Habib Diarra,base,76-77
+692,SEN13,Senegal,34,13,Foto equipo,base,76-77
+693,SEN14,Senegal,34,14,Lamine Camara,base,76-77
+694,SEN15,Senegal,34,15,Sadio Mané,base,76-77
+695,SEN16,Senegal,34,16,Ismaïla Sarr,base,76-77
+696,SEN17,Senegal,34,17,Boulaye Dia,base,76-77
+697,SEN18,Senegal,34,18,Iliman Ndiaye,base,76-77
+698,SEN19,Senegal,34,19,Nicolas Jackson,base,76-77
+699,SEN20,Senegal,34,20,Krépin Diatta,base,76-77
+700,IRQ1,Irak,35,1,Escudo (foil),T2,78-79
+701,IRQ2,Irak,35,2,Jalal Hassan,base,78-79
+702,IRQ3,Irak,35,3,Rebin Sulaka,base,78-79
+703,IRQ4,Irak,35,4,Hussein Ali,base,78-79
+704,IRQ5,Irak,35,5,Akam Hashem,base,78-79
+705,IRQ6,Irak,35,6,Merchas Doski,base,78-79
+706,IRQ7,Irak,35,7,Zaid Tahseen,base,78-79
+707,IRQ8,Irak,35,8,Manaf Younis,base,78-79
+708,IRQ9,Irak,35,9,Zidane Iqbal,base,78-79
+709,IRQ10,Irak,35,10,Amir Al-Ammari,base,78-79
+710,IRQ11,Irak,35,11,Ibrahim Bayesh,base,78-79
+711,IRQ12,Irak,35,12,Ali Jasim,base,78-79
+712,IRQ13,Irak,35,13,Foto equipo,base,78-79
+713,IRQ14,Irak,35,14,Youssef Amyn,base,78-79
+714,IRQ15,Irak,35,15,Aymar Sher,base,78-79
+715,IRQ16,Irak,35,16,Marko Farji,base,78-79
+716,IRQ17,Irak,35,17,Osama Rashid,base,78-79
+717,IRQ18,Irak,35,18,Ali Al-Hamadi,base,78-79
+718,IRQ19,Irak,35,19,Aymen Hussein,base,78-79
+719,IRQ20,Irak,35,20,Mohanad Ali,base,78-79
+720,NOR1,Noruega,36,1,Escudo (foil),T2,80-81
+721,NOR2,Noruega,36,2,Ørjan Nyland,base,80-81
+722,NOR3,Noruega,36,3,Julian Ryerson,base,80-81
+723,NOR4,Noruega,36,4,Leo Østigård,base,80-81
+724,NOR5,Noruega,36,5,Kristoffer Vassbakk Ajer,base,80-81
+725,NOR6,Noruega,36,6,Marcus Holmgren Pedersen,base,80-81
+726,NOR7,Noruega,36,7,David Møller Wolfe,base,80-81
+727,NOR8,Noruega,36,8,Torbjørn Heggem,base,80-81
+728,NOR9,Noruega,36,9,Morten Thorsby,base,80-81
+729,NOR10,Noruega,36,10,Martin Ødegaard,base,80-81
+730,NOR11,Noruega,36,11,Sander Berge,base,80-81
+731,NOR12,Noruega,36,12,Andreas Schjelderup,base,80-81
+732,NOR13,Noruega,36,13,Foto equipo,base,80-81
+733,NOR14,Noruega,36,14,Patrick Berg,base,80-81
+734,NOR15,Noruega,36,15,Erling Haaland,T3,80-81
+735,NOR16,Noruega,36,16,Alexander Sørloth,base,80-81
+736,NOR17,Noruega,36,17,Aron Dønnum,base,80-81
+737,NOR18,Noruega,36,18,Jørgen Strand Larsen,base,80-81
+738,NOR19,Noruega,36,19,Antonio Nusa,base,80-81
+739,NOR20,Noruega,36,20,Oscar Bobb,base,80-81
+740,ARG1,Argentina,37,1,Escudo (foil),T2,82-83
+741,ARG2,Argentina,37,2,Emiliano Martínez,base,82-83
+742,ARG3,Argentina,37,3,Nahuel Molina,base,82-83
+743,ARG4,Argentina,37,4,Cristian Romero,base,82-83
+744,ARG5,Argentina,37,5,Nicolás Otamendi,base,82-83
+745,ARG6,Argentina,37,6,Nicolás Tagliafico,base,82-83
+746,ARG7,Argentina,37,7,Leonardo Balerdi,base,82-83
+747,ARG8,Argentina,37,8,Enzo Fernández,base,82-83
+748,ARG9,Argentina,37,9,Alexis Mac Allister,base,82-83
+749,ARG10,Argentina,37,10,Rodrigo De Paul,base,82-83
+750,ARG11,Argentina,37,11,Exequiel Palacios,base,82-83
+751,ARG12,Argentina,37,12,Leandro Paredes,base,82-83
+752,ARG13,Argentina,37,13,Foto equipo,base,82-83
+753,ARG14,Argentina,37,14,Nico Paz,base,82-83
+754,ARG15,Argentina,37,15,Franco Mastantuono,base,82-83
+755,ARG16,Argentina,37,16,Nico González,base,82-83
+756,ARG17,Argentina,37,17,Lionel Messi,T3,82-83
+757,ARG18,Argentina,37,18,Lautaro Martínez,base,82-83
+758,ARG19,Argentina,37,19,Julián Álvarez,base,82-83
+759,ARG20,Argentina,37,20,Giuliano Simeone,base,82-83
+760,ALG1,Argelia,38,1,Escudo (foil),T2,84-85
+761,ALG2,Argelia,38,2,Alexis Guendouz,base,84-85
+762,ALG3,Argelia,38,3,Ramy Bensebaini,base,84-85
+763,ALG4,Argelia,38,4,Youcef Atal,base,84-85
+764,ALG5,Argelia,38,5,Rayan Aït-Nouri,base,84-85
+765,ALG6,Argelia,38,6,Mohamed Amine Tougai,base,84-85
+766,ALG7,Argelia,38,7,Aïssa Mandi,base,84-85
+767,ALG8,Argelia,38,8,Ismaël Bennacer,base,84-85
+768,ALG9,Argelia,38,9,Houssem Aouar,base,84-85
+769,ALG10,Argelia,38,10,Hicham Boudaoui,base,84-85
+770,ALG11,Argelia,38,11,Ramiz Zerrouki,base,84-85
+771,ALG12,Argelia,38,12,Nabil Bentaleb,base,84-85
+772,ALG13,Argelia,38,13,Foto equipo,base,84-85
+773,ALG14,Argelia,38,14,Farès Chaïbi,base,84-85
+774,ALG15,Argelia,38,15,Riyad Mahrez,base,84-85
+775,ALG16,Argelia,38,16,Saïd Benrahma,base,84-85
+776,ALG17,Argelia,38,17,Anis Hadj Moussa,base,84-85
+777,ALG18,Argelia,38,18,Amine Gouiri,base,84-85
+778,ALG19,Argelia,38,19,Baghdad Bounedjah,base,84-85
+779,ALG20,Argelia,38,20,Mohammed Amoura,base,84-85
+780,AUT1,Austria,39,1,Escudo (foil),T2,86-87
+781,AUT2,Austria,39,2,Alexander Schlager,base,86-87
+782,AUT3,Austria,39,3,Patrick Pentz,base,86-87
+783,AUT4,Austria,39,4,David Alaba,base,86-87
+784,AUT5,Austria,39,5,Kevin Danso,base,86-87
+785,AUT6,Austria,39,6,Philipp Lienhart,base,86-87
+786,AUT7,Austria,39,7,Stefan Posch,base,86-87
+787,AUT8,Austria,39,8,Phillipp Mwene,base,86-87
+788,AUT9,Austria,39,9,Alexander Prass,base,86-87
+789,AUT10,Austria,39,10,Xaver Schlager,base,86-87
+790,AUT11,Austria,39,11,Marcel Sabitzer,base,86-87
+791,AUT12,Austria,39,12,Konrad Laimer,base,86-87
+792,AUT13,Austria,39,13,Foto equipo,base,86-87
+793,AUT14,Austria,39,14,Florian Grillitsch,base,86-87
+794,AUT15,Austria,39,15,Nicolas Seiwald,base,86-87
+795,AUT16,Austria,39,16,Romano Schmid,base,86-87
+796,AUT17,Austria,39,17,Patrick Wimmer,base,86-87
+797,AUT18,Austria,39,18,Christoph Baumgartner,base,86-87
+798,AUT19,Austria,39,19,Michael Gregoritsch,base,86-87
+799,AUT20,Austria,39,20,Marko Arnautović,base,86-87
+800,JOR1,Jordania,40,1,Escudo (foil),T2,88-89
+801,JOR2,Jordania,40,2,Yazeed Abulaila,base,88-89
+802,JOR3,Jordania,40,3,Ihsan Haddad,base,88-89
+803,JOR4,Jordania,40,4,Mohammad Abu Hashish,base,88-89
+804,JOR5,Jordania,40,5,Yazan Al-Arab,base,88-89
+805,JOR6,Jordania,40,6,Abdallah Nasib,base,88-89
+806,JOR7,Jordania,40,7,Saleem Obaid,base,88-89
+807,JOR8,Jordania,40,8,Mohammad Abualnadi,base,88-89
+808,JOR9,Jordania,40,9,Ibrahim Saadeh,base,88-89
+809,JOR10,Jordania,40,10,Nizar Al-Rashdan,base,88-89
+810,JOR11,Jordania,40,11,Noor Al-Rawabdeh,base,88-89
+811,JOR12,Jordania,40,12,Mohannad Abu Taha,base,88-89
+812,JOR13,Jordania,40,13,Foto equipo,base,88-89
+813,JOR14,Jordania,40,14,Amer Jamous,base,88-89
+814,JOR15,Jordania,40,15,Musa Al-Taamari,base,88-89
+815,JOR16,Jordania,40,16,Yazan Al-Naimat,base,88-89
+816,JOR17,Jordania,40,17,Mahmoud Al-Mardi,base,88-89
+817,JOR18,Jordania,40,18,Ali Olwan,base,88-89
+818,JOR19,Jordania,40,19,Mohammad Abu Zrayq,base,88-89
+819,JOR20,Jordania,40,20,Ibrahim Sabra,base,88-89
+820,POR1,Portugal,41,1,Escudo (foil),T2,90-91
+821,POR2,Portugal,41,2,Diogo Costa,base,90-91
+822,POR3,Portugal,41,3,José Sá,base,90-91
+823,POR4,Portugal,41,4,Rúben Dias,base,90-91
+824,POR5,Portugal,41,5,João Cancelo,base,90-91
+825,POR6,Portugal,41,6,Diogo Dalot,base,90-91
+826,POR7,Portugal,41,7,Nuno Mendes,base,90-91
+827,POR8,Portugal,41,8,Gonçalo Inácio,base,90-91
+828,POR9,Portugal,41,9,Bernardo Silva,base,90-91
+829,POR10,Portugal,41,10,Bruno Fernandes,base,90-91
+830,POR11,Portugal,41,11,Rúben Neves,base,90-91
+831,POR12,Portugal,41,12,Vitinha,base,90-91
+832,POR13,Portugal,41,13,Foto equipo,base,90-91
+833,POR14,Portugal,41,14,João Neves,base,90-91
+834,POR15,Portugal,41,15,Cristiano Ronaldo,T3,90-91
+835,POR16,Portugal,41,16,Francisco Trincão,base,90-91
+836,POR17,Portugal,41,17,João Félix,base,90-91
+837,POR18,Portugal,41,18,Gonçalo Ramos,base,90-91
+838,POR19,Portugal,41,19,Pedro Neto,base,90-91
+839,POR20,Portugal,41,20,Rafael Leão,base,90-91
+840,COD1,RD Congo,42,1,Escudo (foil),T2,92-93
+841,COD2,RD Congo,42,2,Lionel Mpasi,base,92-93
+842,COD3,RD Congo,42,3,Aaron Wan-Bissaka,base,92-93
+843,COD4,RD Congo,42,4,Axel Tuanzebe,base,92-93
+844,COD5,RD Congo,42,5,Arthur Masuaku,base,92-93
+845,COD6,RD Congo,42,6,Chancel Mbemba,base,92-93
+846,COD7,RD Congo,42,7,Joris Kayembe,base,92-93
+847,COD8,RD Congo,42,8,Charles Pickel,base,92-93
+848,COD9,RD Congo,42,9,Ngal'ayel Mukau,base,92-93
+849,COD10,RD Congo,42,10,Edo Kayembe,base,92-93
+850,COD11,RD Congo,42,11,Samuel Moutoussamy,base,92-93
+851,COD12,RD Congo,42,12,Noah Sadiki,base,92-93
+852,COD13,RD Congo,42,13,Foto equipo,base,92-93
+853,COD14,RD Congo,42,14,Théo Bongonda,base,92-93
+854,COD15,RD Congo,42,15,Meschak Elia,base,92-93
+855,COD16,RD Congo,42,16,Yoane Wissa,base,92-93
+856,COD17,RD Congo,42,17,Brian Cipenga,base,92-93
+857,COD18,RD Congo,42,18,Fiston Mayele,base,92-93
+858,COD19,RD Congo,42,19,Cédric Bakambu,base,92-93
+859,COD20,RD Congo,42,20,Nathanaël Mbuku,base,92-93
+860,UZB1,Uzbekistan,43,1,Escudo (foil),T2,94-95
+861,UZB2,Uzbekistan,43,2,Utkir Yusupov,base,94-95
+862,UZB3,Uzbekistan,43,3,Farrukh Sayfiev,base,94-95
+863,UZB4,Uzbekistan,43,4,Sherzod Nasrullaev,base,94-95
+864,UZB5,Uzbekistan,43,5,Umar Eshmurodov,base,94-95
+865,UZB6,Uzbekistan,43,6,Husniddin Aliqulov,base,94-95
+866,UZB7,Uzbekistan,43,7,Rustamjon Ashurmatov,base,94-95
+867,UZB8,Uzbekistan,43,8,Khojiakbar Alijonov,base,94-95
+868,UZB9,Uzbekistan,43,9,Abdukodir Khusanov,base,94-95
+869,UZB10,Uzbekistan,43,10,Odiljon Hamrobekov,base,94-95
+870,UZB11,Uzbekistan,43,11,Otabek Shukurov,base,94-95
+871,UZB12,Uzbekistan,43,12,Jamshid Iskanderov,base,94-95
+872,UZB13,Uzbekistan,43,13,Foto equipo,base,94-95
+873,UZB14,Uzbekistan,43,14,Azizbek Turgunboev,base,94-95
+874,UZB15,Uzbekistan,43,15,Khojimat Erkinov,base,94-95
+875,UZB16,Uzbekistan,43,16,Eldor Shomurodov,base,94-95
+876,UZB17,Uzbekistan,43,17,Oston Urunov,base,94-95
+877,UZB18,Uzbekistan,43,18,Jaloliddin Masharipov,base,94-95
+878,UZB19,Uzbekistan,43,19,Igor Sergeev,base,94-95
+879,UZB20,Uzbekistan,43,20,Abbosbek Fayzullaev,base,94-95
+880,COL1,Colombia,44,1,Escudo (foil),T2,96-97
+881,COL2,Colombia,44,2,Camilo Vargas,base,96-97
+882,COL3,Colombia,44,3,David Ospina,base,96-97
+883,COL4,Colombia,44,4,Dávinson Sánchez,base,96-97
+884,COL5,Colombia,44,5,Yerry Mina,base,96-97
+885,COL6,Colombia,44,6,Daniel Muñoz,base,96-97
+886,COL7,Colombia,44,7,Johan Mojica,base,96-97
+887,COL8,Colombia,44,8,Jhon Lucumí,base,96-97
+888,COL9,Colombia,44,9,Santiago Arias,base,96-97
+889,COL10,Colombia,44,10,Jefferson Lerma,base,96-97
+890,COL11,Colombia,44,11,Kevin Castaño,base,96-97
+891,COL12,Colombia,44,12,Richard Ríos,base,96-97
+892,COL13,Colombia,44,13,Foto equipo,base,96-97
+893,COL14,Colombia,44,14,James Rodríguez,base,96-97
+894,COL15,Colombia,44,15,Juan Fernando Quintero,base,96-97
+895,COL16,Colombia,44,16,Jorge Carrascal,base,96-97
+896,COL17,Colombia,44,17,Jhon Arias,base,96-97
+897,COL18,Colombia,44,18,Jhon Córdoba,base,96-97
+898,COL19,Colombia,44,19,Luis Suárez,base,96-97
+899,COL20,Colombia,44,20,Luis Díaz,base,96-97
+900,ENG1,Inglaterra,45,1,Escudo (foil),T2,98-99
+901,ENG2,Inglaterra,45,2,Jordan Pickford,base,98-99
+902,ENG3,Inglaterra,45,3,John Stones,base,98-99
+903,ENG4,Inglaterra,45,4,Marc Guéhi,base,98-99
+904,ENG5,Inglaterra,45,5,Ezri Konsa,base,98-99
+905,ENG6,Inglaterra,45,6,Trent Alexander-Arnold,base,98-99
+906,ENG7,Inglaterra,45,7,Reece James,base,98-99
+907,ENG8,Inglaterra,45,8,Dan Burn,base,98-99
+908,ENG9,Inglaterra,45,9,Jordan Henderson,base,98-99
+909,ENG10,Inglaterra,45,10,Declan Rice,base,98-99
+910,ENG11,Inglaterra,45,11,Jude Bellingham,T3,98-99
+911,ENG12,Inglaterra,45,12,Cole Palmer,base,98-99
+912,ENG13,Inglaterra,45,13,Foto equipo,base,98-99
+913,ENG14,Inglaterra,45,14,Morgan Rogers,base,98-99
+914,ENG15,Inglaterra,45,15,Anthony Gordon,base,98-99
+915,ENG16,Inglaterra,45,16,Phil Foden,base,98-99
+916,ENG17,Inglaterra,45,17,Bukayo Saka,base,98-99
+917,ENG18,Inglaterra,45,18,Harry Kane,T3,98-99
+918,ENG19,Inglaterra,45,19,Marcus Rashford,base,98-99
+919,ENG20,Inglaterra,45,20,Ollie Watkins,base,98-99
+920,CRO1,Croacia,46,1,Escudo (foil),T2,100-101
+921,CRO2,Croacia,46,2,Dominik Livaković,base,100-101
+922,CRO3,Croacia,46,3,Duje Ćaleta-Car,base,100-101
+923,CRO4,Croacia,46,4,Joško Gvardiol,base,100-101
+924,CRO5,Croacia,46,5,Josip Stanišić,base,100-101
+925,CRO6,Croacia,46,6,Luka Vušković,base,100-101
+926,CRO7,Croacia,46,7,Josip Šutalo,base,100-101
+927,CRO8,Croacia,46,8,Kristijan Jakić,base,100-101
+928,CRO9,Croacia,46,9,Luka Modrić,base,100-101
+929,CRO10,Croacia,46,10,Mateo Kovačić,base,100-101
+930,CRO11,Croacia,46,11,Martin Baturina,base,100-101
+931,CRO12,Croacia,46,12,Lovro Majer,base,100-101
+932,CRO13,Croacia,46,13,Foto equipo,base,100-101
+933,CRO14,Croacia,46,14,Mario Pašalić,base,100-101
+934,CRO15,Croacia,46,15,Petar Sučić,base,100-101
+935,CRO16,Croacia,46,16,Ivan Perišić,base,100-101
+936,CRO17,Croacia,46,17,Marco Pašalić,base,100-101
+937,CRO18,Croacia,46,18,Ante Budimir,base,100-101
+938,CRO19,Croacia,46,19,Andrej Kramarić,base,100-101
+939,CRO20,Croacia,46,20,Franjo Ivanović,base,100-101
+940,GHA1,Ghana,47,1,Escudo (foil),T2,102-103
+941,GHA2,Ghana,47,2,Lawrence Ati Zigi,base,102-103
+942,GHA3,Ghana,47,3,Tariq Lamptey,base,102-103
+943,GHA4,Ghana,47,4,Mohammed Salisu,base,102-103
+944,GHA5,Ghana,47,5,Alidu Seidu,base,102-103
+945,GHA6,Ghana,47,6,Alexander Djiku,base,102-103
+946,GHA7,Ghana,47,7,Gideon Mensah,base,102-103
+947,GHA8,Ghana,47,8,Caleb Yirenkyi,base,102-103
+948,GHA9,Ghana,47,9,Abdul Fatawu Issahaku,base,102-103
+949,GHA10,Ghana,47,10,Thomas Partey,base,102-103
+950,GHA11,Ghana,47,11,Salis Abdul Samed,base,102-103
+951,GHA12,Ghana,47,12,Kamaldeen Sulemana,base,102-103
+952,GHA13,Ghana,47,13,Foto equipo,base,102-103
+953,GHA14,Ghana,47,14,Mohammed Kudus,base,102-103
+954,GHA15,Ghana,47,15,Iñaki Williams,base,102-103
+955,GHA16,Ghana,47,16,Jordan Ayew,base,102-103
+956,GHA17,Ghana,47,17,André Ayew,base,102-103
+957,GHA18,Ghana,47,18,Joseph Paintsil,base,102-103
+958,GHA19,Ghana,47,19,Osman Bukari,base,102-103
+959,GHA20,Ghana,47,20,Antoine Semenyo,base,102-103
+960,PAN1,Panama,48,1,Escudo (foil),T2,104-105
+961,PAN2,Panama,48,2,Orlando Mosquera,base,104-105
+962,PAN3,Panama,48,3,Luis Mejía,base,104-105
+963,PAN4,Panama,48,4,Fidel Escobar,base,104-105
+964,PAN5,Panama,48,5,Andrés Andrade,base,104-105
+965,PAN6,Panama,48,6,Michael Amir Murillo,base,104-105
+966,PAN7,Panama,48,7,Eric Davis,base,104-105
+967,PAN8,Panama,48,8,José Córdoba,base,104-105
+968,PAN9,Panama,48,9,César Blackman,base,104-105
+969,PAN10,Panama,48,10,Cristian Martínez,base,104-105
+970,PAN11,Panama,48,11,Aníbal Godoy,base,104-105
+971,PAN12,Panama,48,12,Adalberto Carrasquilla,base,104-105
+972,PAN13,Panama,48,13,Foto equipo,base,104-105
+973,PAN14,Panama,48,14,Édgar Bárcenas,base,104-105
+974,PAN15,Panama,48,15,Carlos Harvey,base,104-105
+975,PAN16,Panama,48,16,Ismael Díaz,base,104-105
+976,PAN17,Panama,48,17,José Fajardo,base,104-105
+977,PAN18,Panama,48,18,Cecilio Waterman,base,104-105
+978,PAN19,Panama,48,19,José Luis Rodríguez,base,104-105
+979,PAN20,Panama,48,20,Alberto Quintero,base,104-105
