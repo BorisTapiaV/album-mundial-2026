@@ -1,7 +1,7 @@
 # Canje — Andrés Acosta
 
 > **Canje 1: ✅ CERRADO 2026-06-16** (das 13 / recibes 15). Detalle abajo.
-> **Canje 2: ✅ CERRADO 2026-06-17** (das 2 + pagas $6.000 CLP / recibes 37). Andrés aceptó. Detalle abajo.
+> **Canje 2: ✅ CERRADO 2026-06-17** (das 2 + pagas $6.000 CLP / recibes 36). Andrés aceptó. Detalle abajo. *(2026-06-18: CRO13 sacada del canje — Boris la cambió aparte → 37→36.)*
 
 ---
 
@@ -18,9 +18,9 @@
 
 > De los **56** códigos que Andrés busca, Boris solo tiene repetida de esos 2. El resto de su wantlist no lo tiene repetido (o no lo tiene). **No da para un 1:1 desde el lado de Boris.**
 
-### ➡️ Lo que Andrés ofrece y a Boris le FALTA — **37**
+### ➡️ Lo que Andrés ofrece y a Boris le FALTA — **36**
 
-Todas `falta` (ninguna perdida, ninguna estrella — base + 2 escudos foil + 5 fotos de equipo):
+Todas `falta` (ninguna perdida, ninguna estrella — base + 2 escudos foil + 4 fotos de equipo):
 
 | Código | Jugador | Nota |
 |---|---|---|
@@ -55,7 +55,6 @@ Todas `falta` (ninguna perdida, ninguna estrella — base + 2 escudos foil + 5 f
 | COD18 | Fiston Mayele | |
 | UZB5 | Umar Eshmurodov | |
 | ENG1 | Escudo (foil) | ✨ brillante |
-| CRO13 | Foto equipo | 📷 |
 | PAN4 | Fidel Escobar | |
 | PAN8 | José Córdoba | |
 | PAN11 | Aníbal Godoy | |
@@ -64,11 +63,11 @@ Todas `falta` (ninguna perdida, ninguna estrella — base + 2 escudos foil + 5 f
 
 ### Resumen canje 2
 
-- Andrés ofrece **161** repetidas; a Boris le sirven **37**.
+- Andrés ofrece **161** repetidas; a Boris le sirven **36** (CRO13 salió del canje el 18-jun).
 - Andrés busca **56**; Boris solo le cubre **2** (ENG4, ENG8).
-- **Muy desbalanceado a favor de Boris** (recibe 37, da 2) → se cerró con **pago de $6.000 CLP** por las 37 (Andrés aceptó dar las 2 que Boris le cubre + vender las 37).
+- **Muy desbalanceado a favor de Boris** (recibe 36, da 2) → se cerró con **pago de $6.000 CLP** (Andrés aceptó dar las 2 que Boris le cubre + vender el resto).
 - 🇵🇹 **POR15 Cristiano:** Andrés también lo busca y Boris no lo tiene → sin conflicto, ninguno lo ofrece.
-- ✅ **EJECUTADO 2026-06-17.** Las 37 `falta → tengo` (sueltas, pendientes de pegar); ENG4 + ENG8 bajaron 1 de repetidas (1→0, slot sigue `pegada`). **HAVE 631 → 668 (68,2%).** Pool repetidas 245 → 243. Regenerados: HTMLs (gen_print --todo), QR Figuritas (668 tengo / 243 cartas), faltantes txt+share (312), dashboard.
+- ✅ **EJECUTADO 2026-06-17.** Las `falta → tengo` (sueltas, pendientes de pegar); ENG4 + ENG8 bajaron 1 de repetidas (1→0, slot sigue `pegada`). **HAVE 631 → 667 (68,1%).** Pool repetidas 245 → 243. *(2026-06-18: CRO13 revertida a `falta` → HAVE 668→667, sueltas 73→72.)* Regenerados: HTMLs (gen_print --todo), QR Figuritas, faltantes txt+share, dashboard.
 
 ---
 
