@@ -2,7 +2,9 @@
 
 > **Repetidas de Paulo recibidas 2026-06-18.** Cruce contra el registro de Boris (estado 687/980, 70,1%).
 > Paulo ofrece **77** repetidas → a Boris le sirven **26** (25 en `falta` + 1 que recupera `perdida`). Las otras 51 Boris ya las tiene.
-> **Pendiente para cerrar el 1:1:** la wantlist de Paulo (qué le falta) para cruzar contra las repetidas de Boris (moneda: 243 cartas / 195 códigos).
+>
+> **Trato (2026-06-18): modelo Andrés — compra, NO 1:1.** Paulo **completó su álbum** → no necesita nada a cambio. Boris **compra las 26** y paga (no entrega láminas). Referencia de precio según precedente Andrés (~$167/lámina: $9.000 ÷ 54) → **~$4.300 CLP por las 26** (muy por debajo de las ~$9.100 que costarían a $350 c/u en tiendapanini.cl). Precio final a acordar con Paulo.
+> ⏳ **No ejecutado aún:** al recibir + pagar, registrar las 26 `falta/perdida → tengo` (HAVE 687 → 713, ~72,8%).
 
 ---
 
@@ -54,6 +56,6 @@
 - Paulo ofrece **77** repetidas.
 - A Boris le sirven **26** (25 en falta + 1 recupera perdida).
 - **51** ya las tiene Boris.
-- **Siguiente paso:** pedir a Paulo su wantlist → cruzar contra repetidas de Boris → cerrar canje 1:1 (o con pago, como con Andrés).
-- ⏳ Aún NO ejecutado: nada se registró todavía (es canje potencial).
+- **Trato:** Paulo completó su álbum → compra directa (modelo Andrés), Boris paga las 26 (~$4.300 CLP ref.). Sin entrega de láminas de Boris.
+- ⏳ Aún NO ejecutado: nada se registró todavía. Al recibir + pagar → registrar las 26 `falta/perdida → tengo` (HAVE 687 → 713).
 
