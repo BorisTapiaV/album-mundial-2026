@@ -255,7 +255,8 @@ def lista_intercambio(rows):
 # Codigos YA comprometidos a canje (no van en el mazo de canje libre).
 # Punto-en-el-tiempo: vaciar/editar cuando se cierren los canjes.
 #   2026-06-16: canjes Andres (13) + Jorge (AUT15) CERRADOS -> sin reservas activas.
-RESERVADAS = set()
+#   2026-06-18: 12 apartadas para Sobrina Catalina (canje abierto) -> vaciar al cerrar.
+RESERVADAS = {"USA18","AUS12","IRN16","IRN17","IRN18","IRN20","CPV12","FRA19","ARG2","AUT2","UZB1","UZB6"}
 
 
 def _oa(r):
