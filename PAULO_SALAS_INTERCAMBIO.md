@@ -4,7 +4,7 @@
 > Paulo ofrece **77** repetidas → a Boris le sirven **26** (25 en `falta` + 1 que recupera `perdida`). Las otras 51 Boris ya las tiene.
 >
 > **Trato (2026-06-18): modelo Andrés — compra, NO 1:1.** Paulo **completó su álbum** → no necesita nada a cambio. Boris **compra las 26** y paga (no entrega láminas). Referencia de precio según precedente Andrés (~$167/lámina: $9.000 ÷ 54) → **~$4.300 CLP por las 26** (muy por debajo de las ~$9.100 que costarían a $350 c/u en tiendapanini.cl). Precio final a acordar con Paulo.
-> ⏳ **No ejecutado aún:** al recibir + pagar, registrar las 26 `falta/perdida → tengo` (HAVE 687 → 713, ~72,8%).
+> ✅ **CERRADO 2026-06-19:** recibidas y **pegadas** las 26 (`falta/perdida → pegada`). HAVE 687 → **713/980 (72,8%)**. GHA10 Partey recupera perdida (perdidas 22 → 21). Brillantes 45 → 46 (FRA1 foil ✨). QR Figuritas regenerado + copiado a Downloads.
 
 ---
 
