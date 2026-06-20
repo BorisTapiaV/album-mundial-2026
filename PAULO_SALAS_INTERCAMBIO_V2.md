@@ -4,19 +4,21 @@
 **Estado:** ⏳ PENDIENTE — no ejecutado. NO tocar registro.
 **Fecha cruce:** 2026-06-19 (registro a 756/980, 77,1%)
 **Dirección:** una sola (Paulo te vende lo que te falta).
-**Referencia precio:** canje V1 fue ~$165/lámina (Andrés 2 = $9.000 / 56). 31 láminas ≈ **~$5.100 CLP** de referencia (a negociar con Paulo).
+**Referencia precio:** canje V1 fue ~$165/lámina (Andrés 2 = $9.000 / 56). 26 láminas ≈ **~$4.300 CLP** de referencia (a negociar con Paulo).
+
+> **Decisión 2026-06-19: se respetan las 19 entrantes de Marcela.** Las 5 que solapaban (COD15, CPV9, CPV14, MEX12, USA2) se toman de **Marcela**, no de Paulo. Paulo V2 baja 31→**26**.
 
 > V1 (`PAULO_SALAS_INTERCAMBIO.md`) ya cerrado (+26 el 19-jun AM). Este es un **set nuevo** de repetidas de Paulo.
 
 ---
 
-## ⬅️ Lo que te sirve de Paulo — 31
+## ⬅️ Lo que te sirve de Paulo — 26 (tras respetar las 19 de Marcela)
 
-2 recuperan `perdida` (COD15, USA2). Sin foil. Defensa de Brasil casi completa.
+Todas `falta`. Sin foil. Defensa de Brasil casi completa. (Las 2 que recuperaban perdida — COD15, USA2 — ahora vienen de Marcela.)
 
 **Códigos seguidos:**
 
-BEL18, BIH17, BRA10, BRA2, BRA3, BRA6, COD15, CPV14, CPV9, CRO5, ECU4, FRA16, GHA4, GHA8, JPN14, JPN18, KOR3, MAR19, MAR20, MEX12, MEX4, MEX5, NED20, PAN18, PAR11, PAR19, PAR20, PAR7, SCO16, USA2, UZB8
+BEL18, BIH17, BRA10, BRA2, BRA3, BRA6, CRO5, ECU4, FRA16, GHA4, GHA8, JPN14, JPN18, KOR3, MAR19, MAR20, MEX4, MEX5, NED20, PAN18, PAR11, PAR19, PAR20, PAR7, SCO16, UZB8
 
 | Código | Jugador | Nota |
 |--------|---------|------|
@@ -34,16 +36,11 @@ BEL18, BIH17, BRA10, BRA2, BRA3, BRA6, COD15, CPV14, CPV9, CRO5, ECU4, FRA16, GH
 | MAR20 | Ayoub El Kaabi | |
 | BIH17 | Ermedin Demirović | |
 | CRO5 | Josip Stanišić | |
-| COD15 | Meschak Elia | recupera `perdida` |
-| USA2 | Matt Freese | recupera `perdida` |
-| CPV9 | Yannick Semedo | |
-| CPV14 | Deroy Duarte | |
 | GHA4 | Mohammed Salisu | |
 | GHA8 | Caleb Yirenkyi | |
 | KOR3 | Kim Seung-gyu | |
 | MEX4 | Jorge Sánchez | |
 | MEX5 | César Montes | |
-| MEX12 | Marcel Ruiz | |
 | PAN18 | Cecilio Waterman | |
 | PAR7 | Omar Alderete | |
 | PAR11 | Damián Bobadilla | |
@@ -54,9 +51,9 @@ BEL18, BIH17, BRA10, BRA2, BRA3, BRA6, COD15, CPV14, CPV9, CRO5, ECU4, FRA16, GH
 
 ---
 
-## ⚠️ Solapamiento con Marcela (pendiente)
+## ✅ Solapamiento con Marcela — RESUELTO
 
-Estas 5 también las ofrece Marcela (canje pendiente, sin modelo definido): **COD15, CPV9, CPV14, MEX12, USA2**. Decidir de quién conviene tomarlas (no duplicar la compra).
+Las 5 que solapaban (**COD15, CPV9, CPV14, MEX12, USA2**) se toman de **Marcela** (se respetan sus 19 entrantes). Ya están fuera de la compra a Paulo.
 
 ## ⭐ Objetivo central
 
@@ -67,9 +64,8 @@ Estas 5 también las ofrece Marcela (canje pendiente, sin modelo definido): **CO
 ## Al ejecutar (checklist)
 
 ```
-[ ] Confirmar precio con Paulo (~$5.100 ref)
-[ ] Recibir las 31 físicas
-[ ] Registro: 29 falta→pegada + 2 perdida→pegada (COD15, USA2) — preguntar pegada/suelta
-[ ] Resolver solapamiento Marcela (5 códigos) antes de cerrar ambas
+[ ] Confirmar precio con Paulo (~$4.300 ref)
+[ ] Recibir las 26 físicas
+[ ] Registro: 26 falta→pegada — preguntar pegada/suelta
 [ ] Regenerar QR → Downloads → reimportar Figuritas
 ```
