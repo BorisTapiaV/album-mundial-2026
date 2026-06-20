@@ -2,10 +2,10 @@
 
 **Modelo:** ❓ por definir (mixto / aún no acordado)
 **Estado:** ⏳ PENDIENTE — no ejecutado. NO tocar registro.
-**Fecha cruce:** 2026-06-19
-**Balance potencial:** te da 19 netas / le puedes dar 23
+**Fecha cruce:** 2026-06-19 (re-cruzado post-batch Felipe+Catalina, registro a 756/980)
+**Balance potencial:** te da 19 netas / le puedes dar 24
 
-> Cruce hecho **descontando lo ya comprometido a Felipe (41) y Catalina (9)** para no ofrecer algo ya entregado. Si el barrido de las entrantes Felipe/Catalina revela alguna ya-pegada (→ repetida), el saliente podría ganar 1-2 opciones extra.
+> Cruce re-hecho contra el **registro ya actualizado** (Felipe+Catalina ejecutados). El entrante limpió CZE4/SWE18/TUN16 (ya pegadas).
 
 ---
 
@@ -37,11 +37,11 @@ Cruce: sus **repetidas** ∩ tus `falta`/`perdida`. Bruto 22; se excluyen **CZE4
 
 ---
 
-## ➡️ SALIENTE — tú le das (23 disponibles, repe efectiva)
+## ➡️ SALIENTE — tú le das (24 disponibles)
 
-Cruce: su **wantlist** ∩ tu pool de repetidas (ya descontado Felipe+Catalina).
+Cruce: su **wantlist** ∩ tu pool de repetidas (registro actual 756/980).
 
-AUS1 ✨(×2), AUS20, AUT15, BEL3, BEL10, BEL19, ENG2, GHA5, GHA9, GHA14 Kudus, GHA20, JOR6, JOR9, KOR20, KSA5, KSA9, NED15 Xavi Simons(×2), NZL6, PAR6, RSA11, TUR19, UZB1 ✨, UZB13
+AUS1 ✨, AUS20, AUT15, BEL3, BEL10, BEL19, ENG2, GHA5, GHA9, GHA14 Kudus, GHA20, JOR6, JOR9, KOR20, KSA5, KSA9, NED15 Xavi Simons, NZL6, PAR6, RSA11, TUR19, UZB1 ✨, UZB10, UZB13
 
 ---
 
