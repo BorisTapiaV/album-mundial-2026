@@ -147,12 +147,13 @@ muchos aficionados dicen "¿tienes a Messi?" en vez de "¿tienes ARG17?").
 
 ---
 
-## 8. Estado actual
+## 8. Estado actual (2026-06-21)
 
-- **Pegadas/tengo:** 1/980 (`COL6` Daniel Muñoz — pegada) · **Faltan:** 979 · **Repetidas:** 0.
-- Próximo: seguir dictando códigos a medida que se pegan; importar CSV a Sheets; imprimir
-  checklist + índice; confirmar precio unitario de faltante en tiendapanini.cl.
+- **Pegadas:** **825/980 (84,2%)** · **Faltan:** 145 · **Perdidas:** 10 · **Por conseguir:** 155 · **Repetidas:** 168 cartas / 130 códigos · **Brillantes:** 51/68.
+- **Endgame:** sobres cerrados (>80%). Cierre por canje 1:1 + faltantes oficiales (tiendapanini.cl, tope 30/pedido, abre ~fin jun).
+- **Pendientes clave:** ⭐ POR15 Cristiano y ARG17 Messi (compra suelta) · 4 "scomar" sin mapear · precio unitario faltante por confirmar.
+- **Fuente de verdad:** `registro_maestro.csv`; estado vivo en `DASHBOARD.md` (este doc es la bitácora de investigación/arquitectura, no el tracker diario).
 
 ---
 
-*Proyecto: `C:\Users\boris\PROJECTS\album-mundial-2026\`*
+*Proyecto: `C:\Users\boris\PROJECTS\Mundial-2026\album\`*

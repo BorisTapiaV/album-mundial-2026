@@ -1,7 +1,7 @@
 # Compra — Jorge Vásquez (2026-06-20)
 
 **Modelo:** compra directa — Jorge vende, **$200 CLP por lámina** (no es canje 1:1).
-**Estado:** PENDIENTE — no ejecutado. NO tocar registro hasta tener las láminas en mano.
+**Estado:** ⚠️ **SUPERADO (2026-06-21)** — era la **want-list completa** (179) generada a priori. Jorge terminó ofreciendo su stock real de **24**, todas compradas y pegadas → ver `JORGE_VASQUEZ_RESERVADAS_2026-06-21.md` (cerrado). Esta lista se conserva como referencia de lo que aún falta comprar/canjear (los 155 por conseguir post-canjes). ⭐ POR15 y ARG17 **NO** estaban en el stock de Jorge → siguen pendientes.
 **Fecha cruce:** 2026-06-20 (registro a 756/980, 77,1%).
 
 **Lista:** 179 láminas = todas las `falta` + `perdida` (224) **menos las 45 ya comprometidas** con Marcela (19 entrantes) y Paulo V2 (26 compra). Sin solapamiento entre ambos.

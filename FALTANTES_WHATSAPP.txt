@@ -1,50 +1,49 @@
-FIGURITAS QUE ME FALTAN ⚽ Mundial 2026 (293)
+FIGURITAS QUE ME FALTAN ⚽ Mundial 2026 (155)
 
-🌎 Especiales (8): FWC1, FWC2, FWC3, FWC4, FWC5, FWC6, FWC7, FWC8
+🌎 Especiales (5): FWC1, FWC4, FWC5, FWC6, FWC7
 🇩🇪 Alemania (3): GER6, GER10, GER18
-🇸🇦 Arabia Saudita (4): KSA2, KSA6, KSA7, KSA10
-🇩🇿 Argelia (7): ALG2, ALG6, ALG7, ALG10, ALG15, ALG19, ALG20
-🇦🇷 Argentina (10): ARG4, ARG5, ARG8, ARG9, ARG10, ARG14, ARG15, ARG17, ARG18, ARG19
-🇦🇺 Australia (3): AUS8, AUS17, AUS18
-🇦🇹 Austria (4): AUT3, AUT5, AUT8, AUT19
-🇧🇦 Bosnia (4): BIH1, BIH13, BIH17, BIH19
-🇧🇷 Brasil (10): BRA1, BRA2, BRA3, BRA6, BRA7, BRA10, BRA11, BRA12, BRA13, BRA17
-🇧🇪 Bélgica (3): BEL12, BEL17, BEL18
-🇨🇻 Cabo Verde (4): CPV1, CPV9, CPV14, CPV18
-🇨🇦 Canadá (10): CAN1, CAN3, CAN7, CAN11, CAN13, CAN15, CAN16, CAN17, CAN19, CAN20
-🇶🇦 Catar (10): QAT1, QAT3, QAT4, QAT9, QAT10, QAT11, QAT15, QAT16, QAT19, QAT20
-🇨🇿 Chequia (5): CZE3, CZE4, CZE8, CZE13, CZE17
-🇨🇴 Colombia (5): COL2, COL4, COL8, COL13, COL16
-🇰🇷 Corea del Sur (4): KOR3, KOR6, KOR13, KOR18
-🇨🇮 Costa de Marfil (5): CIV4, CIV9, CIV14, CIV15, CIV19
-🇭🇷 Croacia (6): CRO5, CRO9, CRO13, CRO14, CRO17, CRO18
-🇨🇼 Curazao (6): CUW2, CUW3, CUW4, CUW8, CUW13, CUW17
-🇪🇨 Ecuador (7): ECU2, ECU4, ECU7, ECU9, ECU12, ECU14, ECU20
-🇪🇬 Egipto (4): EGY1, EGY2, EGY13, EGY14
-🏴 Escocia (6): SCO4, SCO6, SCO7, SCO10, SCO15, SCO16
+🇸🇦 Arabia Saudita (1): KSA2
+🇩🇿 Argelia (2): ALG2, ALG6
+🇦🇷 Argentina (8): ARG4, ARG8, ARG9, ARG10, ARG14, ARG15, ARG17, ARG18
+🇦🇺 Australia (1): AUS18
+🇦🇹 Austria (2): AUT3, AUT5
+🇧🇦 Bosnia (3): BIH1, BIH13, BIH19
+🇧🇷 Brasil (5): BRA1, BRA7, BRA11, BRA12, BRA13
+🇨🇻 Cabo Verde (1): CPV1
+🇨🇦 Canadá (6): CAN1, CAN7, CAN13, CAN16, CAN17, CAN20
+🇶🇦 Catar (6): QAT1, QAT4, QAT10, QAT11, QAT16, QAT20
+🇨🇿 Chequia (3): CZE3, CZE13, CZE17
+🇨🇴 Colombia (2): COL2, COL4
+🇰🇷 Corea del Sur (2): KOR6, KOR13
+🇨🇮 Costa de Marfil (3): CIV4, CIV9, CIV14
+🇭🇷 Croacia (2): CRO9, CRO14
+🇨🇼 Curazao (1): CUW17
+🇪🇨 Ecuador (4): ECU2, ECU7, ECU9, ECU20
+🇪🇬 Egipto (2): EGY1, EGY2
+🏴 Escocia (2): SCO6, SCO7
 🇪🇸 España (5): ESP1, ESP2, ESP12, ESP15, ESP17
-🇺🇸 Estados Unidos (10): USA2, USA3, USA4, USA5, USA7, USA8, USA9, USA11, USA12, USA13
-🇫🇷 Francia (11): FRA1, FRA2, FRA3, FRA4, FRA6, FRA8, FRA10, FRA12, FRA13, FRA16, FRA17
-🇬🇭 Ghana (7): GHA3, GHA4, GHA7, GHA8, GHA10, GHA12, GHA17
-🇭🇹 Haití (6): HAI1, HAI4, HAI10, HAI12, HAI13, HAI17
-🏴 Inglaterra (3): ENG12, ENG13, ENG17
-🇮🇶 Irak (6): IRQ2, IRQ11, IRQ12, IRQ13, IRQ16, IRQ17
-🇯🇵 Japón (10): JPN6, JPN9, JPN10, JPN12, JPN13, JPN14, JPN15, JPN17, JPN18, JPN19
+🇺🇸 Estados Unidos (7): USA3, USA4, USA5, USA7, USA9, USA11, USA13
+🇫🇷 Francia (6): FRA2, FRA3, FRA6, FRA12, FRA13, FRA17
+🇬🇭 Ghana (2): GHA3, GHA7
+🇭🇹 Haití (3): HAI4, HAI10, HAI17
+🏴 Inglaterra (2): ENG12, ENG17
+🇮🇶 Irak (4): IRQ2, IRQ12, IRQ16, IRQ17
+🇯🇵 Japón (5): JPN6, JPN9, JPN10, JPN13, JPN15
 🇯🇴 Jordania (2): JOR4, JOR13
-🇲🇦 Marruecos (9): MAR5, MAR12, MAR13, MAR14, MAR15, MAR16, MAR17, MAR19, MAR20
-🇲🇽 México (7): MEX1, MEX2, MEX4, MEX5, MEX9, MEX12, MEX16
-🇳🇴 Noruega (9): NOR1, NOR4, NOR6, NOR8, NOR9, NOR10, NOR15, NOR17, NOR18
-🇳🇿 Nueva Zelanda (5): NZL1, NZL3, NZL11, NZL16, NZL20
-🇵🇦 Panamá (9): PAN3, PAN5, PAN7, PAN9, PAN10, PAN14, PAN15, PAN18, PAN19
-🇵🇾 Paraguay (12): PAR4, PAR5, PAR7, PAR8, PAR9, PAR11, PAR12, PAR14, PAR17, PAR18, PAR19, PAR20
-🇳🇱 Países Bajos (3): NED1, NED13, NED20
-🇵🇹 Portugal (10): POR2, POR3, POR5, POR8, POR10, POR11, POR15, POR16, POR19, POR20
-🇨🇩 RD Congo (5): COD2, COD10, COD11, COD15, COD19
-🇸🇳 Senegal (5): SEN3, SEN7, SEN10, SEN15, SEN19
+🇲🇦 Marruecos (5): MAR12, MAR14, MAR15, MAR16, MAR17
+🇲🇽 México (3): MEX1, MEX2, MEX16
+🇳🇴 Noruega (2): NOR1, NOR15
+🇳🇿 Nueva Zelanda (3): NZL1, NZL11, NZL20
+🇵🇦 Panamá (6): PAN3, PAN9, PAN10, PAN14, PAN15, PAN19
+🇵🇾 Paraguay (8): PAR4, PAR5, PAR8, PAR9, PAR12, PAR14, PAR17, PAR18
+🇳🇱 Países Bajos (1): NED1
+🇵🇹 Portugal (4): POR2, POR11, POR15, POR20
+🇨🇩 RD Congo (1): COD19
+🇸🇳 Senegal (2): SEN15, SEN19
 🇿🇦 Sudáfrica (3): RSA1, RSA9, RSA18
-🇸🇪 Suecia (5): SWE9, SWE13, SWE14, SWE18, SWE19
-🇨🇭 Suiza (5): SUI1, SUI2, SUI4, SUI6, SUI20
-🇹🇷 Turquía (5): TUR3, TUR4, TUR7, TUR8, TUR13
-🇹🇳 Túnez (4): TUN4, TUN5, TUN9, TUN16
+🇸🇪 Suecia (4): SWE9, SWE13, SWE14, SWE19
+🇨🇭 Suiza (2): SUI4, SUI20
+🇹🇷 Turquía (3): TUR3, TUR8, TUR13
+🇹🇳 Túnez (3): TUN4, TUN5, TUN9
 🇺🇾 Uruguay (3): URU2, URU7, URU11
-🇺🇿 Uzbekistan (6): UZB4, UZB8, UZB9, UZB12, UZB14, UZB17
+🇺🇿 Uzbekistan (2): UZB4, UZB9

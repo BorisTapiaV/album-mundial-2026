@@ -1,5 +1,7 @@
 # Checklist — Álbum Mundial 2026 (Panini)
 
+> ⚠️ **DEPRECADO (2026-06-21) — esqueleto manual día-1, NO refleja el estado real.** Inventario vivo en `registro_maestro.csv` (fuente de verdad) + checklist navegable actualizado en **`checklist_por_equipo.html`** (`gen_print.py`). Estado actual: **825/980 (84,2%)**. Se conserva solo como referencia del formato inicial.
+
 **Total:** 980 láminas · 48 selecciones × 20 (18 jugadores + 1 foto equipo + 1 escudo) + especiales
 **Leyenda:** ✅ tengo · ❌ falta · 🔁 repetida (n° = cuántas) · ⭐ mejor lámina (prioridad/valor)
 

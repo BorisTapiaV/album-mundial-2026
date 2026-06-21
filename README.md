@@ -19,9 +19,12 @@ Cerrar las 980 láminas gastando lo mínimo, usando el modelo del **coleccionist
 3. **Precios/valor:** búsqueda web (DR) → enciende el modelo de costo.
 4. **Decisión:** Claude calcula punto de cruce y costo para cerrar.
 
-## Estado
+## Estado (2026-06-21)
 - ✅ Ficha del álbum verificada (DR ejecutado 2026-06-01)
-- ⏳ Inventario: pendiente fotos de frente por equipo (empezar por Portugal)
-- ⏳ Falta: precio unitario servicio faltantes (tiendapanini.cl)
+- ✅ Inventario completo y vivo en `registro_maestro.csv` (fuente de verdad) + `DASHBOARD.md`
+- 🎉 **825/980 (84,2%)** — endgame: sobres cerrados, cierre por canje 1:1 + faltantes oficiales
+- ⭐ Pendientes clave: **POR15 Cristiano** y **ARG17 Messi** (ningún canje los trajo)
+- ⏳ Falta: precio unitario servicio faltantes (tiendapanini.cl, abre ~fin jun)
+- 👉 **Entry point real: `DASHBOARD.md`** (este README es solo orientación inicial)
 
 *Personal — no comercial. Separado de Veridia/Profiler.*

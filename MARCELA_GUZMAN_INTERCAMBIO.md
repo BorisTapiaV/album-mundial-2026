@@ -1,7 +1,7 @@
 # Canje — Marcela Guzmán
 
-**Modelo:** ❓ por definir (mixto / aún no acordado)
-**Estado:** ⏳ PENDIENTE — no ejecutado. NO tocar registro.
+**Modelo:** 🎁 **REGALO** (familia — su hijo es sobrino de Boris, primo de Leonor; no 1:1).
+**Estado:** ✅ **CERRADO Y EJECUTADO 2026-06-21** — **ENTRANTE**: 19 recibidas y pegadas (16 `falta→pegada` + 3 `perdida→pegada`: COD15, KSA6, USA2 + 2 foil FWC8/SUI1). **SALIENTE**: las 23 reales regaladas (`repetidas −1` c/u). AUT15 confirmado fantasma (repe=0) → no entró; lo que Boris recordó como "24" eran las 23 reales. Pool repetidas 191→168 cartas / 130 códigos. HAVE →825 (84,2%), perdidas →10, brillantes →51.
 **Fecha cruce:** 2026-06-19 (re-cruzado post-batch Felipe+Catalina, registro a 756/980)
 **Balance potencial:** te da 19 netas / le puedes dar 23
 

@@ -1,7 +1,7 @@
 # Compra — Paulo Salas (V2)
 
 **Modelo:** compra directa (Paulo **completó su álbum** → solo ofrece repetidas, no necesita nada).
-**Estado:** ⏳ PENDIENTE — no ejecutado. NO tocar registro.
+**Estado:** ✅ **CERRADO Y EJECUTADO 2026-06-21** — las 26 recibidas y pegadas (`falta→pegada`). Sin foil → brillantes sin cambio (49). HAVE 756→**782 (79,8%)**. QR regenerado + copiado a Downloads.
 **Fecha cruce:** 2026-06-19 (registro a 756/980, 77,1%)
 **Dirección:** una sola (Paulo te vende lo que te falta).
 **Referencia precio:** canje V1 fue ~$165/lámina (Andrés 2 = $9.000 / 56). 26 láminas ≈ **~$4.300 CLP** de referencia (a negociar con Paulo).
