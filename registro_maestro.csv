@@ -26,7 +26,7 @@ ALG4,Argelia,4,Youcef Atal,base,pegada,0,,DEF,Al-Sadd SC (QAT),17-05-1996,1.76,,
 ALG5,Argelia,5,Rayan Aït-Nouri,base,pegada,0,,DEF,Manchester City FC (ENG),06-06-2001,1.80,,high,38,84-85,2026-06-13
 ALG6,Argelia,6,Mohamed Amine Tougai,base,falta,0,,DEF,Esperance de Tunis (TUN),22-01-2000,1.91,,high,38,84-85,
 ALG7,Argelia,7,Aïssa Mandi,base,pegada,0,,DEF,LOSC Lille (FRA),22-10-1991,1.86,,high,38,84-85,
-ALG8,Argelia,8,Ismaël Bennacer,base,pegada,,,MED,Dinamo Zagreb (CRO),01-12-1997,1.75,,high,38,84-85,2026-06-14
+ALG8,Argelia,8,Ismaël Bennacer,base,pegada,1,,MED,Dinamo Zagreb (CRO),01-12-1997,1.75,,high,38,84-85,2026-06-14
 ALG9,Argelia,9,Houssem Aouar,base,pegada,0,,MED,Al-Ittihad (KSA),30-06-1998,1.75,,high,38,84-85,2026-06-13
 ALG10,Argelia,10,Hicham Boudaoui,base,pegada,0,,MED,OGC Nice (FRA),23-09-1999,1.75,,high,38,84-85,2026-06-19
 ALG11,Argelia,11,Ramiz Zerrouki,base,pegada,0,,MED,FC Twente (NED),26-05-1998,1.83,,high,38,84-85,2026-06-12
@@ -75,14 +75,14 @@ AUS13,Australia,13,Foto equipo,base,pegada,1,,,,,,,,15,36-37,
 AUS14,Australia,14,Aiden O'Neill,base,pegada,0,,MED,New York City FC (USA),04-07-1998,1.78,,high,15,36-37,2026-06-13
 AUS15,Australia,15,Connor Metcalfe,base,pegada,3,,MED,FC St. Pauli (GER),05-11-1999,1.78,,high,15,36-37,2026-06-14
 AUS16,Australia,16,Patrick Yazbek,base,pegada,0,,MED,Nashville SC (USA),02-04-2002,1.83,,med,15,36-37,
-AUS17,Australia,17,Craig Goodwin,base,pegada,1,repe extra Marcela/Jorge (ya pegada),DEL,Al-Wehda FC (KSA),16-12-1991,1.83,,med,15,36-37,2026-06-21
+AUS17,Australia,17,Craig Goodwin,base,pegada,0,repe extra Marcela/Jorge (ya pegada),DEL,Al-Wehda FC (KSA),16-12-1991,1.83,,med,15,36-37,2026-06-21
 AUS18,Australia,18,Kusini Yengi,base,falta,0,,DEL,Aberdeen FC (SCO),01-07-1999,1.88,,med,15,36-37,
 AUS19,Australia,19,Nestory Irankunda,base,pegada,2,,DEL,Watford FC (ENG),09-02-2006,1.75,,med,15,36-37,2026-06-14
 AUS20,Australia,20,Mohamed Touré,base,pegada,0,,DEL,Norwich City FC (ENG),26-03-2004,1.86,,med,15,36-37,
 AUT1,Austria,1,Escudo (foil),T2,pegada,0,escudo foil,,,,,,,39,86-87,2026-06-13
 AUT2,Austria,2,Alexander Schlager,base,pegada,0,,POR,RB Salzburg (AUT),01-02-1996,1.90,,high,39,86-87,2026-06-13
 AUT3,Austria,3,Patrick Pentz,base,falta,0,,POR,Brondby IF (DEN),02-01-1997,1.91,,med,39,86-87,
-AUT4,Austria,4,David Alaba,base,pegada,1,,DEF,Real Madrid CF (ESP),24-06-1992,1.80,,high,39,86-87,2026-06-13
+AUT4,Austria,4,David Alaba,base,pegada,0,,DEF,Real Madrid CF (ESP),24-06-1992,1.80,,high,39,86-87,2026-06-13
 AUT5,Austria,5,Kevin Danso,base,perdida,0,,DEF,Tottenham Hotspur FC (ENG),19-09-1998,1.90,,high,39,86-87,2026-06-06
 AUT6,Austria,6,Philipp Lienhart,base,pegada,0,,DEF,SC Freiburg (GER),11-07-1996,1.87,,high,39,86-87,2026-06-14
 AUT7,Austria,7,Stefan Posch,base,pegada,0,,DEF,Bologna FC (ITA),14-05-1997,1.89,,med,39,86-87,2026-06-18
