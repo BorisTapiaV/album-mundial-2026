@@ -639,3 +639,19 @@ Lote de **84 láminas** (sobres) abierto el 15-jun 22:28, registrado a posterior
 **Estado tras el lote:** **HAVE 595→631 (64%)** · Faltan 349 (incl. 22 perdidas) · Perdidas 23→**22** (QAT14) · **Pool repetidas 197→245 cartas / 165→197 códigos** · Brillantes 40→**43/68** (+3 escudos foil nuevos: POR1, SCO1, SEN1; los FWC del lote eran repes). **Sueltas pendientes de pegar: 36.** 🇵🇹 POR1 (escudo Portugal) entra — **POR15 Cristiano sigue faltando.**
 
 Derivados regenerados: `dashboard_share.html` + `gen_print.py --todo`.
+
+---
+
+## 🥤 Lote sobres COCA-COLA #1 — 2026-06-27 (sáb) · 12:23 · PEGADAS
+
+**Primer lote de sobres Coca-Cola.** 10 sobres × 3 láminas = **30 láminas**, **$14.000** ($1.400/sobre → ~$467/lámina). **Hallazgo:** los sobres Coca-Cola traen **mezcla** — set Team Believers (CC) **+ láminas normales de las 980**. No estaba documentado.
+
+**Parte CC (10 láminas → nuevo mini-registro `coca_cola.csv`, fuera de las 980):** 8 nuevas (CC3, CC4, CC5, CC6, CC7, CC9, CC10, CC14) + 2 repetidas (CC6, CC14). **Set Coca-Cola: 8/14.** Faltan CC1, CC2, CC8, CC11, CC12, CC13.
+
+**Parte 980 (20 láminas):** **1 nueva** — **MEX16 Santiago Giménez** (DEL AC Milan), `falta→pegada`. Las otras **19 repetidas** (ya pegadas): BRA5, SEN7, COL7, AUS6, ENG7, URU3, KSA7, BEL4, ESP5, NED5, ENG6, ENG8, MEX7, CRO5, CRO7, CRO16, SUI3, SUI5, SUI8.
+
+**Estado tras el lote:** **HAVE 825→826/980 (84,3%)** · Faltan 144 + 10 perdidas = 154 · **Pool repetidas 168→189 cartas / 130→146 códigos** · Brillantes 51/68. Sueltas pendientes: 0 (todas pegadas). 🇵🇹 **POR15 Cristiano sigue faltando.**
+
+**Modelo de costo Coca-Cola:** 9 láminas útiles de 30 ($14.000) = ~$1.556/útil, pero las CC repetidas (CC6, CC14) tienen reventa ~$2.600–5.000 c/u → el sobre Coca-Cola vale por las CC, no por la mezcla de 980.
+
+Derivados regenerados: QR Figuritas (826 tengo / 189 repe, copiado a Downloads) + `gen_dashboard.py` + `gen_print.py` + `gen_bit_map.py` + `gen_faltantes_txt.py`. Nuevo archivo `coca_cola.csv`.

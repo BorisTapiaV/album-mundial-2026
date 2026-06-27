@@ -1,6 +1,6 @@
 FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)
 Generado: 2026-06-17 · Boris Tapia
-Total faltan: 155/980  (falta=145 · perdida=10)
+Total faltan: 154/980  (falta=144 · perdida=10)
 ============================================================
 
 ## Especiales  (pág especiales) — faltan 5
@@ -10,10 +10,9 @@ Total faltan: 155/980  (falta=145 · perdida=10)
   FWC6    Canada - anfitrion (foil)
   FWC7    Mexico - anfitrion (foil)
 
-## México  (pág ) — faltan 3
+## México  (pág ) — faltan 2
   MEX1    Escudo (foil)
   MEX2    Luis Malagón
-  MEX16   Santiago Giménez
 
 ## Sudáfrica  (pág ) — faltan 3
   RSA1    Escudo (foil)
