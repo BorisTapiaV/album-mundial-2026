@@ -256,7 +256,7 @@ def lista_intercambio(rows):
 # Punto-en-el-tiempo: vaciar/editar cuando se cierren los canjes.
 #   2026-06-16: canjes Andres (13) + Jorge (AUT15) CERRADOS -> sin reservas activas.
 #   2026-06-18: 12 apartadas para Sobrina Catalina (canje abierto) -> vaciar al cerrar.
-RESERVADAS = {"USA18","AUS12","IRN16","IRN17","IRN18","IRN20","CPV12","FRA19","ARG2","AUT2","UZB1","UZB6"}
+RESERVADAS = set()  # vaciada 2026-06-27 (canjes Andres/Jorge/etc cerrados). Re-poblar solo si hay reserva activa.
 
 
 def _oa(r):
@@ -271,7 +271,7 @@ def repetidas_por_pais(rows):
     el mazo de canje en el mismo orden en que se abren las paginas. Excluye RESERVADAS."""
     rep = [r for r in rows
            if r.get("repetidas", "0") not in ("0", "") and r["codigo"] not in RESERVADAS]
-    rep.sort(key=lambda r: (_oa(r), int(r["slot"]) if r["slot"].isdigit() else 0))
+    rep.sort(key=lambda r: (r["equipo"].lower(), int(r["slot"]) if r["slot"].isdigit() else 0))
     # agrupar por equipo preservando el orden ya aplicado
     blocks, cur, cur_team = [], [], None
     for r in rep:
@@ -305,9 +305,9 @@ def repetidas_por_pais(rows):
         html.append("".join(lines))
     return page(
         "Album Mundial 2026 — Repetidas por pais (mazo de canje)",
-        f"{n_codes} codigos / {n_cards} cartas, en orden del album. "
-        f"Excluye {len(RESERVADAS)} reservadas a canje (Andres + Jorge). "
-        "xN = copias de ese codigo. Usa el buscador para hallar un codigo al toque.",
+        f"{n_codes} codigos / {n_cards} cartas, en orden alfabetico por pais. "
+        + (f"Excluye {len(RESERVADAS)} reservadas a canje. " if RESERVADAS else "")
+        + "xN = copias de ese codigo. Usa el buscador para hallar un codigo al toque.",
         "".join(html), "cols4")
 
 

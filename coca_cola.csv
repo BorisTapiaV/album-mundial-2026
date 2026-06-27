@@ -1,15 +1,15 @@
 codigo,nombre,estado,repetidas,notas,fecha_estado
-CC1,,falta,0,,
-CC2,,falta,0,,
-CC3,,pegada,0,,2026-06-27
-CC4,,pegada,0,,2026-06-27
-CC5,,pegada,0,,2026-06-27
-CC6,,pegada,1,,2026-06-27
-CC7,,pegada,0,,2026-06-27
-CC8,,falta,0,,
-CC9,,pegada,0,,2026-06-27
-CC10,,pegada,0,,2026-06-27
-CC11,,falta,0,,
-CC12,,falta,0,,
-CC13,,falta,0,,
-CC14,,pegada,1,,2026-06-27
+CC1,Lamine Yamal,falta,0,Espana | conf alta (2 fuentes LATAM),
+CC2,Joshua Kimmich,falta,0,Alemania | conf alta (2 fuentes LATAM),
+CC3,Harry Kane,pegada,0,Inglaterra | [VERIFICAR] conflicto regional (Europa=Camavinga) - Boris tiene la lamina,2026-06-27
+CC4,Santiago Gimenez,pegada,0,Mexico | conf alta (2 fuentes),2026-06-27
+CC5,Josko Gvardiol,pegada,0,Croacia | conf alta (2 fuentes),2026-06-27
+CC6,Federico Valverde,pegada,1,Uruguay | conf alta (LATAM; USA=Lerma),2026-06-27
+CC7,Jefferson Lerma,pegada,0,Colombia | [VERIFICAR] conflicto regional (USA=Edson Alvarez) - Boris tiene la lamina,2026-06-27
+CC8,Enner Valencia,falta,0,Ecuador | conf alta (2 fuentes LATAM),
+CC9,Gabriel Magalhaes,pegada,0,Brasil | [VERIFICAR] conflicto regional (otra=Saliba/Ayew) - Boris tiene la lamina,2026-06-27
+CC10,Virgil van Dijk,pegada,0,Paises Bajos | [VERIFICAR] (USA=McKennie) - Boris tiene la lamina,2026-06-27
+CC11,Alphonso Davies,falta,0,Canada | conf media (1 fuente LATAM),
+CC12,Emiliano Martinez,falta,0,Argentina | conf alta (2 fuentes),
+CC13,Raul Jimenez,falta,0,Mexico | conf alta (2 fuentes),
+CC14,Lautaro Martinez,pegada,1,Argentina | conf media (1 fuente LATAM) - Boris tiene la lamina,2026-06-27
