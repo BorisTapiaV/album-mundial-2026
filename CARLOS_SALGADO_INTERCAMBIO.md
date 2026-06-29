@@ -72,7 +72,6 @@
 - [x] Confirmar canje con Carlos (cerró 13×13 tras ajustes JPN13/HAI19).
 - [x] **✅ Recibir las 13** → ingresadas a `pegada` (29-jun). 10 `falta→pegada`, BRA12/COL2 `perdida→pegada`, CIV4 `pegada`+`repe 1`.
 - [x] **✅ Entregar las 13** → `repetidas −1` (AUS6/SUI3 conservan 1 copia; CC6 en `coca_cola.csv` a 0; HAI19 corrección `repe 1→0`).
-- [ ] Regenerar QR + artefactos tras ejecutar.
 
 </details>
 
