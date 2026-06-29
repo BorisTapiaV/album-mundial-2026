@@ -4,7 +4,16 @@
 
 # 🆕 CANJE #2 — 2026-06-28
 
-**Estado:** ⏳ **PENDIENTE (no ejecutado).** Análisis de 2 direcciones sobre nuevo set que mandó Carlos (sus faltantes + sus repetidas). Cruce contra registro al 826/980. **NO se toca el registro hasta tener las láminas en mano** (las entrantes siguen `falta`/`perdida`).
+**Estado:** ✅ **EJECUTADO (2026-06-29).** Swap físico realizado y registro actualizado (`registro_maestro.csv` + `coca_cola.csv`, `fecha_estado=2026-06-29`).
+
+**Ajustes finales sobre la oferta 14×14 original → quedó 13×13:**
+- **JPN13:** Boris no tenía **HAI19** en su mazo para entregar, así que **devolvió JPN13** (sigue `perdida`, no la conserva). El lado RECIBE bajó 14→13.
+- **HAI19:** el registro la tenía `repe=1` pero físicamente no estaba en el mazo → corregida `repe 1→0` (queda `pegada`, slot intacto). El lado DA bajó 14→13.
+- **CIV4:** ya estaba **pegada** físicamente (el registro decía `perdida` por error) → la recibida es **repetida**: estado `perdida→pegada` + `repe 0→1` (no recupera slot, ya estaba lleno).
+
+**Impacto real:** HAVE **827→839 (85,6%)**, perdidas 9→7. **POR15 Cristiano 🏆 entró.** +3 escudos foil (NED1/NOR1/RSA1).
+
+<details><summary>Plan original 14×14 (histórico, antes de ajustes)</summary>
 
 ## 🏆 LO GRANDE: este canje trae a CRISTIANO
 **POR15 Cristiano Ronaldo** está en las repetidas de Carlos y en `falta` para Boris = **objetivo central del álbum**. Ningún canje previo lo había traído. (Messi ARG17 NO: las repe ARG de Carlos son 6 y 7.)
@@ -60,10 +69,12 @@
 **Da 14 / recibe 14 — 1:1 limpio.** Del lado de Boris entra **Cristiano + Modrić + 3 escudos foil**. Excelente. De lo que Carlos ofrece, 88 ya las tiene Boris (descartadas).
 
 ## Estado
-- [ ] Confirmar canje con Carlos (oferta 14×14).
-- [ ] Recibir las 14 → ingresar `falta/perdida → tengo` (sueltas: flag ⏳, lección 06-06).
-- [ ] Entregar las 14 → `repetidas −1` (AUS6/SUI3 conservan 1 copia; CC6 en `coca_cola.csv`).
+- [x] Confirmar canje con Carlos (cerró 13×13 tras ajustes JPN13/HAI19).
+- [x] **✅ Recibir las 13** → ingresadas a `pegada` (29-jun). 10 `falta→pegada`, BRA12/COL2 `perdida→pegada`, CIV4 `pegada`+`repe 1`.
+- [x] **✅ Entregar las 13** → `repetidas −1` (AUS6/SUI3 conservan 1 copia; CC6 en `coca_cola.csv` a 0; HAI19 corrección `repe 1→0`).
 - [ ] Regenerar QR + artefactos tras ejecutar.
+
+</details>
 
 ---
 
