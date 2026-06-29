@@ -1,5 +1,74 @@
 # Canje — Carlos Salgado
 
+---
+
+# 🆕 CANJE #2 — 2026-06-28
+
+**Estado:** ⏳ **PENDIENTE (no ejecutado).** Análisis de 2 direcciones sobre nuevo set que mandó Carlos (sus faltantes + sus repetidas). Cruce contra registro al 826/980. **NO se toca el registro hasta tener las láminas en mano** (las entrantes siguen `falta`/`perdida`).
+
+## 🏆 LO GRANDE: este canje trae a CRISTIANO
+**POR15 Cristiano Ronaldo** está en las repetidas de Carlos y en `falta` para Boris = **objetivo central del álbum**. Ningún canje previo lo había traído. (Messi ARG17 NO: las repe ARG de Carlos son 6 y 7.)
+
+## Decisión de Boris
+- **Se omite CC1 (Lamine Yamal)** de lo que pide, pese a necesitarla → así el canje queda **14×14 parejo** y **Cristiano no queda "en juego"** (sin desbalance que Carlos pueda usar para sacar a CR de la mesa).
+
+## ⬅️ Boris RECIBE — 14 (todas `falta`/`perdida`)
+**Códigos seguidos:**
+`POR15, CRO9, NED1, NOR1, RSA1, BRA11, CAN7, CAN13, IRQ2, SUI4, BRA12, CIV4, COL2, JPN13`
+
+| Código | Jugador | Estado Boris | Nota |
+|---|---|---|---|
+| **POR15** | **Cristiano Ronaldo** | falta | 🏆🎯 OBJETIVO CENTRAL |
+| CRO9 | Luka Modrić | falta | ⭐ |
+| NED1 | Escudo (foil) | falta | ✨ brillante |
+| NOR1 | Escudo (foil) | falta | ✨ brillante |
+| RSA1 | Escudo (foil) | falta | ✨ brillante |
+| BRA11 | Bruno Guimarães | falta | |
+| CAN7 | Derek Cornelius | falta | |
+| CAN13 | Foto equipo | falta | |
+| IRQ2 | Jalal Hassan | falta | |
+| SUI4 | Manuel Akanji | falta | |
+| BRA12 | Luiz Henrique | **perdida** | recupera perdida |
+| CIV4 | Wilfried Singo | **perdida** | recupera perdida |
+| COL2 | Camilo Vargas | **perdida** | recupera perdida |
+| JPN13 | Foto equipo | **perdida** | recupera perdida |
+
+> Al pegar: 10 nuevas (`falta→pegada`) + 4 recuperan perdida → **HAVE 826→840 (85,7%)**, perdidas 10→6, brillantes 51→54 (NED1/NOR1/RSA1). **POR15 Cristiano por fin entra.**
+
+## ➡️ Boris DA — 14 (de sus repetidas que Carlos busca)
+**Códigos seguidos:**
+`ALG8, AUS6, BEL4, CRO5, EGY11, ENG6, ENG10, HAI19, IRN3, KSA7, SEN18, SUI3, SUI17, CC6`
+
+| Código | Jugador | Copias Boris | Al entregar queda |
+|---|---|:-:|:-:|
+| ALG8 | Ismaël Bennacer | x1 | 0 repe |
+| AUS6 | Jordan Bos | **x2** | 1 repe (conserva copia) |
+| BEL4 | Timothy Castagne | x1 | 0 repe |
+| CRO5 | Josip Stanišić | x1 | 0 repe |
+| EGY11 | Zizo | x1 | 0 repe |
+| ENG6 | Trent Alexander-Arnold | x1 | 0 repe |
+| ENG10 | Declan Rice ⭐ | x1 | 0 repe |
+| HAI19 | Louicius Deedson | x1 | 0 repe |
+| IRN3 | Morteza Pouraliganji | x1 | 0 repe |
+| KSA7 | Moteb Al-Harbi | x1 | 0 repe |
+| SEN18 | Iliman Ndiaye | x1 | 0 repe |
+| SUI3 | Yvon Mvogo | **x2** | 1 repe (conserva copia) |
+| SUI17 | Breel Embolo | x1 | 0 repe |
+| CC6 | Federico Valverde (Coca-Cola) | x1 | 0 repe |
+
+## ⚖️ Balance
+**Da 14 / recibe 14 — 1:1 limpio.** Del lado de Boris entra **Cristiano + Modrić + 3 escudos foil**. Excelente. De lo que Carlos ofrece, 88 ya las tiene Boris (descartadas).
+
+## Estado
+- [ ] Confirmar canje con Carlos (oferta 14×14).
+- [ ] Recibir las 14 → ingresar `falta/perdida → tengo` (sueltas: flag ⏳, lección 06-06).
+- [ ] Entregar las 14 → `repetidas −1` (AUS6/SUI3 conservan 1 copia; CC6 en `coca_cola.csv`).
+- [ ] Regenerar QR + artefactos tras ejecutar.
+
+---
+
+## CANJE #1 — histórico
+
 **Estado 2026-06-16:** ✅ **CANJE CERRADO.** Boris entregó sus 14 (ejecutado en registro 15-jun). Carlos entregó sus 14 + el lote extra → **POR6 + URU3 también recibidas**. Las **16 recibidas SUELTAS** (pendiente pegar) → `falta→tengo` en registro 16-jun. **HAVE 564→580 (59,2%).**
 
 **Recibido 2026-06-15.** Carlos pasó su wantlist (lo que le falta). Cruce contra repetidas de Boris (estado 564/980), **excluyendo lo ya reservado a Andrés Acosta y Jorge Vásquez**.
