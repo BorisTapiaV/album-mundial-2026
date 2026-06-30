@@ -12,6 +12,7 @@ Tomar captura o renderizar a PNG con Edge headless.
 Me faltan = estado 'falta' o 'perdida'. Orden = orden del album (orden_album, luego slot).
 """
 import csv
+from reservadas import load_reservadas_entrantes
 
 REG = "registro_maestro.csv"
 FECHA = "2026-06-17"
@@ -84,7 +85,8 @@ def page(cards_html, total, cols, big, subtitle):
 def main():
     with open(REG, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
-    miss = [r for r in rows if r["estado"] in ("falta", "perdida")]
+    reserv = load_reservadas_entrantes()  # entrantes pendientes: no listarlas como faltantes
+    miss = [r for r in rows if r["estado"] in ("falta", "perdida") and r["codigo"] not in reserv]
     miss.sort(key=lambda r: (int(r["orden_album"] or 999), int(r["slot"] or 0)))
     order = []
     for r in miss:

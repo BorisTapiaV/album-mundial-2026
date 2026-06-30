@@ -10,6 +10,7 @@ Genera:
 Me faltan = estado 'falta' o 'perdida'. Orden detalle = orden del album.
 """
 import csv
+from reservadas import load_reservadas_entrantes
 
 REG = "registro_maestro.csv"
 FECHA = "2026-06-17"
@@ -67,7 +68,9 @@ def page_label(rows_all, equipo):
 
 def main():
     rows = load()
-    miss = [r for r in rows if r["estado"] in ("falta", "perdida")]
+    reserv = load_reservadas_entrantes()  # entrantes pendientes: tratar como "ya las tengo"
+    miss = [r for r in rows if r["estado"] in ("falta", "perdida") and r["codigo"] not in reserv]
+    n_reserv = sum(1 for r in rows if r["estado"] in ("falta", "perdida") and r["codigo"] in reserv)
     n_falta = sum(1 for r in miss if r["estado"] == "falta")
     n_perd = sum(1 for r in miss if r["estado"] == "perdida")
     total = len(miss)
@@ -78,6 +81,8 @@ def main():
     out.append("FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)")
     out.append(f"Generado: {FECHA} · Boris Tapia")
     out.append(f"Total faltan: {total}/980  (falta={n_falta} · perdida={n_perd})")
+    if n_reserv:
+        out.append(f"(excluidas {n_reserv} reservadas entrantes — canje pendiente)")
     out.append("=" * 60)
     out.append("")
     for eq, rs in groups:

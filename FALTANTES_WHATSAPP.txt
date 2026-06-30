@@ -1,49 +1,44 @@
-FIGURITAS QUE ME FALTAN ⚽ Mundial 2026 (154)
+FIGURITAS QUE ME FALTAN ⚽ Mundial 2026 (124)
 
 🌎 Especiales (5): FWC1, FWC4, FWC5, FWC6, FWC7
 🇩🇪 Alemania (3): GER6, GER10, GER18
 🇸🇦 Arabia Saudita (1): KSA2
 🇩🇿 Argelia (2): ALG2, ALG6
-🇦🇷 Argentina (8): ARG4, ARG8, ARG9, ARG10, ARG14, ARG15, ARG17, ARG18
+🇦🇷 Argentina (6): ARG4, ARG8, ARG9, ARG14, ARG15, ARG17
 🇦🇺 Australia (1): AUS18
-🇦🇹 Austria (2): AUT3, AUT5
 🇧🇦 Bosnia (3): BIH1, BIH13, BIH19
-🇧🇷 Brasil (5): BRA1, BRA7, BRA11, BRA12, BRA13
-🇨🇻 Cabo Verde (1): CPV1
-🇨🇦 Canadá (6): CAN1, CAN7, CAN13, CAN16, CAN17, CAN20
-🇶🇦 Catar (6): QAT1, QAT4, QAT10, QAT11, QAT16, QAT20
-🇨🇿 Chequia (3): CZE3, CZE13, CZE17
-🇨🇴 Colombia (2): COL2, COL4
+🇧🇷 Brasil (3): BRA1, BRA7, BRA13
+🇨🇦 Canadá (4): CAN1, CAN16, CAN17, CAN20
+🇶🇦 Catar (4): QAT1, QAT4, QAT10, QAT11
+🇨🇿 Chequia (2): CZE13, CZE17
+🇨🇴 Colombia (1): COL4
 🇰🇷 Corea del Sur (2): KOR6, KOR13
-🇨🇮 Costa de Marfil (3): CIV4, CIV9, CIV14
-🇭🇷 Croacia (2): CRO9, CRO14
-🇨🇼 Curazao (1): CUW17
+🇨🇮 Costa de Marfil (2): CIV9, CIV14
+🇭🇷 Croacia (1): CRO14
 🇪🇨 Ecuador (4): ECU2, ECU7, ECU9, ECU20
 🇪🇬 Egipto (2): EGY1, EGY2
 🏴 Escocia (2): SCO6, SCO7
 🇪🇸 España (5): ESP1, ESP2, ESP12, ESP15, ESP17
 🇺🇸 Estados Unidos (7): USA3, USA4, USA5, USA7, USA9, USA11, USA13
-🇫🇷 Francia (6): FRA2, FRA3, FRA6, FRA12, FRA13, FRA17
+🇫🇷 Francia (4): FRA2, FRA3, FRA12, FRA17
 🇬🇭 Ghana (2): GHA3, GHA7
 🇭🇹 Haití (3): HAI4, HAI10, HAI17
 🏴 Inglaterra (2): ENG12, ENG17
-🇮🇶 Irak (4): IRQ2, IRQ12, IRQ16, IRQ17
+🇮🇶 Irak (3): IRQ12, IRQ16, IRQ17
 🇯🇵 Japón (5): JPN6, JPN9, JPN10, JPN13, JPN15
 🇯🇴 Jordania (2): JOR4, JOR13
-🇲🇦 Marruecos (5): MAR12, MAR14, MAR15, MAR16, MAR17
+🇲🇦 Marruecos (3): MAR12, MAR15, MAR17
 🇲🇽 México (2): MEX1, MEX2
-🇳🇴 Noruega (2): NOR1, NOR15
+🇳🇴 Noruega (1): NOR15
 🇳🇿 Nueva Zelanda (3): NZL1, NZL11, NZL20
 🇵🇦 Panamá (6): PAN3, PAN9, PAN10, PAN14, PAN15, PAN19
-🇵🇾 Paraguay (8): PAR4, PAR5, PAR8, PAR9, PAR12, PAR14, PAR17, PAR18
-🇳🇱 Países Bajos (1): NED1
-🇵🇹 Portugal (4): POR2, POR11, POR15, POR20
+🇵🇾 Paraguay (7): PAR4, PAR8, PAR9, PAR12, PAR14, PAR17, PAR18
+🇵🇹 Portugal (3): POR2, POR11, POR20
 🇨🇩 RD Congo (1): COD19
 🇸🇳 Senegal (2): SEN15, SEN19
-🇿🇦 Sudáfrica (3): RSA1, RSA9, RSA18
+🇿🇦 Sudáfrica (2): RSA9, RSA18
 🇸🇪 Suecia (4): SWE9, SWE13, SWE14, SWE19
-🇨🇭 Suiza (2): SUI4, SUI20
-🇹🇷 Turquía (3): TUR3, TUR8, TUR13
+🇹🇷 Turquía (2): TUR3, TUR13
 🇹🇳 Túnez (3): TUN4, TUN5, TUN9
 🇺🇾 Uruguay (3): URU2, URU7, URU11
-🇺🇿 Uzbekistan (2): UZB4, UZB9
+🇺🇿 Uzbekistan (1): UZB4

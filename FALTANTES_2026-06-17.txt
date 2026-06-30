@@ -1,6 +1,7 @@
 FALTANTES — Álbum Panini FIFA World Cup 2026 (edición Chile)
 Generado: 2026-06-17 · Boris Tapia
-Total faltan: 154/980  (falta=144 · perdida=10)
+Total faltan: 124/980  (falta=118 · perdida=6)
+(excluidas 17 reservadas entrantes — canje pendiente)
 ============================================================
 
 ## Especiales  (pág especiales) — faltan 5
@@ -14,8 +15,7 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   MEX1    Escudo (foil)
   MEX2    Luis Malagón
 
-## Sudáfrica  (pág ) — faltan 3
-  RSA1    Escudo (foil)
+## Sudáfrica  (pág ) — faltan 2
   RSA9    Khuliso Mudau
   RSA18   Iqraam Rayners
 
@@ -23,15 +23,12 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   KOR6    Seol Young-woo
   KOR13   Foto equipo
 
-## Chequia  (pág ) — faltan 3
-  CZE3    Jindrich Stanek
+## Chequia  (pág ) — faltan 2
   CZE13   Foto equipo
   CZE17   Tomas Chory
 
-## Canadá  (pág ) — faltan 6
+## Canadá  (pág ) — faltan 4
   CAN1    Escudo (foil)
-  CAN7    Derek Cornelius
-  CAN13   Foto equipo
   CAN16   Niko Sigur
   CAN17   Tajon Buchanan
   CAN20   Jonathan David
@@ -41,30 +38,20 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   BIH13   Foto equipo
   BIH19   Samed Baždar
 
-## Catar  (pág ) — faltan 6
+## Catar  (pág ) — faltan 4
   QAT1    Escudo (foil)
   QAT4    Lucas Mendes
   QAT10   Karim Boudiaf
   QAT11   Assim Madibo
-  QAT16   Hassan Al-Haydos
-  QAT20   Almoez Ali
 
-## Suiza  (pág ) — faltan 2
-  SUI4    Manuel Akanji
-  SUI20   Zeki Amdouni
-
-## Brasil  (pág ) — faltan 5
+## Brasil  (pág ) — faltan 3
   BRA1    Escudo (foil)
   BRA7    Danilo
-  BRA11   Bruno Guimarães
-  BRA12   Luiz Henrique  [PERDIDA]
   BRA13   Foto equipo
 
-## Marruecos  (pág ) — faltan 5
+## Marruecos  (pág ) — faltan 3
   MAR12   Eliesse Ben Seghir
-  MAR14   Bilal El Khannouss
   MAR15   Ismael Saibari
-  MAR16   Youssef En-Nesyri
   MAR17   Abde Ezzalzouli
 
 ## Haití  (pág ) — faltan 3
@@ -85,9 +72,8 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   USA11   Christian Roldan
   USA13   Foto equipo
 
-## Paraguay  (pág ) — faltan 8
+## Paraguay  (pág ) — faltan 7
   PAR4    Gustavo Gómez
-  PAR5    Fabián Balbuena
   PAR8    Junior Alonso
   PAR9    Mathías Villasanti
   PAR12   Andrés Cubas
@@ -98,9 +84,8 @@ Total faltan: 154/980  (falta=144 · perdida=10)
 ## Australia  (pág ) — faltan 1
   AUS18   Kusini Yengi
 
-## Turquía  (pág ) — faltan 3
+## Turquía  (pág ) — faltan 2
   TUR3    Mert Müldür
-  TUR8    Ferdi Kadıoğlu
   TUR13   Foto equipo
 
 ## Alemania  (pág ) — faltan 3
@@ -108,11 +93,7 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   GER10   Joshua Kimmich
   GER18   Leroy Sané
 
-## Curazao  (pág ) — faltan 1
-  CUW17   Jurgen Locadia
-
-## Costa de Marfil  (pág ) — faltan 3
-  CIV4    Wilfried Singo  [PERDIDA]
+## Costa de Marfil  (pág ) — faltan 2
   CIV9    Ousmane Diomandé
   CIV14   Jean-Philippe Gbamin
 
@@ -121,9 +102,6 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   ECU7    Ángelo Preciado
   ECU9    Moisés Caicedo
   ECU20   Enner Valencia
-
-## Países Bajos  (pág ) — faltan 1
-  NED1    Escudo (foil)
 
 ## Japón  (pág ) — faltan 5
   JPN6    Shogo Taniguchi
@@ -159,9 +137,6 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   ESP15   Lamine Yamal
   ESP17   Nico Williams
 
-## Cabo Verde  (pág ) — faltan 1
-  CPV1    Escudo (foil)
-
 ## Arabia Saudita  (pág ) — faltan 1
   KSA2    Nawaf Alaqidi
 
@@ -170,73 +145,59 @@ Total faltan: 154/980  (falta=144 · perdida=10)
   URU7    Mathías Olivera
   URU11   Giorgian De Arrascaeta
 
-## Francia  (pág ) — faltan 6
+## Francia  (pág ) — faltan 4
   FRA2    Mike Maignan
   FRA3    Theo Hernández
-  FRA6    Ibrahima Konaté
   FRA12   Adrien Rabiot
-  FRA13   Foto equipo
   FRA17   Désiré Doué
 
 ## Senegal  (pág ) — faltan 2
   SEN15   Sadio Mané
   SEN19   Nicolas Jackson
 
-## Irak  (pág ) — faltan 4
-  IRQ2    Jalal Hassan
+## Irak  (pág ) — faltan 3
   IRQ12   Ali Jasim
   IRQ16   Marko Farji
   IRQ17   Osama Rashid
 
-## Noruega  (pág ) — faltan 2
-  NOR1    Escudo (foil)
+## Noruega  (pág ) — faltan 1
   NOR15   Erling Haaland
 
-## Argentina  (pág ) — faltan 8
+## Argentina  (pág ) — faltan 6
   ARG4    Cristian Romero
   ARG8    Enzo Fernández  [PERDIDA]
   ARG9    Alexis Mac Allister
-  ARG10   Rodrigo De Paul
   ARG14   Nico Paz
   ARG15   Franco Mastantuono
   ARG17   Lionel Messi  [PERDIDA]
-  ARG18   Lautaro Martínez
 
 ## Argelia  (pág ) — faltan 2
   ALG2    Alexis Guendouz  [PERDIDA]
   ALG6    Mohamed Amine Tougai
 
-## Austria  (pág ) — faltan 2
-  AUT3    Patrick Pentz
-  AUT5    Kevin Danso  [PERDIDA]
-
 ## Jordania  (pág ) — faltan 2
   JOR4    Mohammad Abu Hashish
   JOR13   Foto equipo
 
-## Portugal  (pág ) — faltan 4
+## Portugal  (pág ) — faltan 3
   POR2    Diogo Costa
   POR11   Rúben Neves
-  POR15   Cristiano Ronaldo
   POR20   Rafael Leão
 
 ## RD Congo  (pág ) — faltan 1
   COD19   Cédric Bakambu
 
-## Uzbekistan  (pág ) — faltan 2
+## Uzbekistan  (pág ) — faltan 1
   UZB4    Sherzod Nasrullaev
-  UZB9    Abdukodir Khusanov
 
-## Colombia  (pág ) — faltan 2
-  COL2    Camilo Vargas  [PERDIDA]
+## Colombia  (pág ) — faltan 1
   COL4    Dávinson Sánchez
 
 ## Inglaterra  (pág ) — faltan 2
   ENG12   Cole Palmer
   ENG17   Bukayo Saka
 
-## Croacia  (pág ) — faltan 2
-  CRO9    Luka Modrić
+## Croacia  (pág ) — faltan 1
   CRO14   Mario Pašalić
 
 ## Ghana  (pág ) — faltan 2
